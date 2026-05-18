@@ -177,3 +177,119 @@ http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlbdk5YQFF_esbAejC0CBIs/m3u8
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHu4LAgtAHApGEy5aPNofor4/m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/9xm.png" group-title="BDIX 2",9XM
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhjnZjUgg34Y2_xlUrBegDA/m3u8
+
+#EXTM3U
+#EXTINF:-1, BBC EARTH HD
+http://202.70.146.135:8000/play/a067/index.m3u8
+#EXTINF:-1, TEN 2 HD
+http://202.70.146.135:8000/play/a06n/index.m3u8
+#EXTINF:-1, &flix HD - Rs 19.00
+http://202.70.146.135:8000/play/a06s/index.m3u8
+#EXTINF:-1, &pictures HD - Rs 19.00
+http://202.70.146.135:8000/play/a06b/index.m3u8
+#EXTINF:-1, &tv HD - Rs 19.00
+http://202.70.146.135:8000/play/a06c/index.m3u8
+#EXTINF:-1, Colors Cineplex - Rs 19.00
+http://202.70.146.135:8000/play/a01b/index.m3u8
+#EXTINF:-1, Colors Cineplex Bollywood - Rs 0.10
+http://202.70.146.135:8000/play/a058/index.m3u8
+#EXTINF:-1, Colors Cineplex HD - Rs 19.00
+http://202.70.146.135:8000/play/a01x/index.m3u8
+#EXTINF:-1, Colors HD - Rs 19.00
+http://202.70.146.135:8000/play/a00b/index.m3u8
+#EXTINF:-1, Colors Tamil HD - Rs 7.00
+http://202.70.146.135:8000/play/a06o/index.m3u8
+#EXTINF:-1, D Tamil - Rs 3.50
+http://202.70.146.135:8000/play/a054/index.m3u8
+#EXTINF:-1, Discovery HD - Rs 8.00
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1, Discovery Science - Rs 1.00
+http://202.70.146.135:8000/play/a060/index.m3u8
+#EXTINF:-1, Discovery Turbo - Rs 1.00
+http://202.70.146.135:8000/play/a050/index.m3u8
+#EXTINF:-1, Disney Channel - Rs 10.00
+http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1, Disney International HD - Rs 19.00
+http://202.70.146.135:8000/play/a04p/index.m3u8
+#EXTINF:-1, ETV HD - Rs 19.00
+http://202.70.146.135:8000/play/a02b/index.m3u8
+#EXTINF:-1, Eurosport HD - Rs 6.00
+http://202.70.146.135:8000/play/a05s/index.m3u8
+#EXTINF:-1, History TV18 HD - Rs 7.00
+http://202.70.146.135:8000/play/a065/index.m3u8
+#EXTINF:-1, MNX - Rs 5.00
+http://202.70.146.135:8000/play/a052/index.m3u8
+#EXTINF:-1, Movies Now HD - Rs 14.00
+http://202.70.146.135:8000/play/a057/index.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1, Nat Geo Wild HD - Rs 8.00
+http://202.70.146.135:8000/play/a05j/index.m3u8
+#EXTINF:-1, Nick  - Rs 6.00
+http://202.70.146.135:8000/play/a04c/index.m3u8
+#EXTINF:-1, Nick Jr. - Rs 1.00
+http://202.70.146.135:8000/play/a02n/index.m3u8
+#EXTINF:-1, Romedy Now - Rs 5.00
+http://202.70.146.135:8000/play/a05x/index.m3u8
+#EXTINF:-1, SET HD - Rs 19.00
+http://202.70.146.135:8000/play/a005/index.m3u8
+#EXTINF:-1, SONY MAX HD
+http://202.70.146.135:8000/play/a01g/index.m3u8
+#EXTINF:-1, SONY PIX HD
+http://202.70.146.135:8000/play/a06p/index.m3u8
+#EXTINF:-1, SONY SAB HD - Rs 19.00
+http://202.70.146.135:8000/play/a025/index.m3u8
+#EXTINF:-1, SONY SPORTS TEN 5 HD - Rs 25.00
+http://202.70.146.135:8000/play/a09r/index.m3u8
+#EXTINF:-1, STAR GOLD HD - Rs 19.00
+http://202.70.146.135:8000/play/a02a/index.m3u8
+#EXTINF:-1, STAR Maa HD - Rs 22.00
+http://202.70.146.135:8000/play/a02z/index.m3u8
+#EXTINF:-1, STAR Movies HD - Rs 19.00
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#EXTINF:-1, STAR Plus HD - Rs 22.00
+http://202.70.146.135:8000/play/a009/index.m3u8
+#EXTINF:-1, Sonic - Rs 1.00
+http://202.70.146.135:8000/play/a02t/index.m3u8
+#EXTINF:-1, Sports 18 - 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a04b/index.m3u8
+#EXTINF:-1, Sports 18 3 - Rs 4.00
+http://202.70.146.135:8000/play/a026/index.m3u8
+#EXTINF:-1, Star Gold 2 - Rs 3.00
+http://202.70.146.135:8000/play/a02d/index.m3u8
+#EXTINF:-1, Star Gold 2 HD - Rs 5.00
+http://202.70.146.135:8000/play/a04q/index.m3u8
+#EXTINF:-1, Star Gold Romance - Rs 2.00
+http://202.70.146.135:8000/play/a044/index.m3u8
+#EXTINF:-1, Star Gold Select HD - Rs 8.00
+http://202.70.146.135:8000/play/a068/index.m3u8
+#EXTINF:-1, Star Gold Thrills - Rs 2.00
+http://202.70.146.135:8000/play/a024/index.m3u8
+#EXTINF:-1, Star Pravah HD - Rs 19.00
+http://202.70.146.135:8000/play/a049/index.m3u8
+#EXTINF:-1, Star Sports 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a00a/index.m3u8
+#EXTINF:-1, Star Sports 1 Hindi HD - Rs 19.00
+http://202.70.146.135:8000/play/a01e/index.m3u8
+#EXTINF:-1, Star Sports Select 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a03c/index.m3u8
+#EXTINF:-1, Star Sports Select 2 HD - Rs 15.00
+http://202.70.146.135:8000/play/a03e/index.m3u8
+#EXTINF:-1, Sun Music HD - Rs 19.00
+http://202.70.146.135:8000/play/a06k/index.m3u8
+#EXTINF:-1, TLC HD - Rs 3.00
+http://202.70.146.135:8000/play/a05i/index.m3u8
+#EXTINF:-1, Travelxp HD - Rs 9.00
+http://202.70.146.135:8000/play/a04o/index.m3u8
+#EXTINF:-1, Vijay Super - Rs 10.00
+http://202.70.146.135:8000/play/a008/index.m3u8
+#EXTINF:-1, Zee Bangla Cinema - Rs 10.00
+http://202.70.146.135:8000/play/a037/index.m3u8
+#EXTINF:-1, Zee Cafe HD - Rs 10.00
+http://202.70.146.135:8000/play/a04n/index.m3u8
+#EXTINF:-1, Zee Cinema HD - Rs 19.00
+http://202.70.146.135:8000/play/a03f/index.m3u8
+#EXTINF:-1, Zee Marathi HD - Rs 19.00
+http://202.70.146.135:8000/play/a04d/index.m3u8
+#EXTINF:-1, Zee TV HD - Rs 19.00
+http://202.70.146.135:8000/play/a04g/index.m3u8
