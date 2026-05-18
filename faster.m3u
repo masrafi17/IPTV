@@ -1,295 +1,179 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/1live.png" group-title="BDIX 2",1LIVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/1live.png" group-title="Fast",1LIVE
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmgSiT8v2PQQqUTUSCWavCI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ipl-bangla.png" group-title="BDIX 2",IPL BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ipl-bangla.png" group-title="Fast",IPL BANGLA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHttxTG4bANZW7zUQ_JlmUbM/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/t-sports.png" group-title="BDIX 2",T SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/t-sports.png" group-title="Fast",T SPORTS
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmgSiT8v2PQQqUTUSCWavCI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-ten-1.png" group-title="BDIX 2",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-ten-1.png" group-title="Fast",SONY SPORTS TEN 1 HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHh-UxB610FciBF1Tj_bGNKI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/nagorik-tv.png" group-title="BDIX 2",NAGORIK TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/nagorik-tv.png" group-title="Fast",NAGORIK TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHgGF3Kt-wtQAHmegTeUK6ms/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/fancode.png" group-title="BDIX 2",FANCODE
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/fancode.png" group-title="Fast",FANCODE
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvT8fGGYNJtmzXP-uaQ-2Yg/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" group-title="BDIX 2",WILLOW TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" group-title="Fast",WILLOW TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvSSYAHFV1g0pFbOXu7GMJM/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-2.png" group-title="BDIX 2",STAR SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-2.png" group-title="Fast",STAR SPORTS 2
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHohKF4H7nKD0n_EenyefoTE/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-1.png" group-title="BDIX 2",STAR SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-1.png" group-title="Fast",STAR SPORTS 1
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuVlGRAaKYcIN0heTvETivU/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-8.png" group-title="BDIX 2",SONY AATH
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-8.png" group-title="Fast",SONY AATH
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlBxumBQDxpSbB4cjkzCNPU/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sun-বল.png" group-title="BDIX 2",SUN BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sun-বল.png" group-title="Fast",SUN BANGLA HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnGf1-640ZKlGJmeX-ck5IM/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/colors-bangla-hd.png" group-title="BDIX 2",COLORS BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/colors-bangla-hd.png" group-title="Fast",COLORS BANGLA HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHog106eTdeZlUqOfZiGX9NY/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/enter-10-bangla.png" group-title="BDIX 2",ENTER 10 BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/enter-10-bangla.png" group-title="Fast",ENTER 10 BANGLA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlQ0ODBYjYnVaiGiWQ2Z3n8/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/জলস-movies-hd.png" group-title="BDIX 2",JALSHA MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/জলস-movies-hd.png" group-title="Fast",JALSHA MOVIES HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHogFYqTR2G8EGiiWQCI5qxc/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/zee-bangla-hd.png" group-title="BDIX 2",ZEE BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/zee-bangla-hd.png" group-title="Fast",ZEE BANGLA HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHiLve9iCFH17ZsxyFJZ6W6A/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/star-jalsha.jpg" group-title="BDIX 2",STAR JALSHA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/star-jalsha.jpg" group-title="Fast",STAR JALSHA HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuIkoNYLkAeGEhRhH5SzfaE/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/rtv.png" group-title="BDIX 2",RTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/rtv.png" group-title="Fast",RTV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHppCg_WOjbZZm7X3Ra7eVIQ/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/nexus-tv.png" group-title="BDIX 2",NEXUS TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/nexus-tv.png" group-title="Fast",NEXUS TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHg4UQVwo4IGaPuEu46D2RuI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/global-tv.png" group-title="BDIX 2",GLOBAL TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/global-tv.png" group-title="Fast",GLOBAL TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHu26Bt-doJO37_xokMGRnAM/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/asian-tv.png" group-title="BDIX 2",ASIAN TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/asian-tv.png" group-title="Fast",ASIAN TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuArOQlM0VI5bBTiK5Ama5Q/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/bijoy-tv.png" group-title="BDIX 2",BIJOY TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/bijoy-tv.png" group-title="Fast",BIJOY TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmUVUj-HPb9QIt88-SgQBng/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ananda-tv.png" group-title="BDIX 2",ANANDA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ananda-tv.png" group-title="Fast",ANANDA TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqzWPsk1L-H_lguZdSgo8LU/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/mohona-tv.png" group-title="BDIX 2",MOHONA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/mohona-tv.png" group-title="Fast",MOHONA TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqS6462sWaOLssve0aj2xbI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/bangla-tv.png" group-title="BDIX 2",BANGLA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/bangla-tv.png" group-title="Fast",BANGLA TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHgcz6c2XooioeLu_Xl1JFdk/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/gazi-tv.png" group-title="BDIX 2",GAZI TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/gazi-tv.png" group-title="Fast",GAZI TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHoVx89n4Ti3rolgqaANl8Gk/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/atn-bangla.png" group-title="BDIX 2",ATN BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/atn-bangla.png" group-title="Fast",ATN BANGLA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHosVoyROcnU_X7VRt1zn80g/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/depto-tv.png" group-title="BDIX 2",DEEPTO TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/depto-tv.png" group-title="Fast",DEEPTO TV HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHh3EUWYtVKckUwvjbakFT78/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sa-tv.png" group-title="BDIX 2",SATV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sa-tv.png" group-title="Fast",SATV HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuqIWbdx7c3qIaAwZsHR4NU/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-i.png" group-title="BDIX 2",CHANNEL I HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-i.png" group-title="Fast",CHANNEL I HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtl2oMPmM5jMwVcx3VxaOHM/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/bangla-vision.png" group-title="BDIX 2",BANGLA VISION
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/bangla-vision.png" group-title="Fast",BANGLA VISION
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvONVYsvFHgA40KcRnmBagM/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ntv.png" group-title="BDIX 2",NTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ntv.png" group-title="Fast",NTV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqlBQNrpo5iSDC2DNEkrXGo/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/btv-hd.png" group-title="BDIX 2",BTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/btv-hd.png" group-title="Fast",BTV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHl76lzKQFKpcwL_B1-PZEBo/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ekhon-tv.png" group-title="BDIX 2",EKHON TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ekhon-tv.png" group-title="Fast",EKHON TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhEypigcAT25EEtDy_BZ5nM/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/desh-tv.png" group-title="BDIX 2",DESH TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/desh-tv.png" group-title="Fast",DESH TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHsDTFttilK0phEumbUS7xEY/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/dbc-news.png" group-title="BDIX 2",DBC NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/dbc-news.png" group-title="Fast",DBC NEWS HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqHSl6DNuD2F-9xlgBKb9HU/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/atn-news.png" group-title="BDIX 2",ATN NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/atn-news.png" group-title="Fast",ATN NEWS
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnABLU4jd1kVVUuxEjgtLzU/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/news-24.png" group-title="BDIX 2",NEWS 24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/news-24.png" group-title="Fast",NEWS 24 HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHntT56yDr7ReY5A8Wd8xPzE/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/somoy-news.png" group-title="BDIX 2",SOMOY TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/somoy-news.png" group-title="Fast",SOMOY TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHt7aXnQ93sdFqUcVKMa8QJI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/jamuna-tv.png" group-title="BDIX 2",JAMUNA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/jamuna-tv.png" group-title="Fast",JAMUNA TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpimKhR-hIb2LFRDp0WUGS0/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-9.png" group-title="BDIX 2",CHANNEL 9 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-9.png" group-title="Fast",CHANNEL 9 HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHp0ySDsabAW6OF3odNTlZ-A/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-24.png" group-title="BDIX 2",CHANNEL 24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-24.png" group-title="Fast",CHANNEL 24 HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHrRM17vd2FO2sC6Tv5cI4Lw/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ekatoor-tv.png" group-title="BDIX 2",EKATTOR HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/ekatoor-tv.png" group-title="Fast",EKATTOR HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkefo0PDiP7ZfPUftmlq6YY/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/independent-tv.png" group-title="BDIX 2",INDEPENDENT TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/independent-tv.png" group-title="Fast",INDEPENDENT TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHub--vxuEgL9iVpPdaKOL6o/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/duranto-tv.png" group-title="BDIX 2",DURONTO TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/duranto-tv.png" group-title="Fast",DURONTO TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhTiv1OlV1jscsCBc3HYhhU/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/nick-bangla.png" group-title="BDIX 2",NICK BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/nick-bangla.png" group-title="Fast",NICK BANGLA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHiyUbLW0XLKcGSzptoIPB84/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/super-hungama.png" group-title="BDIX 2",SUPER HUNGAMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/super-hungama.png" group-title="Fast",SUPER HUNGAMA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmOHyba_g7WRkUt4Kvkkouk/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/pogo-tv.png" group-title="BDIX 2",POGO
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/pogo-tv.png" group-title="Fast",POGO
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtHGuLvTv8KlIVpseilLGRI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-yay-bangla.png" group-title="BDIX 2",SONY YAY
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-yay-bangla.png" group-title="Fast",SONY YAY
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHs9yzkwC67MIp0F7xtfFTaw/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/cartoon-network.png" group-title="BDIX 2",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/cartoon-network.png" group-title="Fast",CARTOON NETWORK
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkWY1O6rYFwtTdRdWLwLvQc/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-sab-hd.png" group-title="BDIX 2",SONY SAB HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-sab-hd.png" group-title="Fast",SONY SAB HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHr4R_HOr-ALzbD45_N6rF4g/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",SONY BBC EARTH HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",SONY BBC EARTH HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHht6ok6aPB3qdietbkF4fr0/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",& PICTURES HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",& PICTURES HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHr7muRjuM-Zh0LYhUR_1Lvg/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",STAR BHARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",STAR BHARAT
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkmD6fvjLbde6fMf0mu5nQs/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",ZEE TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",ZEE TV HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqQyFbhyQkLYZ-qQFV3g07c/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",COLORS CINEPLEX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",COLORS CINEPLEX HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqNhq5lCgMVswvuRS2D5GLs/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",COLORS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",COLORS HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhcP2JyGmxD724Ya1ev_hOk/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",SONY ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",SONY ENTERTAINMENT
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHryjs8ZE_zxKoJfkxGdERVo/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",SONY PIX
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",SONY PIX
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHjwuBMIFWW6UPPi31RYslUQ/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",ZEE CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",ZEE CINEMA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnsktLgHXHPzumpQ3buQ-rA/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",SONY MAX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",SONY MAX HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpD2yx3-rw-KiUOhP6t8Qek/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",STAR PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",STAR PLUS
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHukSoMret6TRDD7kWd9vWcY/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",STAR MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",STAR MOVIES
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHjnWsvKpsBisODy08iuFWXY/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/star-gold-hd.png" group-title="BDIX 2",STAR GOLD HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/star-gold-hd.png" group-title="Fast",STAR GOLD HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkVBC1m9zfVFJSyq4y7g-FI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",OTT-KING TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",OTT-KING TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHirXzA9v-iF67tJhiU67Z8g/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",STAR NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",STAR NEWS
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpW6CfvSSgm9TbwiQsfaUeY/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",MAASRANGA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",MAASRANGA TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHoZHaQSVvpyEdoV6dxJeLLc/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",ZEE BANGLA CINEMA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkcIplnxIsmhoOTHWsKCAU8/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",COLORS BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",COLORS BANGLA CINEMA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqxA_wtar5xGHl1neuRE51U/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",FAST SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",FAST SPORTS HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvlTaBI18coWNDqrO38mYO4/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",TNT SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",TNT SPORTS 2
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHppGq0bSD7CFXkXh_-20VOQ/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",EUROSPORTS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",EUROSPORTS HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtAj4uifsS6euyVBqzKgdHA/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",BEIN SPORTS 1
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnsMJE5r7P9RE3lfKsLQWnc/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",TEN CRICKET
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",TEN CRICKET
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHoUbeEhU55kNqbS-YfGVC-I/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",A SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",A SPORTS
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHo7MLT8FTbzAtUj5Z0SUpfE/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",PTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",PTV SPORTS
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlH_7kWjpNCqgOZHNv6li80/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",SONY SPORTS TEN 5 HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHsiN5gbipJ6vUCkdAxUzUe8/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",SONY SPORTS TEN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",SONY SPORTS TEN 3 HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlPNI9t68BHj54dsPowAFUE/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",SONY SPORTS TEN 2 HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtx7HvwRCMbMWJV-O0squEI/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",STAR SPORTS SELECT 2
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtOGPe5Mw5bSND116DNfVlA/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX 2",STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Fast",STAR SPORTS SELECT 1
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHt-6UuECPfcGIEumeifHQcY/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/travel-xp-bangla.png" group-title="BDIX 2",TRAVEL XP BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/travel-xp-bangla.png" group-title="Fast",TRAVEL XP BANGLA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnkpGyAl7e3xotgZI9n-P3E/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/discovery-bangla.png" group-title="BDIX 2",DISCOVERY BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/discovery-bangla.png" group-title="Fast",DISCOVERY BANGLA HD
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpnMqTvv43nvMshaZB66kj4/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/nat-geo-bangla.png" group-title="BDIX 2",NAT GEO BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/nat-geo-bangla.png" group-title="Fast",NAT GEO BANGLA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhLoqlkjEIaHlaTIhZkcKuY/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/b4u-music.png" group-title="BDIX 2",B4U MUSIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/b4u-music.png" group-title="Fast",B4U MUSIC
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHrIHoySdaA4LVmh65AtHFb4/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/masti-tv.png" group-title="BDIX 2",MASTIII
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/masti-tv.png" group-title="Fast",MASTIII
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHs34oxq1aXB_J1bu1zJUWYU/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/snageet-bangla.png" group-title="BDIX 2",SANGEET BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/snageet-bangla.png" group-title="Fast",SANGEET BANGLA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhsoZ0bcmGr1lMoaB3FkdpE/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/music-india.png" group-title="BDIX 2",MUSIC INDIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/music-india.png" group-title="Fast",MUSIC INDIA
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlbdk5YQFF_esbAejC0CBIs/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/zoom-tv.png" group-title="BDIX 2",ZOOM TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/zoom-tv.png" group-title="Fast",ZOOM TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHu4LAgtAHApGEy5aPNofor4/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/9xm.png" group-title="BDIX 2",9XM
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottking.top/app/uploads/tv_image/9xm.png" group-title="Fast",9XM
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhjnZjUgg34Y2_xlUrBegDA/m3u8
-
-#EXTM3U
-#EXTINF:-1, BBC EARTH HD
-http://202.70.146.135:8000/play/a067/index.m3u8
-#EXTINF:-1, TEN 2 HD
-http://202.70.146.135:8000/play/a06n/index.m3u8
-#EXTINF:-1, &flix HD - Rs 19.00
-http://202.70.146.135:8000/play/a06s/index.m3u8
-#EXTINF:-1, &pictures HD - Rs 19.00
-http://202.70.146.135:8000/play/a06b/index.m3u8
-#EXTINF:-1, &tv HD - Rs 19.00
-http://202.70.146.135:8000/play/a06c/index.m3u8
-#EXTINF:-1, Colors Cineplex - Rs 19.00
-http://202.70.146.135:8000/play/a01b/index.m3u8
-#EXTINF:-1, Colors Cineplex Bollywood - Rs 0.10
-http://202.70.146.135:8000/play/a058/index.m3u8
-#EXTINF:-1, Colors Cineplex HD - Rs 19.00
-http://202.70.146.135:8000/play/a01x/index.m3u8
-#EXTINF:-1, Colors HD - Rs 19.00
-http://202.70.146.135:8000/play/a00b/index.m3u8
-#EXTINF:-1, Colors Tamil HD - Rs 7.00
-http://202.70.146.135:8000/play/a06o/index.m3u8
-#EXTINF:-1, D Tamil - Rs 3.50
-http://202.70.146.135:8000/play/a054/index.m3u8
-#EXTINF:-1, Discovery HD - Rs 8.00
-http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1, Discovery Science - Rs 1.00
-http://202.70.146.135:8000/play/a060/index.m3u8
-#EXTINF:-1, Discovery Turbo - Rs 1.00
-http://202.70.146.135:8000/play/a050/index.m3u8
-#EXTINF:-1, Disney Channel - Rs 10.00
-http://202.70.146.135:8000/play/a01q/index.m3u8
-#EXTINF:-1, Disney International HD - Rs 19.00
-http://202.70.146.135:8000/play/a04p/index.m3u8
-#EXTINF:-1, ETV HD - Rs 19.00
-http://202.70.146.135:8000/play/a02b/index.m3u8
-#EXTINF:-1, Eurosport HD - Rs 6.00
-http://202.70.146.135:8000/play/a05s/index.m3u8
-#EXTINF:-1, History TV18 HD - Rs 7.00
-http://202.70.146.135:8000/play/a065/index.m3u8
-#EXTINF:-1, MNX - Rs 5.00
-http://202.70.146.135:8000/play/a052/index.m3u8
-#EXTINF:-1, Movies Now HD - Rs 14.00
-http://202.70.146.135:8000/play/a057/index.m3u8
-#EXTINF:-1, NATIONAL GEOGRAPHIC HD - Rs 14.00
-http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1, Nat Geo Wild HD - Rs 8.00
-http://202.70.146.135:8000/play/a05j/index.m3u8
-#EXTINF:-1, Nick  - Rs 6.00
-http://202.70.146.135:8000/play/a04c/index.m3u8
-#EXTINF:-1, Nick Jr. - Rs 1.00
-http://202.70.146.135:8000/play/a02n/index.m3u8
-#EXTINF:-1, Romedy Now - Rs 5.00
-http://202.70.146.135:8000/play/a05x/index.m3u8
-#EXTINF:-1, SET HD - Rs 19.00
-http://202.70.146.135:8000/play/a005/index.m3u8
-#EXTINF:-1, SONY MAX HD
-http://202.70.146.135:8000/play/a01g/index.m3u8
-#EXTINF:-1, SONY PIX HD
-http://202.70.146.135:8000/play/a06p/index.m3u8
-#EXTINF:-1, SONY SAB HD - Rs 19.00
-http://202.70.146.135:8000/play/a025/index.m3u8
-#EXTINF:-1, SONY SPORTS TEN 5 HD - Rs 25.00
-http://202.70.146.135:8000/play/a09r/index.m3u8
-#EXTINF:-1, STAR GOLD HD - Rs 19.00
-http://202.70.146.135:8000/play/a02a/index.m3u8
-#EXTINF:-1, STAR Maa HD - Rs 22.00
-http://202.70.146.135:8000/play/a02z/index.m3u8
-#EXTINF:-1, STAR Movies HD - Rs 19.00
-http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1, STAR Plus HD - Rs 22.00
-http://202.70.146.135:8000/play/a009/index.m3u8
-#EXTINF:-1, Sonic - Rs 1.00
-http://202.70.146.135:8000/play/a02t/index.m3u8
-#EXTINF:-1, Sports 18 - 1 HD - Rs 19.00
-http://202.70.146.135:8000/play/a04b/index.m3u8
-#EXTINF:-1, Sports 18 3 - Rs 4.00
-http://202.70.146.135:8000/play/a026/index.m3u8
-#EXTINF:-1, Star Gold 2 - Rs 3.00
-http://202.70.146.135:8000/play/a02d/index.m3u8
-#EXTINF:-1, Star Gold 2 HD - Rs 5.00
-http://202.70.146.135:8000/play/a04q/index.m3u8
-#EXTINF:-1, Star Gold Romance - Rs 2.00
-http://202.70.146.135:8000/play/a044/index.m3u8
-#EXTINF:-1, Star Gold Select HD - Rs 8.00
-http://202.70.146.135:8000/play/a068/index.m3u8
-#EXTINF:-1, Star Gold Thrills - Rs 2.00
-http://202.70.146.135:8000/play/a024/index.m3u8
-#EXTINF:-1, Star Pravah HD - Rs 19.00
-http://202.70.146.135:8000/play/a049/index.m3u8
-#EXTINF:-1, Star Sports 1 HD - Rs 19.00
-http://202.70.146.135:8000/play/a00a/index.m3u8
-#EXTINF:-1, Star Sports 1 Hindi HD - Rs 19.00
-http://202.70.146.135:8000/play/a01e/index.m3u8
-#EXTINF:-1, Star Sports Select 1 HD - Rs 19.00
-http://202.70.146.135:8000/play/a03c/index.m3u8
-#EXTINF:-1, Star Sports Select 2 HD - Rs 15.00
-http://202.70.146.135:8000/play/a03e/index.m3u8
-#EXTINF:-1, Sun Music HD - Rs 19.00
-http://202.70.146.135:8000/play/a06k/index.m3u8
-#EXTINF:-1, TLC HD - Rs 3.00
-http://202.70.146.135:8000/play/a05i/index.m3u8
-#EXTINF:-1, Travelxp HD - Rs 9.00
-http://202.70.146.135:8000/play/a04o/index.m3u8
-#EXTINF:-1, Vijay Super - Rs 10.00
-http://202.70.146.135:8000/play/a008/index.m3u8
-#EXTINF:-1, Zee Bangla Cinema - Rs 10.00
-http://202.70.146.135:8000/play/a037/index.m3u8
-#EXTINF:-1, Zee Cafe HD - Rs 10.00
-http://202.70.146.135:8000/play/a04n/index.m3u8
-#EXTINF:-1, Zee Cinema HD - Rs 19.00
-http://202.70.146.135:8000/play/a03f/index.m3u8
-#EXTINF:-1, Zee Marathi HD - Rs 19.00
-http://202.70.146.135:8000/play/a04d/index.m3u8
-#EXTINF:-1, Zee TV HD - Rs 19.00
-http://202.70.146.135:8000/play/a04g/index.m3u8
