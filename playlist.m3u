@@ -1,166 +1,129 @@
-# This playlist is for Bangladeshi users only. 
-# Created by @Eamin Talukdar Rony
-# Telegram by https://t.me/eamintalukdar
-# Recommended players: For PC: VLC, PotPlayer, For Android & TV: Televizo,TiviMate, OTT Navigator & For Samsung TV: M3U IPTV ▶️ 
-
 #EXTM3U
-
-# --- Category: Live ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="Live", Tsports
-https://bongoflixbd.top/tsports.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zQ0DYBH/20250720_201346.png" group-title="Live", Nagorik
-https://bongoflixbd.top/nagorik.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K89SfFWN/20251208_221926.png" group-title="Live", Euro Sports
-https://bongoflixbd.top/toffee/euro_sports_hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWV00yP8/tencricket.png" group-title="Live", Ten Cricket
-https://bongoflixbd.top/toffee/ten_cricket.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxvT7Y24/20251208_222149.png" group-title="Live", Dubai Sports
-https://bongoflixbd.top/bk/dubai-sports.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002_230032.png" group-title="Live", Star Sports 1
-https://bongoflixbd.top/star-sports-1-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702_032050.png" group-title="Live", Star Sports 2
-https://bongoflixbd.top/star-sports-2-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50ykjF9d/20250702_032238.png" group-title="Live", Star Sports Select 1
-https://bongoflixbd.top/bk/27.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzvFX06y/20251002_225947.png" group-title="Live", Star Sports Select 2
-https://bongoflixbd.top/bk/28.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529_122631.png" group-title="Live", Sony Sports 1
-https://bongoflixbd.top/sony-sports-1-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x12k7R1Z/20250529_122855.png" group-title="Live", Sony Sports 2
-https://bongoflixbd.top/sony-sports-2-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH9g3jb9/20250529_123011.png" group-title="Live", Sony Sports 3
-https://bongoflixbd.top/sony-sports-3-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMLRN93q/20250529_123147.png" group-title="Live", Sony Sports 5
-https://bongoflixbd.top/sony-sports-5-hd.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Bangla ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="Bangla", B TV
-https://bongoflixbd.top/bk/53.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4D0hyrt/20250529-071035.png" group-title="Bangla", Jamuna
-https://bongoflixbd.top/jamunatv.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxn4JFNV/20250529-071147.png" group-title="Bangla", Somoy
-https://bongoflixbd.top/somoy.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="Bangla", Channel 24
-https://bongoflixbd.top/channel24.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="Bangla", Ekattor
-https://bongoflixbd.top/bk/11.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="Bangla", Independent
-https://bongoflixbd.top/bk/12.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzvgdpRg/20250529-102312.png" group-title="Bangla", DBC News
-https://bongoflixbd.top/bk/7.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NBkk4fT/20250529-102724.png" group-title="Bangla", ATN News
-https://bongoflixbd.top/bk/49.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzGFfbYb/20250529-072833.png" group-title="Bangla", Bangla Vision
-https://bongoflixbd.top/bk/3.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgzHqBLL/20250529-072107.png" group-title="Bangla", N TV
-https://bongoflixbd.top/bk/54.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHBMzPkW/20250529-102502.png" group-title="Bangla", ATN Bangla
-https://bongoflixbd.top/bk/2.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47vqwbY/20250529-101717.png" group-title="Bangla", Channel i
-https://bongoflixbd.top/bk/6.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKGfnW8/20250704_201040.png" group-title="Bangla", G TV
-https://bongoflixbd.top/gazitv.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XPHbts0/20250529-103607.png" group-title="Bangla", Deepto
-https://bongoflixbd.top/bk/8.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbnjN67C/20250529-104926.png" group-title="Bangla", Maasranga
-https://bongoflixbd.top/bk/51.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="Bangla", Ekhon TV
-https://bongoflixbd.top/ekhontv.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png" group-title="Bangla", Ekushe TV
-https://bongoflixbd.top/bk/65.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529_101852.png" group-title="Bangla", R TV
-https://bongoflixbd.top/bk/14.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png" group-title="Bangla", MY TV
-https://bongoflixbd.top/bk/56.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Bangla", Movie Bangla
-https://bongoflixbd.top/bk/86.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0MVZZT9/20250529-101947.png" group-title="Bangla", Boishakhi
-https://bongoflixbd.top/bk/61.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2hVjtyP/20250529-103904.png" group-title="Bangla", ME TV
-
-
-# --- Category: Indian Bangla ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="Indian", Star Jalsha
-https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry5MbLR8/20250529-105712.png" group-title="Indian", Zee Bangla
-https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602_220804.png" group-title="Indian", Colors Bangla
-https://bongoflixbd.top/bk/66.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX122cy3/20250529-111624.png" group-title="Indian", Enterr 10
-https://bongoflixbd.top/enterr10.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian", Sony Aath
-https://bongoflixbd.top/bk/33.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5V7VsN/20250711_062758.png" group-title="Indian", Akash Bangla
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707_053157.png" group-title="Indian", Jalsha Movies
-https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529_110358.png" group-title="Indian", Zee Bangla Cinema
-https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Hindi & Movies ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yDQ0JGC/20250529_131726.png" group-title="Hindi", Sony Television
-https://bongoflixbd.top/bk/38.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529_131834.png" group-title="Hindi", Sony Max
-https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529_131834.png" group-title="Hindi", Sony Max HD
-https://bongoflixbd.top/toffee/sony_max_hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYbYqvJh/20250529_132238.png" group-title="Hindi", Sony Max 2
-https://bongoflixbd.top/toffee/sonymax_2.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdy3k1qZ/20251202_090150.png" group-title="Hindi", Colors TV
-https://bongoflixbd.top/bk/68.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z18kKRT/20250529_133622.png" group-title="Hindi", Zee TV
-https://bongoflixbd.top/bk/40.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529_133753.png" group-title="Hindi", Zee Cinema
-https://bongoflixbd.top/bk/76.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="Hindi", Zee Bollywood
-https://bongoflixbd.top/toffee/zee_bollywood.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJzsJNt9/20250529_133255.png" group-title="Hindi", And TV
-https://bongoflixbd.top/bk/74.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5N2qtB5/20250529_133459.png" group-title="Hindi", And Picture
-https://bongoflixbd.top/bk/100.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7gWQZjw/20251202_090307.png" group-title="Hindi", Star Plus
-https://bongoflixbd.top/bk/67.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202_090224.png" group-title="Hindi", Star Gold
-https://bongoflixbd.top/bk/72.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYcpKMDZ/20251222_213635.png" group-title="Hindi", Star Movies
-https://bongoflixbd.top/bk/starmovies.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png" group-title="Hindi", B4U Movie
-https://bongoflixbd.top/toffee/b4u_movies.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFXqn515/20250529_132912.png" group-title="Hindi", Hum TV
-https://bongoflixbd.top/toffee/hum_tv.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Music ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="Music", Sangeet Bangla
-https://bongoflixbd.top/sangeetbangla.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5yq7ncL/20250529_120144.png" group-title="Music", 9Xm
-https://bongoflixbd.top/9xm.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="Music", Zoom
-https://bongoflixbd.top/zoom.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="Music", Yrf Music
-https://bongoflixbd.top/yrfmusic.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKyHyQmm/20250529_120709.png" group-title="Music", Show Box
-https://bongoflixbd.top/showbox.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqfCWzxk/20250529_122103.png" group-title="Music", B4U Music
-https://bongoflixbd.top/b4umusic.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Kids ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127_095726.png" group-title="Kids", Duronto
-https://bongoflixbd.top/bk/10.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5VX5t9/20250707_053227.png" group-title="Kids", Nick
-https://bongoflixbd.top/bk/55.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3FbtF4r/20250529_115709.png" group-title="Kids", pogo
-https://bongoflixbd.top/toffee/pogo_sd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXdcjfHg/20250529_115821.png" group-title="Kids", Discovery Kids
-https://bongoflixbd.top/toffee/discovery_kids.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvTzSsKG/20250529-115440.png" group-title="Kids", Cartoon Network
-https://bongoflixbd.top/bk/79.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBbj6c9g/20250529_115914.png" group-title="Kids", Sony Yay
-https://bongoflixbd.top/toffee/sonyyay.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Others ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR885pSD/20251002_231959.png" group-title="Others", Animal Planet
-https://bongoflixbd.top/toffee/animal_planet_hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4xxp7zh/20251002_232031.png" group-title="Others", Discovery HD
-https://bongoflixbd.top/bk/83.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn4KK0kW/20251031_210443.png" group-title="Others", Nat Geo
-https://bongoflixbd.top/bk/35.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 group-title="-", BBC EARTH HD 
+http://202.70.146.135:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="-", TEN 2 HD 
+http://202.70.146.135:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="-",&Prive HD - Rs 6.00
+http://202.70.146.135:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="-",&flix HD - Rs 19.00
+http://202.70.146.135:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="-",&pictures HD - Rs 19.00
+http://202.70.146.135:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="-",&tv HD - Rs 19.00
+http://202.70.146.135:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",Colors Cineplex - Rs 19.00
+http://202.70.146.135:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-",Colors Cineplex Bollywood - Rs 0.10
+http://202.70.146.135:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",Colors Cineplex HD - Rs 19.00
+http://202.70.146.135:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="-",Colors HD - Rs 19.00
+http://202.70.146.135:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="-",Colors Tamil HD - Rs 7.00
+http://202.70.146.135:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-",D Tamil - Rs 3.50
+http://202.70.146.135:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids - Rs 3.50
+http://202.70.146.135:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science - Rs 1.00
+http://202.70.146.135:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo - Rs 1.00
+http://202.70.146.135:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="-",Disney Channel - Rs 10.00
+http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="-",Disney International HD - Rs 19.00
+http://202.70.146.135:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="-",ETV HD - Rs 19.00
+http://202.70.146.135:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
+http://202.70.146.135:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="-",History TV18 HD - Rs 7.00 
+http://202.70.146.135:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="-",Investigation Discovery - Rs 1.00
+http://202.70.146.135:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="-",MNX - Rs 5.00
+http://202.70.146.135:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="-",MTV HD - Rs 2.00
+http://202.70.146.135:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="-",Movies Now HD - Rs 14.00
+http://202.70.146.135:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo Wild HD - Rs 8.00
+http://202.70.146.135:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="-",Nick  - Rs 6.00
+http://202.70.146.135:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
+http://202.70.146.135:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",Romedy Now - Rs 5.00
+http://202.70.146.135:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="-",SET HD - Rs 19.00
+http://202.70.146.135:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",SONY MAX HD 
+http://202.70.146.135:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",SONY PIX HD 
+http://202.70.146.135:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",SONY SAB HD - Rs 19.00
+http://202.70.146.135:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 3 Hindi HD - Rs 25.00
+http://202.70.146.135:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 5 HD - Rs 25.00
+http://202.70.146.135:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+http://202.70.146.135:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="-",STAR Maa HD - Rs 22.00
+http://202.70.146.135:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+http://202.70.146.135:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="-",STAR Plus HD - Rs 22.00
+http://202.70.146.135:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",Sonic - Rs 1.00
+http://202.70.146.135:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",Sports 18 - 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="-",Sports 18 3 - Rs 4.00
+http://202.70.146.135:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
+http://202.70.146.135:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2 HD - Rs 5.00
+http://202.70.146.135:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Romance - Rs 2.00
+http://202.70.146.135:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Select HD - Rs 8.00
+http://202.70.146.135:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Thrills - Rs 2.00
+http://202.70.146.135:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="-",Star Pravah HD - Rs 19.00
+http://202.70.146.135:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD - Rs 19.00
+http://202.70.146.135:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports Select 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports Select 2 HD - Rs 15.00
+http://202.70.146.135:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="-",Sun Music HD - Rs 19.00
+http://202.70.146.135:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="-",TLC HD - Rs 3.00
+http://202.70.146.135:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-",Travelxp HD - Rs 9.00
+http://202.70.146.135:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="-",Vijay Super - Rs 10.00
+http://202.70.146.135:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",Zee Bangla Cinema - Rs 10.00
+http://202.70.146.135:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="-",Zee Cafe HD - Rs 10.00
+http://202.70.146.135:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="-",Zee Cinema HD - Rs 19.00
+http://202.70.146.135:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="-",Zee Marathi HD - Rs 19.00
+http://202.70.146.135:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="-",Zee TV HD - Rs 19.00
+http://202.70.146.135:8000/play/a04g/index.m3u8

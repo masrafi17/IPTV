@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/atnbangla.png" group-title="BANGLA",BGL - ATN BANGLA
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=767345&extension=m3u8&play_token=DuJX6ELlNu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ZEE-BANGLA.png" group-title="BANGLA",BGL - ZEE BANGLA
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=1173096&extension=m3u8&play_token=viLwuWZpBk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-HD.jpeg" group-title="BANGLA",BGL - ZEE BANGLA UHD
+ http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=281671&extension=m3u8&play_token=a9xOleyDKW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-CINEMA.png" group-title="BANGLA",BGL - ZEE BANGLA CINEMA
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=281673&extension=m3u8&play_token=J440stRZNl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-JALSHA-MOVIES-HD.png" group-title="BANGLA",BGL - STAR JALSHA MOVIES UHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=281674&extension=m3u8&play_token=7xbWmt9Fi9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starjalsha.png" group-title="BANGLA",BGL - STAR JALSHA UHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=281675&extension=m3u8&play_token=RHUaKlAZhm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-BANGLA-HD.jpeg" group-title="BANGLA",BGL - COLORS BANGLA UHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=281676&extension=m3u8&play_token=oH7n26LSXw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24-GHANTA.png" group-title="BANGLA",BGL - 24 GHANTA
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=281677&extension=m3u8&play_token=wntSMK5FJG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AAKASH-BANGLA.png" group-title="BANGLA",BGL - AAKASH BANGLA
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=281678&extension=m3u8&play_token=Mi7kDHODr9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/news24.png" group-title="BANGLA",BGL - NEWS 24 FHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=729495&extension=m3u8&play_token=MvsRvmnhel
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BANGLA-ETV.jpg" group-title="BANGLA",BGL - BANGLA ETV
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=729493&extension=m3u8&play_token=im1L5vM69o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-BANGLA.png" group-title="BANGLA",BGL - DISCOVERY BANGLA
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=729489&extension=m3u8&play_token=tLzO5mcbBc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EKATTOR-TV.png" group-title="BANGLA",BGL - EKATTOR TV
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=729488&extension=m3u8&play_token=9uSvTpwu9F
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BANGLA-ETV.jpg" group-title="BANGLA",BGL - ETV BANGLA
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=729487&extension=m3u8&play_token=pOFMlaiyqx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PEACE-TV-BANGLA.jpeg" group-title="BANGLA",BGL - PEACE TV
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=693553&extension=m3u8&play_token=l55DcOktpo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeohd.png" group-title="BANGLA",BGL - NAT GEO BENGALI UHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=281683&extension=m3u8&play_token=G3UifRJR96
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ANANDA-TV.png" group-title="BANGLA",BGL - ANANDA TV
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=839383&extension=m3u8&play_token=0Wd5vge2Yv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-S.jpg" group-title="BANGLA",BGL - CHANNEL S HD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=1153984&extension=m3u8&play_token=EEWxFE1jAL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/in.ntv.png" group-title="BANGLA",BGL - NTV HD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:C0:D6:53&stream=839365&extension=m3u8&play_token=3Zf8z4MS4L
