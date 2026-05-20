@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" group-title="Indian Bangla",Star Jalsha HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=star_jalsha_hd&format=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" group-title="Indian Bangla",Zee Bangla HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=zee_bangla_hd&format=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" group-title="Indian Bangla",Colors Bangla HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=colors_bangla_hd&format=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies HD" group-title="Indian Bangla",Jalsha Movies HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=jalsha_movies_hd&format=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" group-title="Indian Bangla",Sony Aath
+http://172.19.178.180/servers-stailer/59srv.php?stream=sony_aath&format=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" group-title="Indian Bangla",Zee Bangla Cinema
+http://172.19.178.180/servers-stailer/59srv.php?stream=zee_bangla_cinema&format=m3u8

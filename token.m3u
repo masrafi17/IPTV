@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BDIX",Star Jalsha HD
+http://172.19.178.59:18190/star_jalsha_hd/index.fmp4.m3u8?token=0093bcc4316ecbc3d6440ff5af9f841db4411551-7cecaf89c415895f36f016f6ec4ddbbb-1766484024-1766473224
+
+#EXTINF:-1 group-title="BDIX",Zee Bangla HD
+http://172.19.178.59:18190/zee_bangla_hd/index.fmp4.m3u8?token=5e1f98a8ab49f9715d211fc3a39390e39eb669dc-9efd985ea1df97db8d9e32f82f6d8262-1766484148-1766473348
+
+#EXTINF:-1 group-title="BDIX",Jalsha Movies HD
+http://172.19.178.59:18190/jalsha_movies_hd/index.fmp4.m3u8?token=d541fa49fd60e33b3b605a30582cacaded8a26e6-3a42df9c674a9c5c30328cbdb8cc829e-1766484215-1766473415
+
+#EXTINF:-1 group-title="BDIX",Cartoon Network
+http://172.19.178.143:18190/cartoon_network/index.fmp4.m3u8?token=5c6eb5e9436f4303c252a076c5d2c043999a31f7-f83be67a510c84cb0fee9421fdeaf8b8-1766484462-1766473662
+
+#EXTINF:-1 group-title="BDIX",National Geographic HD
+http://172.19.178.145:18190/ngo_gerophy_hd/index.fmp4.m3u8?token=c5a71cf08b00eec1b3bc8555ec948e6f89414077-e0accf533eba19df812322bf431ceed4-1766484703-1766473903

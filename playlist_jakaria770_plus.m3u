@@ -1,0 +1,402 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="LIVE CRICKET 1" tvg-logo="https://banglaview.online:443/images/ac48f0a4941511cb11fb27ee3a99083e.png" group-title="LIVE SPORTS CRICKET",LIVE CRICKET 1
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyLreGqn1W6oMyPRoJz3Q5Y/m3u8
+#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="LIVE CRICKET 2" tvg-logo="https://banglaview.online:443/images/ac48f0a4941511cb11fb27ee3a99083e.png" group-title="LIVE SPORTS CRICKET",LIVE CRICKET 2
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN21wi520MtEUxck2SFhHSy8/m3u8
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="LIVE CRICKET 3" tvg-logo="https://banglaview.online:443/images/ac48f0a4941511cb11fb27ee3a99083e.png" group-title="LIVE SPORTS CRICKET",LIVE CRICKET 3
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4wh1t3-0eVTD9Okn7GS4fE/m3u8
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="LIVE CRICKET 4" tvg-logo="https://banglaview.online:443/images/ac48f0a4941511cb11fb27ee3a99083e.png" group-title="LIVE SPORTS CRICKET",LIVE CRICKET 4
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyqyO_Zy6cwMCL0bbSFPkEE/m3u8
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="LIVE CRICKET 5" tvg-logo="https://banglaview.online:443/images/ac48f0a4941511cb11fb27ee3a99083e.png" group-title="LIVE SPORTS CRICKET",LIVE CRICKET 5
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN9_tx9sy8kb73yjaJALizis/m3u8
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="EPL 1" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",EPL 1
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-6cGsHGCWHMHs020NRd_HU/m3u8
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="EPL 2" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",EPL 2
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN05hd1PS5mQmy6gvq9drHtA/m3u8
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="EPL 3" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",EPL 3
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN6ZrfeMfderA-3Ny6osjEEY/m3u8
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="LALIGA 1" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",LALIGA 1
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3-F4Ug06Hm3-FG3fOMMhJs/m3u8
+#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="LALIGA 2" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",LALIGA 2
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4QvxFKzxrcYq23ePINsjj0/m3u8
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="LIVE 1" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",LIVE 1
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNzWFZhq1u2_c9Pbrpa_MbE4/m3u8
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="LIVE 2" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",LIVE 2
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0NqtFzK7nlC6mFzZdbUxa4/m3u8
+#EXTINF:-1 xui-id="207" tvg-id="" tvg-name="LIVE 3" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",LIVE 3
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN6g0ZEvrTgkeqQeNrWXiAeE/m3u8
+#EXTINF:-1 xui-id="208" tvg-id="" tvg-name="LIVE 4" tvg-logo="https://banglaview.online:443/images/ea5dcb0667be730e4ef0b585fcf5c5a6.png" group-title="LIVE SPORTS FOOTBALL",LIVE 4
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyvwqWo4MzgBhM4hA2Je8qQ/m3u8
+#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="STAR JALSHA SD" tvg-logo="https://banglaview.online:443/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="INDIAN BANGLA",STAR JALSHA SD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxAU24nUCMzs63sZIu21Tdo/m3u8
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="STAR JALSHA HD" tvg-logo="https://banglaview.online:443/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="INDIAN BANGLA",STAR JALSHA HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNw-l5cY1X4sjFjyjaWY9ZsE/m3u8
+#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="ZEE BANGLA SD" tvg-logo="https://banglaview.online:443/images/daf35a724a656f6653c302d606974a75.png" group-title="INDIAN BANGLA",ZEE BANGLA SD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxHOsD0pXPdX7vn4xWstv6Y/m3u8
+#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="ZEE BANGLA HD" tvg-logo="https://banglaview.online:443/images/daf35a724a656f6653c302d606974a75.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2TJBE2vsqLNqJ-KvWP5jM8/m3u8
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="SONY AATH" tvg-logo="https://banglaview.online:443/images/27a90e36876babfde99d60c651c32799.png" group-title="INDIAN BANGLA",SONY AATH
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4H0J9SAM3bk8MVGWF0l5rY/m3u8
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://banglaview.online:443/images/9ba491b5a277bce8d2f23bcb92a7a0bf.png" group-title="INDIAN BANGLA",ZEE BANGLA CINEMA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-K_osqhryRfsUl54XonSuk/m3u8
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="AKASH AATH" tvg-logo="https://banglaview.online:443/images/4fc3946805a319eed90ed1fa4f46d18d.png" group-title="INDIAN BANGLA",AKASH AATH
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN7VtkFIFj6kcouprmqqNYXI/m3u8
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="https://banglaview.online:443/images/4dc6a75db6879a3cf234d600fdec3f91.png" group-title="INDIAN BANGLA",SANGEET BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_qAYvd_--kKGPKAplWzvWI/m3u8
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="REPUBLIC BANGLA" tvg-logo="https://banglaview.online:443/images/bdde09c9d04559affc245e921e2d3f92.png" group-title="INDIAN BANGLA",REPUBLIC BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0ywR26Y4qwevCKYikHZjXY/m3u8
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="ZEE 24 BANGLA" tvg-logo="https://banglaview.online:443/images/b596d4ac71544576e69a35368c8ab9ae.png" group-title="INDIAN BANGLA",ZEE 24 BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3D8DX4PHBvsyWank7wUWk4/m3u8
+#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="KOLKATA TV" tvg-logo="https://banglaview.online:443/images/43878b193becc23361e7c7c7e7153afc.png" group-title="INDIAN BANGLA",KOLKATA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNwLOhwTxA1dVs8N1aQkHMnk/m3u8
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://banglaview.online:443/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="INDIAN BANGLA",COLORS BANGLA HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4oXF6yftKk9ttSLkAPaQcE/m3u8
+#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://banglaview.online:443/images/7b56b95ae6b670652b7b990e79fe7c07.png" group-title="INDIAN BANGLA",JALSHA MOVIES HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN029l8WGm68FD_jd2dFMkLA/m3u8
+#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="BTV" tvg-logo="https://banglaview.online:443/images/23e56b99f2ce68ff15d4a4598f71563a.png" group-title="BANGLADESH",BTV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNytFMdTcaLv-o2GfopBXyEA/m3u8
+#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="MY TV" tvg-logo="https://banglaview.online:443/images/784894ffb6709f9d446552b06ce9c5b6.png" group-title="BANGLADESH",MY TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1hecGW2GGFqlkhyYGeUtTY/m3u8
+#EXTINF:-1 xui-id="28" tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://banglaview.online:443/images/20ca2ed0ef35f82f6c854699bc434705.png" group-title="BANGLADESH",BIJOY TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-DXaf5KomDj08Mvt9jWn70/m3u8
+#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="NEXUS TV" tvg-logo="https://banglaview.online:443/images/d3603b91807f5fc9568cfecbf26bd91b.png" group-title="BANGLADESH",NEXUS TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1pn3VK4eyghYqdxlenBd-I/m3u8
+#EXTINF:-1 xui-id="30" tvg-id="" tvg-name="BANGLA TV" tvg-logo="https://banglaview.online:443/images/46f98ce39788f05b8f0a1f5de3215287.png" group-title="BANGLADESH",BANGLA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN9whsnCBNjaJPvUSqTK9Lqs/m3u8
+#EXTINF:-1 xui-id="31" tvg-id="" tvg-name="SA TV" tvg-logo="https://banglaview.online:443/images/fd2982dbf3c03abec8a050a772a8e11c.png" group-title="BANGLADESH",SA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8ElnjbVp_I2VMh1b0oVvyk/m3u8
+#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="PEACE TV BANGLA" tvg-logo="https://banglaview.online:443/images/451dba681087fbe661a0c60459787571.png" group-title="RELIGIOUS",PEACE TV BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2fLhaYiXhW2lZdjUrG9rW4/m3u8
+#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://banglaview.online:443/images/3aaf5edb19f998f1d091f4574aca2b80.png" group-title="BANGLADESH",EKUSHEY TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxckEXCdMDJFXEL0Ut5Fayg/m3u8
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="DBC NEWS" tvg-logo="https://banglaview.online:443/images/06f8c00fb687b120e47fda666733fb89.png" group-title="BANGLADESH",DBC NEWS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyIL8wiX2Jd3xuptV5ZxK8Q/m3u8
+#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="GAZI TV" tvg-logo="https://banglaview.online:443/images/a97267af7ba924a8610153b421e0509e.png" group-title="BANGLADESH",GAZI TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4phRlzjVBMDLqlfY6-iqWY/m3u8
+#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://banglaview.online:443/images/3faba8f3f9889724cd4856caad42efe1.png" group-title="BANGLADESH",ANANDA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_Pa6zTXl7mN3V2grqdZ2sY/m3u8
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="CHANNEL 9" tvg-logo="https://banglaview.online:443/images/e2f0dcddda54d081d8e75e83d04c84f4.png" group-title="BANGLADESH",CHANNEL 9
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3vu3u3pX-rPAhzLfw4omYY/m3u8
+#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="NEWS 24" tvg-logo="https://banglaview.online:443/images/10a8b11cf7233caf0de4ca7f4ad6e307.jpg" group-title="BANGLADESH",NEWS 24
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0DwI2k77T224xEwvQOeu5g/m3u8
+#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://banglaview.online:443/images/98cd454ab9194fd84d262e6e3de8b4f6.png" group-title="BANGLADESH",MOHONA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4ikQCTCv2GePTIoWpPxOYs/m3u8
+#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="RTV" tvg-logo="https://banglaview.online:443/images/31804ce743f2efbbbe47cb3efcebbc89.png" group-title="BANGLADESH",RTV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN6OznSZq1dQwS_Pko1U20Z4/m3u8
+#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="CHANNEL i" tvg-logo="https://banglaview.online:443/images/3892ea18b4490fe705b193cad23914ce.png" group-title="BANGLADESH",CHANNEL i
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0xW37H7hSriV8UzgqT6koQ/m3u8
+#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="https://banglaview.online:443/images/31950ca9da033daf9bec66b5a8bad071.png" group-title="BANGLADESH",BOISHAKHI TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8swfYtJzBpONuuWNOSoGqA/m3u8
+#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="DEEPTO TV" tvg-logo="https://banglaview.online:443/images/63d25c932338580cf22ef61034777959.png" group-title="BANGLADESH",DEEPTO TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8Xijha4cDO87VaVs807R9c/m3u8
+#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://banglaview.online:443/images/06459ac3880487fe7aa5df85f099a004.png" group-title="BANGLADESH",ATN BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxrX-Y_jPfnEHuaET8yWCaE/m3u8
+#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="ASIAN TV" tvg-logo="https://banglaview.online:443/images/87a20a33c0ff26d360e609c054dbc329.png" group-title="BANGLADESH",ASIAN TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4mdiFIYbZYHI_fJ0VM8bdE/m3u8
+#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="EKHON TV" tvg-logo="https://banglaview.online:443/images/004eb79fdeeec53b9cbeb7b0dacaa222.jpg" group-title="BANGLADESH",EKHON TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN31m60VOt_T8_1Gb-r-xars/m3u8
+#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://banglaview.online:443/images/2b7c64332566b6c26b261c87788895ff.png" group-title="BANGLADESH",GLOBAL TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_TnVKkW7V8p9MSo5G5y5ls/m3u8
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="NTV" tvg-logo="https://banglaview.online:443/images/114cb18718630ebacf12487b32c4a89e.png" group-title="BANGLADESH",NTV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxg7h05oaMIiP4NhDOZ0rA8/m3u8
+#EXTINF:-1 xui-id="49" tvg-id="" tvg-name="MAACHRANGA TV" tvg-logo="https://banglaview.online:443/images/3f5cb5cb7ef2d917ec4bd1ff264adf29.png" group-title="BANGLADESH",MAACHRANGA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8FBYo1EhdTu7Fthbu_VqJ0/m3u8
+#EXTINF:-1 xui-id="50" tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://banglaview.online:443/images/0ce70228aaa8318472ee984a66f31d71.png" group-title="BANGLADESH",CHANNEL 24
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2506ghugRLX5QetwDLNdH8/m3u8
+#EXTINF:-1 xui-id="51" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://banglaview.online:443/images/7ddfb89b83389e2c89af9299167bd0bc.png" group-title="BANGLADESH",JAMUNA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0j9hcJ0yXZweovnMU_fIxk/m3u8
+#EXTINF:-1 xui-id="52" tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://banglaview.online:443/images/38db69f097cfccf074d99a480c073f50.png" group-title="BANGLADESH",SOMOY TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3RiRvTpXwA67WN39OH6mEY/m3u8
+#EXTINF:-1 xui-id="53" tvg-id="" tvg-name="DURANTA TV" tvg-logo="https://banglaview.online:443/images/063ec458e6d979ac4c4ad1192f235cbd.png" group-title="BANGLADESH",DURANTA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxIYkakJDOnKug_orjNHpHc/m3u8
+#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="https://banglaview.online:443/images/d0bf7914af252d8a5e44fcafc2902f88.png" group-title="BANGLADESH",INDEPENDENT TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN7HQh6fHKO6lPlv_K_NJKC4/m3u8
+#EXTINF:-1 xui-id="55" tvg-id="" tvg-name="DESH TV" tvg-logo="https://banglaview.online:443/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="BANGLADESH",DESH TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0U_n23zhYsJyvF0nDcsd6g/m3u8
+#EXTINF:-1 xui-id="56" tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://banglaview.online:443/images/2666b4f72838a0db2a182513e07d7a65.png" group-title="BANGLADESH",ATN NEWS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxWomU9Vxp9N37uhTuQ8Kdk/m3u8
+#EXTINF:-1 xui-id="57" tvg-id="" tvg-name="EKATTOR TV" tvg-logo="https://banglaview.online:443/images/156b24455f88cd88ea623e35278b5594.png" group-title="BANGLADESH",EKATTOR TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_Q0ngXO7I4kiFdi27JEyP0/m3u8
+#EXTINF:-1 xui-id="58" tvg-id="" tvg-name="BANGLA VISION" tvg-logo="https://banglaview.online:443/images/5ad8208926d8ceb5e43177c24ec20357.png" group-title="BANGLADESH",BANGLA VISION
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0NIRUJV6eW08jGH82gezAw/m3u8
+#EXTINF:-1 xui-id="59" tvg-id="" tvg-name="ENTERR 10 BANGLA" tvg-logo="https://banglaview.online:443/images/cab550b9f4525f629e0e9d60d92062d9.png" group-title="INDIAN BANGLA",ENTERR 10 BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2vnBMw8ZSl7U_6_Sb6HLQo/m3u8
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="https://banglaview.online:443/images/b3de1e325c728803fef4c43cec8c06e2.png" group-title="SPORTS",SONY TEN 1 HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1JB3AiFrX13dtH4mpTrBy0/m3u8
+#EXTINF:-1 xui-id="61" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="https://banglaview.online:443/images/1c7142114802851e9be2638e31a272d1.png" group-title="SPORTS",SONY TEN 2 HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN5cahbsZOh5BGyl0iZk6jBA/m3u8
+#EXTINF:-1 xui-id="62" tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="https://banglaview.online:443/images/a154edbff7b580dd7f782e2b1d37398d.png" group-title="SPORTS",SONY TEN 3 HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-ixasCRKSpzCalBlT6pLyg/m3u8
+#EXTINF:-1 xui-id="64" tvg-id="" tvg-name="SONY TEN 5 HD" tvg-logo="https://banglaview.online:443/images/4fdce2f4d7195c6d443dd7ff4bd8510d.png" group-title="SPORTS",SONY TEN 5 HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN07LpGc7TyxwRGcCrEMELTo/m3u8
+#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://banglaview.online:443/images/f0ae48928080f4260e7a1d6bfffc6c6f.png" group-title="SPORTS",STAR SPORTS 1 HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-hFOMrd0cARI18JlqTwN9A/m3u8
+#EXTINF:-1 xui-id="66" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://banglaview.online:443/images/062f44eae761fda5711fa1336a42e618.png" group-title="SPORTS",STAR SPORTS 2 HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1hEV61zr15dfNwfBTxM-5U/m3u8
+#EXTINF:-1 xui-id="67" tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://banglaview.online:443/images/a1449592b0120eaf34e8aeb2305eb35a.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_jE7_C79C95_XRz4oNBypk/m3u8
+#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://banglaview.online:443/images/fc28228de9d2b3d068a6ee9511e9e519.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_0zON1UiXwqNlUsUNJZZFs/m3u8
+#EXTINF:-1 xui-id="69" tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://banglaview.online:443/images/475bea7156621bdea87b7e478721474c.png" group-title="SPORTS",PTV SPORTS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1OSUkv8mw9zLIPZGEpnCOw/m3u8
+#EXTINF:-1 xui-id="70" tvg-id="" tvg-name="A SPORTS" tvg-logo="https://banglaview.online:443/images/2f9462fc8b6b9d629ae5623f25867577.png" group-title="SPORTS",A SPORTS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1uBOQK4rBxLJ9cSz6GyTEY/m3u8
+#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://banglaview.online:443/images/a6bd435242f10d79653eadae8ffb21d8.png" group-title="SPORTS",T SPORTS HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN5nEPbnlkMBZoojzh7gQua8/m3u8
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="CRICKET GOLD" tvg-logo="" group-title="SPORTS",CRICKET GOLD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNzB7e8YLemW8SayrUpLqy0c/m3u8
+#EXTINF:-1 xui-id="74" tvg-id="" tvg-name="& PICTURE HD" tvg-logo="https://banglaview.online:443/images/2bd7d7e6b3194c71396a93c396fa6196.png" group-title="MOVIES",& PICTURE HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN68VpcBBFuco6DoEPXh5vxs/m3u8
+#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="https://banglaview.online:443/images/10e34d06ef17a3303f492d71ae1f06c5.png" group-title="MOVIES",ZEE CINEMA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxsOHrwHiH3N75nBVc-vWsc/m3u8
+#EXTINF:-1 xui-id="76" tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://banglaview.online:443/images/fda47eae707afb2e1ada1381483876b6.png" group-title="MOVIES",ZEE ANMOL CINEMA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNytnXntE3rvN3MTk9ib_4ow/m3u8
+#EXTINF:-1 xui-id="77" tvg-id="" tvg-name="ZEE ACTION" tvg-logo="https://banglaview.online:443/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="MOVIES",ZEE ACTION
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN7U_tc6pXY9cKO6pDjAsMUA/m3u8
+#EXTINF:-1 xui-id="78" tvg-id="" tvg-name="SONY MAX" tvg-logo="https://banglaview.online:443/images/ef885936cdabbc6e5bd91129e6dd4356.png" group-title="MOVIES",SONY MAX
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNzmUZp6sffcshaZ2_fygjnU/m3u8
+#EXTINF:-1 xui-id="79" tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://banglaview.online:443/images/2327da3f9409d03289d7e91332f6539c.png" group-title="MOVIES",B4U MOVIES
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN7Kw2kXPe0xlHPznPYDpVV4/m3u8
+#EXTINF:-1 xui-id="80" tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://banglaview.online:443/images/1de2f0721a5f07bc518141a39293ea9c.png" group-title="MOVIES",GOLDMINES MOVIES
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4Ln_UYZUMpqhsmm-Lknscc/m3u8
+#EXTINF:-1 xui-id="81" tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://banglaview.online:443/images/cac3eadbfa9988ffee26b796dcd02342.jpg" group-title="MOVIES",GOLDMINES
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN73N6adP0y452h3hNNbSHf4/m3u8
+#EXTINF:-1 xui-id="82" tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://banglaview.online:443/images/ef885936cdabbc6e5bd91129e6dd4356.png" group-title="MOVIES",SONY MAX HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN9o4ItAZYxYSPGTFPn3eZWg/m3u8
+#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://banglaview.online:443/images/a48e6d693b45233d6eff9550b0e716da.png" group-title="MOVIES",STAR GOLD SELECT
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4XlB8fvwAK-obY-HVf7pgY/m3u8
+#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://banglaview.online:443/images/3e3acc61e538bbfd6203f5d3ccba279f.png" group-title="MOVIES",STAR GOLD HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3vnb6N_trWI2guE7sGi1qM/m3u8
+#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://banglaview.online:443/images/33c567a1a2204fbf81f7e11c75230a9c.png" group-title="MOVIES",ZEE BOLLYWOOD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3pfFZtryXAsRcZhCNS7JD0/m3u8
+#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="& TV" tvg-logo="https://banglaview.online:443/images/c540d8ab8b5773c4e8c1905a62939e98.png" group-title="ENTERTAINMENT",& TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNx7cBalEaVKXu7FHzXs_tbI/m3u8
+#EXTINF:-1 xui-id="87" tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://banglaview.online:443/images/a5c4d2baa5a352f27806695ba52077b5.png" group-title="ENTERTAINMENT",SONY PIX HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1SrXzEQBysPFv2qTPjTP_I/m3u8
+#EXTINF:-1 xui-id="88" tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="https://banglaview.online:443/images/00b69b3dd58d2be4f120328b048b2923.png" group-title="ENTERTAINMENT",STAR BHARAT HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4856WwylYXv-HlwnTeyWww/m3u8
+#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="SONY HD" tvg-logo="https://banglaview.online:443/images/54261cd640063a9b1a5bd6bd5eb4bc87.png" group-title="ENTERTAINMENT",SONY HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_lREiQG_N2RjIuyax9SoS0/m3u8
+#EXTINF:-1 xui-id="90" tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://banglaview.online:443/images/0db8259cbbea0d55104d7ee2014e8ccf.png" group-title="ENTERTAINMENT",SONY SAB HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-NMYJatF6NiwgszEimf-U0/m3u8
+#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="https://banglaview.online:443/images/049b874c96e3357c04a38507776c9944.png" group-title="ENTERTAINMENT",STAR PLUS HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN6n8ppDzc048PNjvpZU4fPo/m3u8
+#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://banglaview.online:443/images/c97561753718d424220a0a08a86eacc6.png" group-title="ENTERTAINMENT",ZEE TV HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8J7Zk5Hhs6jsjwd0agTFzU/m3u8
+#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="COLORS HD" tvg-logo="https://banglaview.online:443/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="ENTERTAINMENT",COLORS HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN6oMLXfsD8xei2XkE8i10Ws/m3u8
+#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://banglaview.online:443/images/6444021bbbeb26b85f6b8adb9fc69dbc.png" group-title="BANGLADESH",NAGORIK TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1drTKCOY67sch-89WHVw6I/m3u8
+#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://banglaview.online:443/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="KIDS & INFO",DISNEY CHANNEL
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3B9NtxI_GP6CZEd9R-8f30/m3u8
+#EXTINF:-1 xui-id="98" tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://banglaview.online:443/images/a9859a0f0b425e096cce99f672142d5e.png" group-title="KIDS & INFO",DISCOVERY KIDS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8Gs99gw2U1xRYRtdDl9Cig/m3u8
+#EXTINF:-1 xui-id="99" tvg-id="" tvg-name="POGO" tvg-logo="https://banglaview.online:443/images/a944d6c9c6ca24c6df0bf46aa8ddb64c.png" group-title="KIDS & INFO",POGO
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN679m3GufARtZnixuAbPOMM/m3u8
+#EXTINF:-1 xui-id="101" tvg-id="" tvg-name="SONY YAY" tvg-logo="https://banglaview.online:443/images/4b332a1d984f28e69586a83bf0070a14.png" group-title="KIDS & INFO",SONY YAY
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNwgJNmdEGKF0NtZ5w6Y7oWg/m3u8
+#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="CARTOON NETWORK HD+" tvg-logo="https://banglaview.online:443/images/18e25f9178da30245aaa61cf747d0e0c.png" group-title="KIDS & INFO",CARTOON NETWORK HD+
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0-w9xxmDyjh161KAotrdTw/m3u8
+#EXTINF:-1 xui-id="103" tvg-id="" tvg-name="DISNEY SD" tvg-logo="https://banglaview.online:443/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="KIDS & INFO",DISNEY SD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0bZ1BIxh6nYLeonLIFM_R4/m3u8
+#EXTINF:-1 xui-id="104" tvg-id="" tvg-name="NAT GEO BANGLA" tvg-logo="https://banglaview.online:443/images/2e994647df142e4138fc029c2de62a2e.png" group-title="KIDS & INFO",NAT GEO BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxSEAUgNAua_4iRCrVIlkgU/m3u8
+#EXTINF:-1 xui-id="105" tvg-id="" tvg-name="DISCOVERY BANGLA" tvg-logo="https://banglaview.online:443/images/48e3cf79657da58d23a465bfb123207b.png" group-title="KIDS & INFO",DISCOVERY BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4VdNpP0ggFHOzXb1yHMi_E/m3u8
+#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="B4U MUSIC" tvg-logo="https://banglaview.online:443/images/b086ad6620c71dbbc7b9c1803ee7a689.png" group-title="MUSIC",B4U MUSIC
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1Pykp9LDIIKp4Smo3yuiR0/m3u8
+#EXTINF:-1 xui-id="107" tvg-id="" tvg-name="MTV INDIA" tvg-logo="https://banglaview.online:443/images/4f3e0317174da36de31c25fb30d3c216.png" group-title="MUSIC",MTV INDIA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN05j1egtMk8fvW90tNBWVvY/m3u8
+#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="HUM SITARY" tvg-logo="https://banglaview.online:443/images/e7f9202389f0e5c134edbb8c896d9c21.png" group-title="PAKISTAN",HUM SITARY
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN30-rwmKTn-0Gfc4G7g9IrE/m3u8
+#EXTINF:-1 xui-id="109" tvg-id="" tvg-name="HUM MASALA" tvg-logo="https://banglaview.online:443/images/9523caf69382f9ccf383998dd650ebbe.png" group-title="PAKISTAN",HUM MASALA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyAwcC3zB9DyA2eHb0zLuYs/m3u8
+#EXTINF:-1 xui-id="110" tvg-id="" tvg-name="GEO KAHANI" tvg-logo="" group-title="PAKISTAN",GEO KAHANI
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN7MUW1m5PeqWHdUMWsqg7fQ/m3u8
+#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="HUM TV" tvg-logo="https://banglaview.online:443/images/842de778884bff62fac7dfafc89890f0.png" group-title="PAKISTAN",HUM TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3ypuKOUA5QfNm1wMVevtis/m3u8
+#EXTINF:-1 xui-id="112" tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://banglaview.online:443/images/4b9cd9f3cda291536b2b9bda04f03b05.png" group-title="SPORTS",EUROSPORTS HD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8ggvadPgCvNevTmsX7esh4/m3u8
+#EXTINF:-1 xui-id="113" tvg-id="" tvg-name="XTREAM SPORTS" tvg-logo="" group-title="SPORTS",XTREAM SPORTS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNypupNIDtqZunbrwiNEECNw/m3u8
+#EXTINF:-1 xui-id="114" tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://banglaview.online:443/images/0bbfc806f5ab766e049cc9f848823196.png" group-title="KIDS & INFO",ANIMAL PLANET
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN5pEACQidbsnLPDdB_T5rnQ/m3u8
+#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://banglaview.online:443/images/d41983b5b1c974ef7872e250264ea690.png" group-title="MOVIES",B4U KADAK
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_hYhkn1IYJQivFFf5bbAu4/m3u8
+#EXTINF:-1 xui-id="116" tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="MUSIC",MUSIC INDIA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN49wvrL5tmS4LlHRFiF--0M/m3u8
+#EXTINF:-1 xui-id="117" tvg-id="" tvg-name="KHUSBOO BANGLA" tvg-logo="https://banglaview.online:443/images/0a726aab3b5e7259859705d84f7d19b6.png" group-title="INDIAN BANGLA",KHUSBOO BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4m6cbQnyDe5I5SdqmQ0ClY/m3u8
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="R.PLUS GOLD" tvg-logo="" group-title="INDIAN BANGLA",R.PLUS GOLD
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN5rkvzFP-RbWlZIwN8uJMtk/m3u8
+#EXTINF:-1 xui-id="119" tvg-id="" tvg-name="ORANGE BANGLA" tvg-logo="" group-title="INDIAN BANGLA",ORANGE BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN5Wl3hueDDucE6iC0HqlaNA/m3u8
+#EXTINF:-1 xui-id="120" tvg-id="" tvg-name="WOW CINEMA ONE" tvg-logo="https://banglaview.online:443/images/267f39c46451e4a2a422ad850f2b1804.png" group-title="MOVIES",WOW CINEMA ONE
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4VJUKhpaqXEzIwPuWygBVY/m3u8
+#EXTINF:-1 xui-id="121" tvg-id="" tvg-name="CHUMBOK TV" tvg-logo="https://banglaview.online:443/images/79f6136eeadccd95df0466c8e55e8475.png" group-title="ENTERTAINMENT",CHUMBOK TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN455C3VxRLUZTBvZ9N3TmTc/m3u8
+#EXTINF:-1 xui-id="122" tvg-id="" tvg-name="GOLDMINES 2" tvg-logo="https://banglaview.online:443/images/cac3eadbfa9988ffee26b796dcd02342.jpg" group-title="MOVIES",GOLDMINES 2
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2OSausKPuVlD8KfFizq3hA/m3u8
+#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="SANGEET BHUJPURI" tvg-logo="" group-title="MUSIC",SANGEET BHUJPURI
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN33lwnv7Hlkp_19ZBNVmgtM/m3u8
+#EXTINF:-1 xui-id="124" tvg-id="" tvg-name="PANJABI HITS" tvg-logo="" group-title="MUSIC",PANJABI HITS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2eMPny_BQ4kf9aHPKE87CM/m3u8
+#EXTINF:-1 xui-id="125" tvg-id="" tvg-name="OSCAR MOVIES" tvg-logo="https://banglaview.online:443/images/e8ef074060c71e35adc8fe68c0c6f8db.png" group-title="MOVIES",OSCAR MOVIES
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN64moTyFslrPnTfTiWXHNOs/m3u8
+#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="DD BANGLA" tvg-logo="https://banglaview.online:443/images/3cc1aa0299f387aeeedd55eb34848490.png" group-title="INDIAN BANGLA",DD BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-RTqOnwGRm5kj9UOPXLdgA/m3u8
+#EXTINF:-1 xui-id="127" tvg-id="" tvg-name="MANORANJAN TV" tvg-logo="https://banglaview.online:443/images/c32d8e388896c8c2da05f464b1555872.png" group-title="ENTERTAINMENT",MANORANJAN TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4kKtwUXKQWS5w6vwPFr5Qw/m3u8
+#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="MANORANJAN MOVIE" tvg-logo="https://banglaview.online:443/images/04e925851f26115dbf6999db500c74d3.png" group-title="MOVIES",MANORANJAN MOVIE
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1v-F5Je0alCQ7R_5IbCy0I/m3u8
+#EXTINF:-1 xui-id="130" tvg-id="" tvg-name="R PLUS NEWS" tvg-logo="https://banglaview.online:443/images/f71d181ed504c1ac5a7ef80bed7cc45c.jpg" group-title="INDIAN BANGLA",R PLUS NEWS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_Qx5nF9raI4uljGwfLdOwo/m3u8
+#EXTINF:-1 xui-id="131" tvg-id="" tvg-name="SHEMAROO TV" tvg-logo="https://banglaview.online:443/images/fe2abb2de6b079ea2e97ba2902b903fb.png" group-title="ENTERTAINMENT",SHEMAROO TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_xpswZ8Z5jJ7wGnGiy97cA/m3u8
+#EXTINF:-1 xui-id="132" tvg-id="" tvg-name="9X JHAKAAS" tvg-logo="https://banglaview.online:443/images/15cefe81cc6197165925f6d5ead38553.png" group-title="MUSIC",9X JHAKAAS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-gN-cPMkoKBYdDapskQLbE/m3u8
+#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="MANORANJAN GRAND" tvg-logo="https://banglaview.online:443/images/8f8eeb1c60b67b8c5d58128ad3302db8.png" group-title="MOVIES",MANORANJAN GRAND
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-iuRoEWEIkTD5YcAsY4WYA/m3u8
+#EXTINF:-1 xui-id="134" tvg-id="" tvg-name="DHOOM MUSIC BANGLA" tvg-logo="https://banglaview.online:443/images/4097cf83e78f86c31bbcb99df8e5f346.png" group-title="MUSIC",DHOOM MUSIC BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0Vr9BWShiOSQEb9dADWH3E/m3u8
+#EXTINF:-1 xui-id="135" tvg-id="" tvg-name="TABBAR HITS" tvg-logo="" group-title="MUSIC",TABBAR HITS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNznqvNmDV4MK626SGcQ4K2U/m3u8
+#EXTINF:-1 xui-id="136" tvg-id="" tvg-name="RONGEEN TV" tvg-logo="https://banglaview.online:443/images/7af7f4597df91ea1762e53235184a1a6.png" group-title="KIDS & INFO",RONGEEN TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN5SFeyQurdv2unD_n6eyRaI/m3u8
+#EXTINF:-1 xui-id="137" tvg-id="" tvg-name="RUPOSHI BANGLA" tvg-logo="https://banglaview.online:443/images/3c22157d03f170dd383e4c851487171c.png" group-title="INDIAN BANGLA",RUPOSHI BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNzvBUT3rCszytetb8918TTQ/m3u8
+#EXTINF:-1 xui-id="138" tvg-id="" tvg-name="BHOJPURI CINEMA" tvg-logo="https://banglaview.online:443/images/39ebfad4cddd899ea97bfb587c298aab.png" group-title="MOVIES",BHOJPURI CINEMA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN9AbKGP-NL6-X_5o8hmRsnU/m3u8
+#EXTINF:-1 xui-id="139" tvg-id="" tvg-name="9X TASHAAN" tvg-logo="" group-title="MUSIC",9X TASHAAN
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN7ecXKAHZqdjQ-fLeSiyWpI/m3u8
+#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="TEHZEEB" tvg-logo="" group-title="RELIGIOUS",TEHZEEB
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2eT3xwYPxK4oxHZPsqXw-E/m3u8
+#EXTINF:-1 xui-id="141" tvg-id="" tvg-name="MADANI TV BANGLA" tvg-logo="" group-title="RELIGIOUS",MADANI TV BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8ZmwZHC4ka2fwExRYx7d5M/m3u8
+#EXTINF:-1 xui-id="142" tvg-id="" tvg-name="DEEN TV" tvg-logo="" group-title="RELIGIOUS",DEEN TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-x-Q9kfkSZcdLOhuHos9j0/m3u8
+#EXTINF:-1 xui-id="143" tvg-id="" tvg-name="MADINA LIVE" tvg-logo="" group-title="RELIGIOUS",MADINA LIVE
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_iJWbqB0LbwYgDRwNK1NwM/m3u8
+#EXTINF:-1 xui-id="144" tvg-id="" tvg-name="MAKKA LIVE" tvg-logo="" group-title="RELIGIOUS",MAKKA LIVE
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8P0XTzUJSGsq4y-1sJ2BmA/m3u8
+#EXTINF:-1 xui-id="145" tvg-id="" tvg-name="IQRA BANGLA" tvg-logo="" group-title="RELIGIOUS",IQRA BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN9Z_xvY0_nWJFktnV5m-dn0/m3u8
+#EXTINF:-1 xui-id="146" tvg-id="" tvg-name="DISCOVER PAKISTAN" tvg-logo="" group-title="RELIGIOUS",DISCOVER PAKISTAN
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxrcrRSMUhz3_LmpDkPvOBU/m3u8
+#EXTINF:-1 xui-id="147" tvg-id="" tvg-name="MILLENNIUM NEWS 24" tvg-logo="https://banglaview.online:443/images/d17d36ac6d7642f121f62db4e8a4e7ac.jpg" group-title="WORLD CHANNEL",MILLENNIUM NEWS 24
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1X83RFM-98yJUQ5CR6nUfc/m3u8
+#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="TIME TELEVISION" tvg-logo="https://banglaview.online:443/images/638673c31802e5ba5bd5bf2c58aa2c49.png" group-title="BANGLADESH",TIME TELEVISION
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2d8iJAg8wdO0OdpEWHQ5io/m3u8
+#EXTINF:-1 xui-id="151" tvg-id="" tvg-name="CHANNEL 52" tvg-logo="https://banglaview.online:443/images/749f84db1795d61c770584d938c007aa.jpg" group-title="WORLD CHANNEL",CHANNEL 52
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_HVsQbdkwX0rav7q52H5Dk/m3u8
+#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="BANGLA 24 CANADA" tvg-logo="https://banglaview.online:443/images/3d8826948de3975e5aaf790357ef7db0.png" group-title="WORLD CHANNEL",BANGLA 24 CANADA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4eyxDEBxBy9rwyrEh4VUdc/m3u8
+#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="ION TV" tvg-logo="https://banglaview.online:443/images/a1a32fd606bb3686675289786fdfa7fd.jpg" group-title="WORLD CHANNEL",ION TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2fLQvJi_Gs0cWjPTy-i_d0/m3u8
+#EXTINF:-1 xui-id="154" tvg-id="" tvg-name="THE CHANNEL TV" tvg-logo="https://banglaview.online:443/images/19f86c3238caf47b101faaaaae458773.png" group-title="WORLD CHANNEL",THE CHANNEL TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNw-6eo5Morc6FcRc7EgvrOU/m3u8
+#EXTINF:-1 xui-id="155" tvg-id="" tvg-name="MILLENNIUM TV" tvg-logo="https://banglaview.online:443/images/4cf84bd868177e7a88172aa2b85595ae.png" group-title="WORLD CHANNEL",MILLENNIUM TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyQ8ica_nTlCQpcyI7ww1qY/m3u8
+#EXTINF:-1 xui-id="156" tvg-id="" tvg-name="WEATHER CHANNEL" tvg-logo="" group-title="WORLD CHANNEL",WEATHER CHANNEL
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN7bXUyEvNJDf-t1REiEylRs/m3u8
+#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="ACCU WEATHER" tvg-logo="" group-title="WORLD CHANNEL",ACCU WEATHER
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-vDcBDF_GignWYUw2G79FA/m3u8
+#EXTINF:-1 xui-id="158" tvg-id="" tvg-name="FOX WEATHER" tvg-logo="" group-title="WORLD CHANNEL",FOX WEATHER
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxANv9A5THjfKiCWNtf0Zb4/m3u8
+#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="SUN BANGLA" tvg-logo="https://banglaview.online:443/images/4c51104a81300a5af27174e46970d789.png" group-title="INDIAN BANGLA",SUN BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4K6VLdWEKAa2Icn9SR9ZR4/m3u8
+#EXTINF:-1 xui-id="160" tvg-id="" tvg-name="TV9 BANGLA" tvg-logo="https://banglaview.online:443/images/8ad34356c0f970142e977dce7dc216fe.jpg" group-title="INDIAN BANGLA",TV9 BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyflyy-LVHaDjzuQvcT_ktk/m3u8
+#EXTINF:-1 xui-id="161" tvg-id="" tvg-name="JAGO NEWS" tvg-logo="https://banglaview.online:443/images/0bf9fdad70170c8d1c1174b7fc023869.png" group-title="BANGLADESH",JAGO NEWS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4TvPv-sn51llq5IOVjh_5w/m3u8
+#EXTINF:-1 xui-id="162" tvg-id="" tvg-name="SANANDA TV" tvg-logo="https://banglaview.online:443/images/990a97da3821e736bcf5c3c0b8fc8f59.jpg" group-title="INDIAN BANGLA",SANANDA TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN9NBhs_FCcKNe3gnOp6hXLQ/m3u8
+#EXTINF:-1 xui-id="163" tvg-id="" tvg-name="WORLD WAR TV" tvg-logo="" group-title="KIDS & INFO",WORLD WAR TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNwI1j-Hw93LnvpaH89tMjVs/m3u8
+#EXTINF:-1 xui-id="164" tvg-id="" tvg-name="V2 BEATS" tvg-logo="" group-title="MUSIC",V2 BEATS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxIinPrsVg_EUqpuhMo8lIM/m3u8
+#EXTINF:-1 xui-id="165" tvg-id="" tvg-name="ZB Cinema" tvg-logo="" group-title="INDIAN BANGLA",ZB Cinema
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNwI1bwvNJO_C9SybgMrN5s0/m3u8
+#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="DW NEWS" tvg-logo="https://banglaview.online:443/images/9ba5d443ae4923e261bf66802d8a0fcc.png" group-title="INTERNATIONAL NEWS",DW NEWS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNy5Zmw2b7PvUbD2rwfrXaNU/m3u8
+#EXTINF:-1 xui-id="167" tvg-id="" tvg-name="CNN" tvg-logo="https://banglaview.online:443/images/cb36207976d3b837cbc6991630cc72b5.png" group-title="INTERNATIONAL NEWS",CNN
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNx-dPiRynguRGZa88oq0rNg/m3u8
+#EXTINF:-1 xui-id="168" tvg-id="" tvg-name="BBC" tvg-logo="https://banglaview.online:443/images/31dc829a067b11ad0b0a1b6190dc7757.png" group-title="INTERNATIONAL NEWS",BBC
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_5jK4DSCUb8_hRkiXlYTJs/m3u8
+#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="NDTV INDIA" tvg-logo="https://banglaview.online:443/images/4682633295a7c9daf68fb3d9b73431a3.png" group-title="INTERNATIONAL NEWS",NDTV INDIA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2TafNGYaOOcW-DgMAo6LuA/m3u8
+#EXTINF:-1 xui-id="170" tvg-id="" tvg-name="DANGAL TV" tvg-logo="https://banglaview.online:443/images/9be4b7294a27eb05808d8db22b5eb696.png" group-title="ENTERTAINMENT",DANGAL TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-8dImVFzuYAcPkfXfeVotU/m3u8
+#EXTINF:-1 xui-id="171" tvg-id="" tvg-name="SHOW BOX" tvg-logo="" group-title="MUSIC",SHOW BOX
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN5fhQ3vpQPMy1oSHmK1BVn0/m3u8
+#EXTINF:-1 xui-id="172" tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://banglaview.online:443/images/48e3cf79657da58d23a465bfb123207b.png" group-title="KIDS & INFO",DISCOVERY TURBO
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2SNyR-9CfkDjHBJyygqcMs/m3u8
+#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="AL JAZERA NEWS" tvg-logo="https://banglaview.online:443/images/1ee990c7a4b43230ce3e9b7334fe3f33.png" group-title="INTERNATIONAL NEWS",AL JAZERA NEWS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8gRJj1lkWpUZ266e1PIJO4/m3u8
+#EXTINF:-1 xui-id="174" tvg-id="" tvg-name="BANGLA DRAMA" tvg-logo="https://banglaview.online:443/images/ced8ba6cdbf28e473151ef6902a8b011.png" group-title="BANGLADESH",BANGLA DRAMA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxveUYWw5DtRhdb8MrHZWXw/m3u8
+#EXTINF:-1 xui-id="175" tvg-id="" tvg-name="BANGLA MOVIES" tvg-logo="https://banglaview.online:443/images/94c2508eebc7d8bf3a71bdfcd697c87b.png" group-title="BANGLADESH",BANGLA MOVIES
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN7dtvCKH5EmGjQR_fZ4HjCc/m3u8
+#EXTINF:-1 xui-id="176" tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://banglaview.online:443/images/2a5dee755e7d6487388964e4a70ec213.png" group-title="KIDS & INFO",BBC EARTH
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyi6UA6peounCSeZifYSnR4/m3u8
+#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="SKY NEWS WEATHER" tvg-logo="" group-title="WORLD CHANNEL",SKY NEWS WEATHER
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN5mf0gYV0reE8lTKXQuMkdY/m3u8
+#EXTINF:-1 xui-id="178" tvg-id="" tvg-name="MOVIES BANGLA" tvg-logo="https://banglaview.online:443/images/fceaa66617c710c8950719db1390f477.png" group-title="BANGLADESH",MOVIES BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-jJGtn7cUqZ9mHJyQX-4XA/m3u8
+#EXTINF:-1 xui-id="179" tvg-id="" tvg-name="CHANNEL S" tvg-logo="https://banglaview.online:443/images/aa5275628a252446053a2913bfa4d5b9.jpg" group-title="BANGLADESH",CHANNEL S
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-WzjjZGO7ryoDBU5ZG3ZmM/m3u8
+#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="MATRIVUMI TV" tvg-logo="https://banglaview.online:443/images/8d7639aa03ef2aa28e192eb236f44dd1.jpg" group-title="BANGLADESH",MATRIVUMI TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8-5Nonb7lsXRo-WdFOOwWU/m3u8
+#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="MAX BANGLA" tvg-logo="https://banglaview.online:443/images/542423871f7a38ed7059080f6ca93aef.png" group-title="BANGLADESH",MAX BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxfvVHRPABYoKeYk4Bynyp4/m3u8
+#EXTINF:-1 xui-id="182" tvg-id="" tvg-name="MASTII" tvg-logo="" group-title="MUSIC",MASTII
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2A8rOIeAdvRk8HPx_wBxV8/m3u8
+#EXTINF:-1 xui-id="183" tvg-id="" tvg-name="WEATHER SPY" tvg-logo="" group-title="WORLD CHANNEL",WEATHER SPY
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN1l5ZAUCbXhQey68D8scI2Y/m3u8
+#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="OAN" tvg-logo="" group-title="WORLD CHANNEL",OAN
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNyGvp9vMKwzno76wYKnuvjY/m3u8
+#EXTINF:-1 xui-id="185" tvg-id="" tvg-name="GEO ENT" tvg-logo="" group-title="WORLD CHANNEL",GEO ENT
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNz8qbb8lh9rbIpCXCT4U9Iw/m3u8
+#EXTINF:-1 xui-id="186" tvg-id="" tvg-name="ISLAM" tvg-logo="" group-title="RELIGIOUS",ISLAM
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNzQoqwSVbMBDPjD3o3sBMqM/m3u8
+#EXTINF:-1 xui-id="187" tvg-id="" tvg-name="SERVER 1" tvg-logo="https://banglaview.online:443/images/ac48f0a4941511cb11fb27ee3a99083e.png" group-title="BPL LIVE",SERVER 1
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN6SDRITAXCN7_tNqFSTe9GU/m3u8
+#EXTINF:-1 xui-id="188" tvg-id="" tvg-name="DANGAL TV 2" tvg-logo="https://banglaview.online:443/images/9be4b7294a27eb05808d8db22b5eb696.png" group-title="ENTERTAINMENT",DANGAL TV 2
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN0BekGSAlPPt2a-5cTojT0M/m3u8
+#EXTINF:-1 xui-id="190" tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://banglaview.online:443/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2vlv__MdWflUmNJpJKK0gQ/m3u8
+#EXTINF:-1 xui-id="191" tvg-id="" tvg-name="AMAR BANGLA" tvg-logo="https://banglaview.online:443/images/a58a97588099b601f5a213de6036d9ee.jpg" group-title="INDIAN BANGLA",AMAR BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNwNzvxIklJd_XR8z84kuR18/m3u8
+#EXTINF:-1 xui-id="192" tvg-id="" tvg-name="MON TV BANGLA" tvg-logo="https://banglaview.online:443/images/a82cfd8eccf136ecb5f32eb3ccba37a7.png" group-title="INDIAN BANGLA",MON TV BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN3tzCe5bwjnHkd8oQv-M2ig/m3u8
+#EXTINF:-1 xui-id="193" tvg-id="" tvg-name="AMAR DIGITAL" tvg-logo="https://banglaview.online:443/images/a4b0bae2e633af83c1b900e6574afe8f.jpg" group-title="INDIAN BANGLA",AMAR DIGITAL
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4-J2OkmdHauxcoS8c3eBfA/m3u8
+#EXTINF:-1 xui-id="194" tvg-id="" tvg-name="ABP ANANDA" tvg-logo="https://banglaview.online:443/images/34312c8a65f9583aa8095b6a9fbac101.png" group-title="INDIAN BANGLA",ABP ANANDA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN9A6rWpNeyxerraGSniW7d8/m3u8
+#EXTINF:-1 xui-id="195" tvg-id="" tvg-name="ARY NEWS" tvg-logo="" group-title="PAKISTAN",ARY NEWS
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN557Kz2G5iNsV_YS78y0eks/m3u8
+#EXTINF:-1 xui-id="196" tvg-id="" tvg-name="ARY DIGITAL" tvg-logo="" group-title="PAKISTAN",ARY DIGITAL
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN4EgzdHLFQuDURHG6j4uRdw/m3u8
+#EXTINF:-1 xui-id="197" tvg-id="" tvg-name="ARY ZINDEGI" tvg-logo="" group-title="PAKISTAN",ARY ZINDEGI
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-yrceMv99WMUfn27zs8FqE/m3u8
+#EXTINF:-1 xui-id="200" tvg-id="" tvg-name="9XM" tvg-logo="https://banglaview.online:443/images/3fe2f9c39f72a6863f2d08aa76200cdf.png" group-title="MUSIC",9XM
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_XHkOz2FaBizi0qXeDi5FQ/m3u8
+#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="SERVER 2" tvg-logo="https://banglaview.online:443/images/ac48f0a4941511cb11fb27ee3a99083e.png" group-title="BPL LIVE",SERVER 2
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-8GCxiwH04fDpVLK8vp5qw/m3u8
+#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="NEWS INDIA 24X7" tvg-logo="https://banglaview.online:443/images/41952ad02118b2f425981c8365d622c8.png" group-title="INTERNATIONAL NEWS",NEWS INDIA 24X7
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN2naXqLtobZEsRyG8fmJdXM/m3u8
+#EXTINF:-1 xui-id="203" tvg-id="" tvg-name="DESHI PLAY TV" tvg-logo="" group-title="ENTERTAINMENT",DESHI PLAY TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN79Bla3znAuZQ-jHIlJnvPI/m3u8
+#EXTINF:-1 xui-id="204" tvg-id="" tvg-name="TARA BANGLA" tvg-logo="https://banglaview.online:443/images/079cc0026e17d80d37e7b76d746e74eb.png" group-title="INDIAN BANGLA",TARA BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLNxSy9E5LVskP5qOGtOXJpjk/m3u8
+#EXTINF:-1 xui-id="205" tvg-id="" tvg-name="BANGLA 1 TV" tvg-logo="https://banglaview.online:443/images/2ba87a1f547667059ece21f0d7ea1e2f.png" group-title="BANGLADESH",BANGLA 1 TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN8P-QCia1SctSwFmIH7mgxE/m3u8
+#EXTINF:-1 xui-id="206" tvg-id="" tvg-name="T Sports" tvg-logo="https://banglaview.online:443/images/ac48f0a4941511cb11fb27ee3a99083e.png" group-title="LIVE SPORTS CRICKET",T Sports
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-P4AZSX26pIwHdTmEwVfak/m3u8
+#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="TORONI TV" tvg-logo="https://banglaview.online:443/images/49a2872036dfed27fa012879315b1072.png" group-title="BANGLADESH",TORONI TV
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN28lAK7aKQ7FuVoJcrcRHq0/m3u8
+#EXTINF:-1 xui-id="214" tvg-id="" tvg-name="MUSIC BANGLA" tvg-logo="https://banglaview.online:443/images/a774c5f1aac9b5092637d470fce36135.jpg" group-title="MUSIC",MUSIC BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN_XcKSJm2AVyjeZda9c5c7k/m3u8
+#EXTINF:-1 xui-id="215" tvg-id="" tvg-name="MUSICAL BANGLA" tvg-logo="https://banglaview.online:443/images/7f95b6a63ffd0f4abf3d98a6621dd0f8.jpg" group-title="MUSIC",MUSICAL BANGLA
+https://play.dgtv.xyz:443/play/g3tkXkLDxlopA0-6r0RLN-MDxpeUARaSaVcRsGlPx1k/m3u8

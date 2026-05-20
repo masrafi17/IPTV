@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Deepto Television HD" group-title="Bangla",Deepto Television HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Bangla Vision" group-title="Bangla",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Bangladesh Television (BTV)" group-title="Bangla",Bangladesh Television (BTV)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-name="NTV Bangladesh" group-title="Bangla",NTV Bangladesh
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-name="ATN Bangla" group-title="Bangla",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel i HD" group-title="Bangla",Channel i HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Jamuna Television" group-title="Bangla",Jamuna Television
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-name="ATN News" group-title="News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 24 HD" group-title="News",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Ekattor TV HD" group-title="News",Ekattor TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Independent Television" group-title="News",Independent Television
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Somoy Television" group-title="News",Somoy Television
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8

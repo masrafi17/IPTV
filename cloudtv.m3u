@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",ATN News
+http://172.19.178.180/servers-stailer/39srv.php?stream=atn_news&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",BTV News
+http://172.19.178.180/servers-stailer/39srv.php?stream=btv_news&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Channel 24
+http://172.19.178.180/servers-stailer/39srv.php?stream=channel_24&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",DBC
+http://172.19.178.180/servers-stailer/39srv.php?stream=dbc_news&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Ekhon
+http://172.19.178.180/servers-stailer/39srv.php?stream=ekhon_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Independent
+http://172.19.178.180/servers-stailer/39srv.php?stream=independent_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Jamuna TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=jamuna_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",News 24
+http://172.19.178.180/servers-stailer/39srv.php?stream=news24&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Somoy TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=somoy_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Ekattor TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=71&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Zee 24 Ghanta
+http://172.19.178.180/servers-stailer/59srv.php?stream=zee_24_ghanta&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Geo News
+http://172.19.178.180/servers-stailer/142srv.php?stream=geo_news_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Al Jazeera
+http://172.19.178.180/servers-stailer/144srv.php?stream=aljazeera_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CNN
+http://172.19.178.180/servers-stailer/144srv.php?stream=cnn&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",BBC News
+http://172.19.178.180/servers-stailer/144srv.php?stream=bbc_news&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ATN Bangla
+http://172.19.178.180/servers-stailer/39srv.php?stream=atn_bangla&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Asian TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=asian_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Ananda TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=ananda_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=bangla_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Boishakhi TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=boishakhi_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bijoy TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=bijoy_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla Vision
+http://172.19.178.180/servers-stailer/39srv.php?stream=bangla_vision&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",BTV
+http://172.19.178.180/servers-stailer/39srv.php?stream=btv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Channel I
+http://172.19.178.180/servers-stailer/39srv.php?stream=channel_i&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Channel 9
+http://172.19.178.180/servers-stailer/39srv.php?stream=channel9&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Deepto
+http://172.19.178.180/servers-stailer/39srv.php?stream=deepto_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Desh TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=desh_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Ekushey TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=etv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",GTV
+http://172.19.178.180/servers-stailer/39srv.php?stream=gtv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Global Television
+http://172.19.178.180/servers-stailer/39srv.php?stream=global_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Maasranga
+http://172.19.178.180/servers-stailer/39srv.php?stream=maasranga_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Mohona TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=mohona_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",My TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=my_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Movie Bangla
+http://172.19.178.180/servers-stailer/39srv.php?stream=movie_bangla_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Nagorik
+http://172.19.178.180/servers-stailer/39srv.php?stream=nagorik_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",NTV
+http://172.19.178.180/servers-stailer/39srv.php?stream=ntv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Nexus Television
+http://172.19.178.180/servers-stailer/39srv.php?stream=nexus_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",RTV
+http://172.19.178.180/servers-stailer/39srv.php?stream=rtv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",SA TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=satv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=star_jalsha_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=zee_bangla_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Colors Bangla HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=colors_bangla_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Sony Aath
+http://172.19.178.180/servers-stailer/59srv.php?stream=sony_aath&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=jalsha_movies_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema
+http://172.19.178.180/servers-stailer/59srv.php?stream=zee_bangla_cinema&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Colors Bangla Cinema
+http://172.19.178.180/servers-stailer/59srv.php?stream=colors_bangla_cinema&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Aakash Aath
+http://172.19.178.180/servers-stailer/59srv.php?stream=akash_aat&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Enterr10 Bangla
+http://172.19.178.180/servers-stailer/59srv.php?stream=enterr_10&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Rongeen TV
+http://172.19.178.180/servers-stailer/59srv.php?stream=rongeen_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Ruposhi Bangla
+http://172.19.178.180/servers-stailer/59srv.php?stream=ruposhi_bangla&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian Bangla",Sun Bangla HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=sun_bangla_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Star Plus HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=star_plus_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Zee TV HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=zee_tv_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Sony Entertainment Television HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=sony_ent_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Colors HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=colors_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",&TV HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=and_tv_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Star Bharat HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=star_bharat_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Star Gold HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=star_gold_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Star Gold 2 HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=star_gold_2_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Star Gold Select HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=star_gold_select_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Zee Cinema HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=zee_cinema_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Zee Cinema
+http://172.19.178.180/servers-stailer/142srv.php?stream=zee_cinema&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Zee Action
+http://172.19.178.180/servers-stailer/142srv.php?stream=zee_action&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Zee Anmol
+http://172.19.178.180/servers-stailer/142srv.php?stream=zee_anmol&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Zee Bollywood
+http://172.19.178.180/servers-stailer/142srv.php?stream=zee_bollywood&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Sony Max HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=sony_max_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Sony Max
+http://172.19.178.180/servers-stailer/142srv.php?stream=sony_max&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Sony Max 2
+http://172.19.178.180/servers-stailer/142srv.php?stream=sony_max2&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Sony Sab
+http://172.19.178.180/servers-stailer/142srv.php?stream=sony_sab&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Sony Wah
+http://172.19.178.180/servers-stailer/142srv.php?stream=sony_wah&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Colors Cineplex HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=colors_cineplex_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",& Pictures HD
+http://172.19.178.180/servers-stailer/142srv.php?stream=and_picturs_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",B4U Movies
+http://172.19.178.180/servers-stailer/142srv.php?stream=b4u_movies&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Goldmines
+http://172.19.178.180/servers-stailer/142srv.php?stream=goldmines&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Goldmines Bollywood
+http://172.19.178.180/servers-stailer/142srv.php?stream=goldmines_bollywood&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi",Goldmines Movies
+http://172.19.178.180/servers-stailer/142srv.php?stream=goldmines_movies&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Sony Pix
+http://172.19.178.180/servers-stailer/144srv.php?stream=sony_pix_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",&flix
+http://172.19.178.180/servers-stailer/144srv.php?stream=and_flix_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",&prive
+http://172.19.178.180/servers-stailer/144srv.php?stream=and_prive_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",&xplor
+http://172.19.178.180/servers-stailer/144srv.php?stream=and_xplore&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",AXN
+http://172.19.178.180/servers-stailer/144srv.php?stream=axn_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Lotus
+http://172.19.178.180/servers-stailer/144srv.php?stream=lotus_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",MN+
+http://172.19.178.180/servers-stailer/144srv.php?stream=mn_plus&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",MNX
+http://172.19.178.180/servers-stailer/144srv.php?stream=mnx_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Movies Now
+http://172.19.178.180/servers-stailer/144srv.php?stream=movies_now_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Romedy Now
+http://172.19.178.180/servers-stailer/144srv.php?stream=romedy_now&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Star Movies
+http://172.19.178.180/servers-stailer/144srv.php?stream=star_movies_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Star Movies Select
+http://172.19.178.180/servers-stailer/144srv.php?stream=star_movies_select_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Zee Cafe
+http://172.19.178.180/servers-stailer/144srv.php?stream=zee_cafe_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",T Sports
+http://172.19.178.180/servers-stailer/49srv.php?stream=t_sports&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Star Sports 1 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_1_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Star Sports 2 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_2_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Star Sports 3
+http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_3&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_select_1_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Star Sports Select 2 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_select_2_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports Ten 1 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_1_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports Ten 2 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_2_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports Ten 3 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_3_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports Ten 4 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_4_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports Ten 5 HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_5_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Ten Cricket
+http://172.19.178.180/servers-stailer/49srv.php?stream=sony_ten_cricket&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",A Sports HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=a_sports_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",PTV Sports HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=ptv_sports_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Eurosport HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=eurosports_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fast Sports HD
+http://172.19.178.180/servers-stailer/49srv.php?stream=fast_sports_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Golf Channel
+http://172.19.178.180/servers-stailer/49srv.php?stream=golf_sports&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Premier Sports
+http://172.19.178.180/servers-stailer/148srv.php?stream=football_willowsportscircbuzz&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fancode
+http://172.19.178.180/servers-stailer/148srv.php?stream=2live&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Top Event
+http://172.19.178.180/servers-stailer/148srv.php?stream=football_tnt&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",TNT Sports 1
+http://172.19.178.180/servers-stailer/148srv.php?stream=football_tntsports1&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",TNT Sports 2
+http://172.19.178.180/servers-stailer/148srv.php?stream=football_tntaq&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Willow Sports
+http://172.19.178.180/servers-stailer/148srv.php?stream=football_willowsports&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Prime
+http://172.19.178.180/servers-stailer/148srv.php?stream=2live&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Premier Sports 1
+http://172.19.178.180/servers-stailer/148srv.php?stream=2live&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Duronto
+http://172.19.178.180/servers-stailer/39srv.php?stream=duronto_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Bal Bharat
+http://172.19.178.180/servers-stailer/143srv.php?stream=bal_bharat&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",ETV Bal Bharat
+http://172.19.178.180/servers-stailer/143srv.php?stream=bal_bharat&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cartoon Network
+http://172.19.178.180/servers-stailer/143srv.php?stream=cartoon_network&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",CN
+http://172.19.178.180/servers-stailer/143srv.php?stream=cn&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Discovery Kids
+http://172.19.178.180/servers-stailer/143srv.php?stream=discovery_kids&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Disney Channel
+http://172.19.178.180/servers-stailer/143srv.php?stream=disney_hindi&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Super Hungama
+http://172.19.178.180/servers-stailer/143srv.php?stream=super_hungama&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Hungama
+http://172.19.178.180/servers-stailer/143srv.php?stream=hungama&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Nick
+http://172.19.178.180/servers-stailer/143srv.php?stream=nick&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Nick Jr
+http://172.19.178.180/servers-stailer/143srv.php?stream=nick_jr&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Pogo
+http://172.19.178.180/servers-stailer/143srv.php?stream=pogo&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Sonic
+http://172.19.178.180/servers-stailer/143srv.php?stream=sonic&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Sony Yay
+http://172.19.178.180/servers-stailer/143srv.php?stream=sony_yay&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",YRF Music
+http://172.19.178.180/servers-stailer/147srv.php?stream=yrf_music_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Show Box
+http://172.19.178.180/servers-stailer/147srv.php?stream=show_box&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Trace Urban
+http://172.19.178.180/servers-stailer/147srv.php?stream=trace_urban&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Mastiii
+http://172.19.178.180/servers-stailer/147srv.php?stream=mastiii&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Sangeet Bangla
+http://172.19.178.180/servers-stailer/147srv.php?stream=sangeet_bangla&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",B4U Music
+http://172.19.178.180/servers-stailer/147srv.php?stream=b4u_music&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",9X Jalwa
+http://172.19.178.180/servers-stailer/147srv.php?stream=9x_jalwa&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Hitz
+http://172.19.178.180/servers-stailer/144srv.php?stream=hitz_music&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Zoom
+http://172.19.178.180/servers-stailer/142srv.php?stream=zoom&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Zing
+http://172.19.178.180/servers-stailer/142srv.php?stream=zing&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Urdu",Hum TV
+http://172.19.178.180/servers-stailer/142srv.php?stream=hum_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Urdu",Hum Sitaray
+http://172.19.178.180/servers-stailer/142srv.php?stream=hum_sitarey&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Madani Channel Bangla
+http://172.19.178.180/servers-stailer/146srv.php?stream=madani_tv_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Peace TV Bangla
+http://172.19.178.180/servers-stailer/146srv.php?stream=peace_tv_bangla&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Iqra Bangla
+http://172.19.178.180/servers-stailer/146srv.php?stream=iqra_bangla&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Hum Masala
+http://172.19.178.180/servers-stailer/142srv.php?stream=hum_masala&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Love Nature
+http://172.19.178.180/servers-stailer/144srv.php?stream=love_nature&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Animal Planet HD
+http://172.19.178.180/servers-stailer/145srv.php?stream=animal_planet_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",BBC Earth HD
+http://172.19.178.180/servers-stailer/145srv.php?stream=bbc_earth_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Discovery HD
+http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Discovery Bangla
+http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_bangla&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Discovery Science
+http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_science&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Discovery Turbo
+http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_turbo&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",History TV18
+http://172.19.178.180/servers-stailer/145srv.php?stream=history_tv_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Investigation Discovery
+http://172.19.178.180/servers-stailer/145srv.php?stream=investigation_discovery&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Nat Geo Wild HD
+http://172.19.178.180/servers-stailer/145srv.php?stream=natgeo_wild_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",National Geographic HD
+http://172.19.178.180/servers-stailer/145srv.php?stream=ngo_gerophy_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Sony BBC Earth HD
+http://172.19.178.180/servers-stailer/145srv.php?stream=sony_bbc_earth_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Red Bull TV
+http://172.19.178.180/servers-stailer/145srv.php?stream=redbol_tv&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",TLC HD
+http://172.19.178.180/servers-stailer/145srv.php?stream=tlc_hd&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Travel XP
+http://172.19.178.180/servers-stailer/145srv.php?stream=travel_xp&format=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Wild Earth
+http://172.19.178.180/servers-stailer/145srv.php?stream=wild_earth&format=m3u8

@@ -1,0 +1,96 @@
+#EXTM3U
+
+############  𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ BANGLA TV ############
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",Ayna TV
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",Ayna HD
+https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",Ayna 2
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",Bangla Jagat TV
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",Gazi TV
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",Nagorik TV
+http://116.204.149.16/nagorik/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",Maasranga
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",NRB EU
+https://app24.jagobd.com.bd/.../nrb-eu.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🇧🇩 BANGLA",SSPS2 HD
+https://tvsen7.aynaott.com/ssps2hd/index.m3u8
+
+
+############  𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ NEWS ZONE ############
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 📰 NEWS",ABP Ananda
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/1e4516fa-023a-4807-8e3d-479b346b4a62/2.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 📰 NEWS",News18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 📰 NEWS",R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 📰 NEWS",DBC News
+https://app24.jagobd.com.bd/.../dbcnews.stream/tracks-v1a1/mono.m3u8
+
+
+############  𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ ENTERTAINMENT ############
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🎬 MOVIE",Dhoom TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🎬 MOVIE",Pishow TV
+https://cdn-4.pishow.tv/live/969/969_1.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🎬 MOVIE",DeepTo TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+
+############  𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ SPORTS ZONE ############
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ ⚽ SPORTS",T Sports
+https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ ⚽ SPORTS",A Sports
+https://mrgifytv.pages.dev/bpl/asports/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ ⚽ SPORTS",PTV Sports
+https://futbollive.online/PTV-Sports/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ ⚽ SPORTS",Astro Football
+https://smart.bengaldigital.live/AstroFootball/index.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ ⚽ SPORTS",Dubai Sports HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ ⚽ SPORTS",Dubai Sports 5
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ ⚽ SPORTS",Mega TV Sports
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+
+
+############  𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ MISC ############
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🌍 MIX",Cloud TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🌍 MIX",Live Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="𝐙𝐀𝐊𝐀𝐑𝐈𝐀☬ 🌍 MIX",Generic Stream
+http://210.4.72.204/hls-live/livepkgr/definst/liveevent/livestream3.m3u8
