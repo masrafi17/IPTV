@@ -1,609 +1,2290 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Sports",T Sports
-http://172.19.178.180/servers-stailer/49srv.php?stream=t_sports&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_1_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Star Sports 2 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_2_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Star Sports 3
-http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_3&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_select_1_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_select_2_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports Ten 1 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_1_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports Ten 2 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_2_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports Ten 3 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_3_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports Ten 4 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_4_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports Ten 5 HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_5_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Ten Cricket
-http://172.19.178.180/servers-stailer/49srv.php?stream=sony_ten_cricket&format=m3u8
-
-#EXTINF:-1 group-title="Sports",A Sports HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=a_sports_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",PTV Sports HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=ptv_sports_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Eurosport HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=eurosports_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Fast Sports HD
-http://172.19.178.180/servers-stailer/49srv.php?stream=fast_sports_hd&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Golf Channel
-http://172.19.178.180/servers-stailer/49srv.php?stream=golf_sports&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Premier Sports
-http://172.19.178.180/servers-stailer/148srv.php?stream=football_willowsportscircbuzz&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Fancode
-http://172.19.178.180/servers-stailer/148srv.php?stream=2live&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Sky Sport Top Event
-http://172.19.178.180/servers-stailer/148srv.php?stream=football_tnt&format=m3u8
-
-#EXTINF:-1 group-title="Sports",TNT Sports 1
-http://172.19.178.180/servers-stailer/148srv.php?stream=football_tntsports1&format=m3u8
-
-#EXTINF:-1 group-title="Sports",TNT Sports 2
-http://172.19.178.180/servers-stailer/148srv.php?stream=football_tntaq&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Willow Sports
-http://172.19.178.180/servers-stailer/148srv.php?stream=football_willowsports&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Prime
-http://172.19.178.180/servers-stailer/148srv.php?stream=2live&format=m3u8
-
-#EXTINF:-1 group-title="Sports",Premier Sports 1
-http://172.19.178.180/servers-stailer/148srv.php?stream=2live&format=m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Movies",Sony Pix
-http://172.19.178.180/servers-stailer/144srv.php?stream=sony_pix_hd&format=m3u8
-
-#EXTINF:-1 group-title="Movies",&flix
-http://172.19.178.180/servers-stailer/144srv.php?stream=and_flix_hd&format=m3u8
-
-#EXTINF:-1 group-title="Movies",&prive
-http://172.19.178.180/servers-stailer/144srv.php?stream=and_prive_hd&format=m3u8
-
-#EXTINF:-1 group-title="Movies",&xplor
-http://172.19.178.180/servers-stailer/144srv.php?stream=and_xplore&format=m3u8
-
-#EXTINF:-1 group-title="Movies",AXN
-http://172.19.178.180/servers-stailer/144srv.php?stream=axn_hd&format=m3u8
-
-#EXTINF:-1 group-title="Movies",Lotus
-http://172.19.178.180/servers-stailer/144srv.php?stream=lotus_tv&format=m3u8
-
-#EXTINF:-1 group-title="Movies",MN+
-http://172.19.178.180/servers-stailer/144srv.php?stream=mn_plus&format=m3u8
-
-#EXTINF:-1 group-title="Movies",MNX
-http://172.19.178.180/servers-stailer/144srv.php?stream=mnx_hd&format=m3u8
-
-#EXTINF:-1 group-title="Movies",Movies Now
-http://172.19.178.180/servers-stailer/144srv.php?stream=movies_now_hd&format=m3u8
-
-#EXTINF:-1 group-title="Movies",Romedy Now
-http://172.19.178.180/servers-stailer/144srv.php?stream=romedy_now&format=m3u8
-
-#EXTINF:-1 group-title="Movies",Star Movies
-http://172.19.178.180/servers-stailer/144srv.php?stream=star_movies_hd&format=m3u8
-
-#EXTINF:-1 group-title="Movies",Star Movies Select
-http://172.19.178.180/servers-stailer/144srv.php?stream=star_movies_select_hd&format=m3u8
-
-#EXTINF:-1 group-title="Movies",Zee Cafe
-http://172.19.178.180/servers-stailer/144srv.php?stream=zee_cafe_hd&format=m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Bangla",ATN Bangla
-http://172.19.178.180/servers-stailer/39srv.php?stream=atn_bangla&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Asian TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=asian_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Ananda TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=ananda_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Bangla TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=bangla_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Boishakhi TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=boishakhi_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Bijoy TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=bijoy_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Bangla Vision
-http://172.19.178.180/servers-stailer/39srv.php?stream=bangla_vision&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",BTV
-http://172.19.178.180/servers-stailer/39srv.php?stream=btv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Channel I
-http://172.19.178.180/servers-stailer/39srv.php?stream=channel_i&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Channel 9
-http://172.19.178.180/servers-stailer/39srv.php?stream=channel9&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Deepto
-http://172.19.178.180/servers-stailer/39srv.php?stream=deepto_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Desh TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=desh_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Ekushey TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=etv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",GTV
-http://172.19.178.180/servers-stailer/39srv.php?stream=gtv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Global Television
-http://172.19.178.180/servers-stailer/39srv.php?stream=global_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Maasranga
-http://172.19.178.180/servers-stailer/39srv.php?stream=maasranga_hd&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Mohona TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=mohona_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",My TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=my_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Movie Bangla
-http://172.19.178.180/servers-stailer/39srv.php?stream=movie_bangla_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Nagorik
-http://172.19.178.180/servers-stailer/39srv.php?stream=nagorik_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",NTV
-http://172.19.178.180/servers-stailer/39srv.php?stream=ntv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",Nexus Television
-http://172.19.178.180/servers-stailer/39srv.php?stream=nexus_tv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",RTV
-http://172.19.178.180/servers-stailer/39srv.php?stream=rtv&format=m3u8
-
-#EXTINF:-1 group-title="Bangla",SA TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=satv&format=m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="News",ATN News
-http://172.19.178.180/servers-stailer/39srv.php?stream=atn_news&format=m3u8
-
-#EXTINF:-1 group-title="News",BTV News
-http://172.19.178.180/servers-stailer/39srv.php?stream=btv_news&format=m3u8
-
-#EXTINF:-1 group-title="News",Channel 24
-http://172.19.178.180/servers-stailer/39srv.php?stream=channel_24&format=m3u8
-
-#EXTINF:-1 group-title="News",DBC
-http://172.19.178.180/servers-stailer/39srv.php?stream=dbc_news&format=m3u8
-
-#EXTINF:-1 group-title="News",Ekhon
-http://172.19.178.180/servers-stailer/39srv.php?stream=ekhon_tv&format=m3u8
-
-#EXTINF:-1 group-title="News",Independent
-http://172.19.178.180/servers-stailer/39srv.php?stream=independent_tv&format=m3u8
-
-#EXTINF:-1 group-title="News",Jamuna TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=jamuna_tv&format=m3u8
-
-#EXTINF:-1 group-title="News",News 24
-http://172.19.178.180/servers-stailer/39srv.php?stream=news24&format=m3u8
-
-#EXTINF:-1 group-title="News",Somoy TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=somoy_tv&format=m3u8
-
-#EXTINF:-1 group-title="News",Ekattor TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=71&format=m3u8
-
-#EXTINF:-1 group-title="News",Zee 24 Ghanta
-http://172.19.178.180/servers-stailer/59srv.php?stream=zee_24_ghanta&format=m3u8
-
-#EXTINF:-1 group-title="News",Geo News
-http://172.19.178.180/servers-stailer/142srv.php?stream=geo_news_hd&format=m3u8
-
-#EXTINF:-1 group-title="News",Al Jazeera
-http://172.19.178.180/servers-stailer/144srv.php?stream=aljazeera_hd&format=m3u8
-
-#EXTINF:-1 group-title="News",CNN
-http://172.19.178.180/servers-stailer/144srv.php?stream=cnn&format=m3u8
-
-#EXTINF:-1 group-title="News",BBC News
-http://172.19.178.180/servers-stailer/144srv.php?stream=bbc_news&format=m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" group-title="Indian Bangla",Star Jalsha HD
-http://172.19.178.180/servers-stailer/59srv.php?stream=star_jalsha_hd&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" group-title="Indian Bangla",Zee Bangla HD
-http://172.19.178.180/servers-stailer/59srv.php?stream=zee_bangla_hd&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" group-title="Indian Bangla",Colors Bangla HD
-http://172.19.178.180/servers-stailer/59srv.php?stream=colors_bangla_hd&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" group-title="Indian Bangla",Sony Aath
-http://172.19.178.180/servers-stailer/59srv.php?stream=sony_aath&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies HD" group-title="Indian Bangla",Jalsha Movies HD
-http://172.19.178.180/servers-stailer/59srv.php?stream=jalsha_movies_hd&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" group-title="Indian Bangla",Zee Bangla Cinema
-http://172.19.178.180/servers-stailer/59srv.php?stream=zee_bangla_cinema&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla Cinema" group-title="Indian Bangla",Colors Bangla Cinema
-http://172.19.178.180/servers-stailer/59srv.php?stream=colors_bangla_cinema&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Aakash Aath" group-title="Indian Bangla",Aakash Aath
-http://172.19.178.180/servers-stailer/59srv.php?stream=akash_aat&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Enterr10 Bangla" group-title="Indian Bangla",Enterr10 Bangla
-http://172.19.178.180/servers-stailer/59srv.php?stream=enterr_10&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Rongeen TV" group-title="Indian Bangla",Rongeen TV
-http://172.19.178.180/servers-stailer/59srv.php?stream=rongeen_tv&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" group-title="Indian Bangla",Ruposhi Bangla
-http://172.19.178.180/servers-stailer/59srv.php?stream=ruposhi_bangla&format=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla HD" group-title="Indian Bangla",Sun Bangla HD
-http://172.19.178.180/servers-stailer/59srv.php?stream=sun_bangla_hd&format=m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Urdu",Hum TV
-http://172.19.178.180/servers-stailer/142srv.php?stream=hum_tv&format=m3u8
-
-#EXTINF:-1 group-title="Urdu",Hum Sitaray
-http://172.19.178.180/servers-stailer/142srv.php?stream=hum_sitarey&format=m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Knowledge",Hum Masala
-http://172.19.178.180/servers-stailer/142srv.php?stream=hum_masala&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Love Nature
-http://172.19.178.180/servers-stailer/144srv.php?stream=love_nature&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Animal Planet HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=animal_planet_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",BBC Earth HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=bbc_earth_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Discovery HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Discovery Bangla
-http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_bangla&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Discovery Science
-http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_science&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Discovery Turbo
-http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_turbo&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",History TV18
-http://172.19.178.180/servers-stailer/145srv.php?stream=history_tv_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Investigation Discovery
-http://172.19.178.180/servers-stailer/145srv.php?stream=investigation_discovery&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Nat Geo Wild HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=natgeo_wild_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",National Geographic HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=ngo_gerophy_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Sony BBC Earth HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=sony_bbc_earth_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Red Bull TV
-http://172.19.178.180/servers-stailer/145srv.php?stream=redbol_tv&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",TLC HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=tlc_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Travel XP
-http://172.19.178.180/servers-stailer/145srv.php?stream=travel_xp&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Wild Earth
-http://172.19.178.180/servers-stailer/145srv.php?stream=wild_earth&format=m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Knowledge",Hum Masala
-http://172.19.178.180/servers-stailer/142srv.php?stream=hum_masala&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Love Nature
-http://172.19.178.180/servers-stailer/144srv.php?stream=love_nature&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Animal Planet HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=animal_planet_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",BBC Earth HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=bbc_earth_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Discovery HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Discovery Bangla
-http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_bangla&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Discovery Science
-http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_science&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Discovery Turbo
-http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_turbo&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",History TV18
-http://172.19.178.180/servers-stailer/145srv.php?stream=history_tv_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Investigation Discovery
-http://172.19.178.180/servers-stailer/145srv.php?stream=investigation_discovery&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Nat Geo Wild HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=natgeo_wild_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",National Geographic HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=ngo_gerophy_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Sony BBC Earth HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=sony_bbc_earth_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Red Bull TV
-http://172.19.178.180/servers-stailer/145srv.php?stream=redbol_tv&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",TLC HD
-http://172.19.178.180/servers-stailer/145srv.php?stream=tlc_hd&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Travel XP
-http://172.19.178.180/servers-stailer/145srv.php?stream=travel_xp&format=m3u8
-
-#EXTINF:-1 group-title="Knowledge",Wild Earth
-http://172.19.178.180/servers-stailer/145srv.php?stream=wild_earth&format=m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Kids",Duronto
-http://172.19.178.180/servers-stailer/39srv.php?stream=duronto_tv&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Bal Bharat
-http://172.19.178.180/servers-stailer/143srv.php?stream=bal_bharat&format=m3u8
-
-#EXTINF:-1 group-title="Kids",ETV Bal Bharat
-http://172.19.178.180/servers-stailer/143srv.php?stream=bal_bharat&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Cartoon Network
-http://172.19.178.180/servers-stailer/143srv.php?stream=cartoon_network&format=m3u8
-
-#EXTINF:-1 group-title="Kids",CN
-http://172.19.178.180/servers-stailer/143srv.php?stream=cn&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Discovery Kids
-http://172.19.178.180/servers-stailer/143srv.php?stream=discovery_kids&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Disney Channel
-http://172.19.178.180/servers-stailer/143srv.php?stream=disney_hindi&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Super Hungama
-http://172.19.178.180/servers-stailer/143srv.php?stream=super_hungama&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Hungama
-http://172.19.178.180/servers-stailer/143srv.php?stream=hungama&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Nick
-http://172.19.178.180/servers-stailer/143srv.php?stream=nick&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Nick Jr
-http://172.19.178.180/servers-stailer/143srv.php?stream=nick_jr&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Pogo
-http://172.19.178.180/servers-stailer/143srv.php?stream=pogo&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Sonic
-http://172.19.178.180/servers-stailer/143srv.php?stream=sonic&format=m3u8
-
-#EXTINF:-1 group-title="Kids",Sony Yay
-http://172.19.178.180/servers-stailer/143srv.php?stream=sony_yay&format=m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Religious",Madani Channel Bangla
-http://172.19.178.180/servers-stailer/146srv.php?stream=madani_tv_hd&format=m3u8
-
-#EXTINF:-1 group-title="Religious",Peace TV Bangla
-http://172.19.178.180/servers-stailer/146srv.php?stream=peace_tv_bangla&format=m3u8
-
-#EXTINF:-1 group-title="Religious",Iqra Bangla
-http://172.19.178.180/servers-stailer/146srv.php?stream=iqra_bangla&format=m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="Star Plus HD" group-title="Hindi",Star Plus HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=star_plus_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Zee TV HD" group-title="Hindi",Zee TV HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=zee_tv_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Sony Entertainment Television HD" group-title="Hindi",Sony Entertainment Television HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=sony_ent_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Colors HD" group-title="Hindi",Colors HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=colors_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="&TV HD" group-title="Hindi",&TV HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=and_tv_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Star Bharat HD" group-title="Hindi",Star Bharat HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=star_bharat_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Star Gold HD" group-title="Hindi",Star Gold HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=star_gold_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Star Gold 2 HD" group-title="Hindi",Star Gold 2 HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=star_gold_2_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Star Gold Select HD" group-title="Hindi",Star Gold Select HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=star_gold_select_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Hindi",Zee Cinema HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=zee_cinema_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Zee Cinema" group-title="Hindi",Zee Cinema
-http://172.19.178.180/servers-stailer/142srv.php?stream=zee_cinema&format=m3u8
-
-#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi",Zee Action
-http://172.19.178.180/servers-stailer/142srv.php?stream=zee_action&format=m3u8
-
-#EXTINF:-1 tvg-name="Zee Anmol" group-title="Hindi",Zee Anmol
-http://172.19.178.180/servers-stailer/142srv.php?stream=zee_anmol&format=m3u8
-
-#EXTINF:-1 tvg-name="Zee Bollywood" group-title="Hindi",Zee Bollywood
-http://172.19.178.180/servers-stailer/142srv.php?stream=zee_bollywood&format=m3u8
-
-#EXTINF:-1 tvg-name="Sony Max HD" group-title="Hindi",Sony Max HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=sony_max_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="Sony Max" group-title="Hindi",Sony Max
-http://172.19.178.180/servers-stailer/142srv.php?stream=sony_max&format=m3u8
-
-#EXTINF:-1 tvg-name="Sony Max 2" group-title="Hindi",Sony Max 2
-http://172.19.178.180/servers-stailer/142srv.php?stream=sony_max2&format=m3u8
-
-#EXTINF:-1 tvg-name="Sony Sab" group-title="Hindi",Sony Sab
-http://172.19.178.180/servers-stailer/142srv.php?stream=sony_sab&format=m3u8
-
-#EXTINF:-1 tvg-name="Sony Wah" group-title="Hindi",Sony Wah
-http://172.19.178.180/servers-stailer/142srv.php?stream=sony_wah&format=m3u8
-
-#EXTINF:-1 tvg-name="Colors Cineplex HD" group-title="Hindi",Colors Cineplex HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=colors_cineplex_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="& Pictures HD" group-title="Hindi",& Pictures HD
-http://172.19.178.180/servers-stailer/142srv.php?stream=and_picturs_hd&format=m3u8
-
-#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
-http://172.19.178.180/servers-stailer/142srv.php?stream=b4u_movies&format=m3u8
-
-#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi",Goldmines
-http://172.19.178.180/servers-stailer/142srv.php?stream=goldmines&format=m3u8
-
-#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi",Goldmines Bollywood
-http://172.19.178.180/servers-stailer/142srv.php?stream=goldmines_bollywood&format=m3u8
-
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi",Goldmines Movies
-http://172.19.178.180/servers-stailer/142srv.php?stream=goldmines_movies&format=m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Music",YRF Music
-http://172.19.178.180/servers-stailer/147srv.php?stream=yrf_music_hd&format=m3u8
-
-#EXTINF:-1 group-title="Music",Show Box
-http://172.19.178.180/servers-stailer/147srv.php?stream=show_box&format=m3u8
-
-#EXTINF:-1 group-title="Music",Trace Urban
-http://172.19.178.180/servers-stailer/147srv.php?stream=trace_urban&format=m3u8
-
-#EXTINF:-1 group-title="Music",Mastiii
-http://172.19.178.180/servers-stailer/147srv.php?stream=mastiii&format=m3u8
-
-#EXTINF:-1 group-title="Music",Sangeet Bangla
-http://172.19.178.180/servers-stailer/147srv.php?stream=sangeet_bangla&format=m3u8
-
-#EXTINF:-1 group-title="Music",B4U Music
-http://172.19.178.180/servers-stailer/147srv.php?stream=b4u_music&format=m3u8
-
-#EXTINF:-1 group-title="Music",9X Jalwa
-http://172.19.178.180/servers-stailer/147srv.php?stream=9x_jalwa&format=m3u8
-
-#EXTINF:-1 group-title="Music",Hitz
-http://172.19.178.180/servers-stailer/144srv.php?stream=hitz_music&format=m3u8
-
-#EXTINF:-1 group-title="Music",Zoom
-http://172.19.178.180/servers-stailer/142srv.php?stream=zoom&format=m3u8
-
-#EXTINF:-1 group-title="Music",Zing
-http://172.19.178.180/servers-stailer/142srv.php?stream=zing&format=m3u8
-
-
-
-
-
-
-
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,EPL 1 LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdQBWdx6RCPzpOeegXOwfv4/ts
+#EXTINF:-1,EPL 2 LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUGyXSZB_S9xMnddRsQ71EU/ts
+#EXTINF:-1,EPL 3 LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdzfu15D10A_NROe1n4T0ro/ts
+#EXTINF:-1,EPL 4 LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVktSBaMve1TpKs5fQtjKAk/ts
+#EXTINF:-1,EPL 5 LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgehLFCpUjp30xYU4yToK9N4/ts
+#EXTINF:-1,La liga Live 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcs9qtLBP4tjnu4Rulft_eI/ts
+#EXTINF:-1,La liga Live 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfW26f_HDPPDn_O8nEk_7lA/ts
+#EXTINF:-1,Bundesliga Live 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ8okOI_gP85v4Yo5rakff8/ts
+#EXTINF:-1,Bundesliga Live 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX8WecrEJ3p7Y0HOyQMENNc/ts
+#EXTINF:-1,Bundesliga Live 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgewEgCH6mw6w5cKpclCz3a8/ts
+#EXTINF:-1,INDIA vs S.AFRICA LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd1guK2ET0P3tIoeFpTP2MU/ts
+#EXTINF:-1,AUSTRALIA vs ENGLAND LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWRkNkKooX_8DUUTQoXscAA/ts
+#EXTINF:-1,ILT20 LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXGgCbssM5_xzxCo5DRKa_w/ts
+#EXTINF:-1,WBBL 2025
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgewMDaFb5Rbi_qOV3JVANAM/ts
+#EXTINF:-1,NEWZEALAND vs W.INDIES live
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS35mHHiNNFih0ALTsqbcoA/ts
+#EXTINF:-1,PAKISTAN T20i TRI SERIES LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUtsTWLB3W9Eax8VdwI0skw/ts
+#EXTINF:-1,ASIA CUP RISING STARS
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbE6qPbwz-KcvwHoZwVAsvI/ts
+#EXTINF:-1,BANGLADESH vs IRELAND LIVE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdyiRZ9u3GqvekNC_YF-JZc/ts
+#EXTINF:-1,BIGG BOSS 24X7
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTyPC0bx-m5uq6G8C3Lo8s8/ts
+#EXTINF:-1,BIGG BOSS 24X7
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbiJY8XynMhMQ7w9Mk3FuMo/ts
+#EXTINF:-1,IND | Colors FHD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRK-KpFu-LUB79iVa5ROCrw/ts
+#EXTINF:-1,IND | Star Jalsha HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdaFfhiRGHbxvgE4isQPW1U/ts
+#EXTINF:-1,IND | Star Jalsha HD.
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgViEUraQJK1GMEfjZfa6EZc/ts
+#EXTINF:-1,Star Jalsha
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgblGdCMN-ddirNVaWHH-Y_g/ts
+#EXTINF:-1,Star Jalsha HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRcI92FFQkJ_oip3yTJZDNw/ts
+#EXTINF:-1,IND | Zee Bangla HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVY99MKISFnwgEPOjFW_zuc/ts
+#EXTINF:-1,IND | Zee bangla HD.
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdXFJ5X7nahkXRUUeKt32y0/ts
+#EXTINF:-1,Zee Bangla HD Global
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgflhLABNIszxizyA-sqixIk/ts
+#EXTINF:-1,Zee Bangla SD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgThr3mJJeQ_d_wvCKWvytlE/ts
+#EXTINF:-1,IND | Akash Aath..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYW0uODRUZARMjzYGOn9NME/ts
+#EXTINF:-1,IND | Colors Bangla Cinema..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbt79wXX-A4brs6_kZ4ljMY/ts
+#EXTINF:-1,IND | Zee Bangla Cinema HD..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTVPHi17zdIXnCvT_P6PAHQ/ts
+#EXTINF:-1,IND | Colors Bangla HD..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbihuqgSaSPDN72rGsW5bks/ts
+#EXTINF:-1,IND | Enterr 10 Bangla..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaTaP0Zp1Z5nGSTzUbaXmZU/ts
+#EXTINF:-1,IND | Jalsha Movie HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRVEkaVgNi4bmPC-gqPNsU4/ts
+#EXTINF:-1,IND | Khushboo Bangla..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQdfDfpsbUV-RkcidhwDUTk/ts
+#EXTINF:-1,IND | Orange Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgewBk4TL9Rbj2gc3nIPuz88/ts
+#EXTINF:-1,IND | RPLUS GOLD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSIIIZCMv2WTs6rXQUjIWBE/ts
+#EXTINF:-1,IND | Ruposhi Bangla..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaLvHwpeWLBs7ow0q7CmRFA/ts
+#EXTINF:-1,IND | Sangeet Bangla..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXshLp4vyw7CZXZk7WWBIy8/ts
+#EXTINF:-1,IND | Sony Aath..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdt4H2RElE2hu8VeXh0LKj4/ts
+#EXTINF:-1,IND | Sun Bangla..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQAV73F09wPQEvj5e-N1jyE/ts
+#EXTINF:-1,IND | Tara Bangla cinema
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYVYQV1MNHyN6NXa1uPQUsA/ts
+#EXTINF:-1,& Flix HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSfFYBLHVuygP0ayy3YZLZw/ts
+#EXTINF:-1,& Picture HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRGxWcr9eo8gCknLZ0joiic/ts
+#EXTINF:-1,& Prive HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbv_BHvaqi4Zsrkg0q6GFWI/ts
+#EXTINF:-1,& Tv HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWwUQEXl5qLBNbUSpFy1n7s/ts
+#EXTINF:-1,&Flix
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgffkzZVAQbeYWsiiA5oTf54/ts
+#EXTINF:-1,& Prive HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUIcrDtM-UhZOo97N7YGqRM/ts
+#EXTINF:-1,&Xplore HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge3JWt8v3QOJfW2OfVCW1gI/ts
+#EXTINF:-1,30A Answers That Count
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSqKGYkfeTDwwfvfIQFJbXk/ts
+#EXTINF:-1,30A Darcizzle Offshore (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbY4J9PZZmy2Hz0M8Uu-cRg/ts
+#EXTINF:-1,30A Golf Kingdom
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ30JyxnF4T6G7kw15GvpCo/ts
+#EXTINF:-1,30A Lionel Nation TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ6_cb0jXXUkAxxz4MUG79k/ts
+#EXTINF:-1,30A Loomered TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbxd_wB5PXIF3TLw-HBWPpM/ts
+#EXTINF:-1,30A Luxe Life Discovered
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUW9eZ3RgRG0QoD9MTB2wsQ/ts
+#EXTINF:-1,30A Music Channel
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbSSml3ba0pmRmWQxalBu9Y/ts
+#EXTINF:-1,30A Sidewalks (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU-MXzvObz3beoHvJLUr2lg/ts
+#EXTINF:-1,30A Television Channel
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYuRL6d_dHWYKfuWEv-i9ac/ts
+#EXTINF:-1,30A The Beach Show (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZK9np-WHnZQPzgLR8wTZcI/ts
+#EXTINF:-1,30A TV Classic Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgawUikK_Vw4wMsp_-RihWwU/ts
+#EXTINF:-1,30A We Love Cars
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge9o1B6xZD1kHYHtM9y7RUs/ts
+#EXTINF:-1,48 Hours (Pluto TV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgazJcD8BNtw5Xd9xbogt0VA/ts
+#EXTINF:-1,4aceTV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgczsWzg8KInnrC7Hd-CuRe0/ts
+#EXTINF:-1,4AceTV Classic Hits
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSsLBdaWcUeG6MnRfNBaIw8/ts
+#EXTINF:-1,911 NETWORK
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdm8UfkTI01VHoR2HamsxHk/ts
+#EXTINF:-1,92 News HD (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf-0TGCzEDtUAMmhiL7G6Gk/ts
+#EXTINF:-1,99 Percent
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYMPflm96u8WL4vzSxPkvAw/ts
+#EXTINF:-1,9x Jalwa
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYmbLQ_j-8dWhv_Gp0aRem8/ts
+#EXTINF:-1,9X Jhakaas
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgam6s0YPVKbHE7a_ksu6DnQ/ts
+#EXTINF:-1,9x Tashaan
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSezEsA_XdUEGIkdJHBAdCY/ts
+#EXTINF:-1,9xm
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXJLQOJWBQTDzg9Mdya8IBc/ts
+#EXTINF:-1,A Plus
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaJAbHfu_Yx0s6Qm4Bt_-xE/ts
+#EXTINF:-1,A Sports HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfDyL5PbDYG_jkcoXohOnEA/ts
+#EXTINF:-1,A Sports HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfTjUO7d9hgiljqWqhsI0IU/ts
+#EXTINF:-1,AACTV America's Auction Channel (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYy0Yan1hSOQJUTXMpm-Pbg/ts
+#EXTINF:-1,Aaj Tak news
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbh0TAKg5ijN_MK3Nx6UMv4/ts
+#EXTINF:-1,Aapka Colors
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZPD-BwsYncpdi0lTEjYsmE/ts
+#EXTINF:-1,ABC 2 Baltimore MD (WMAR) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRro3SugWsJ1NgS57RPxbRc/ts
+#EXTINF:-1,ABC 4 Pittsburg PA (WTAE) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd_LgUiF2ql6S9E5pKIaDtA/ts
+#EXTINF:-1,ABC 4 Seattle WA (KOMO-TV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQS-eiJYvkVp-Z8FGhAcg6Q/ts
+#EXTINF:-1,ABC 5
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcaA0bYuzSVFx-00-S4Bjkk/ts
+#EXTINF:-1,ABC 5 Boston MA (WCVB) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT8-cx1hef1AGWHBhcA6cw4/ts
+#EXTINF:-1,ABC 5 Cleveland OH (WEWS) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbEeF5En2nPehfEM0iK8PTg/ts
+#EXTINF:-1,ABC 5 Oklahoma City OK (KOCO) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVKeSEZDVwRaqvLUYuhTojA/ts
+#EXTINF:-1,ABC 6 Boise ID (KIVI) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcT2bpTbw3v9h2zes6WIiDA/ts
+#EXTINF:-1,ABC 6 Indianapolis IN (WRTV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeBkBsxzX9J4OOVCK__0f4A/ts
+#EXTINF:-1,ABC 7 Albuquerque NM (KOAT) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ8Mm1EYMuVL-Y2AhQQU8OQ/ts
+#EXTINF:-1,ABC 7 Buffalo NY (WKBW) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfxlQ4bs5JDYuXjTLPjifNM/ts
+#EXTINF:-1,ABC 7 Denver CO (KMGH) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR_MS6dQgaa7C5eopPc0vko/ts
+#EXTINF:-1,ABC 7 Detroit MI (WXYZ) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc6vEoqgL6W9GK-zPttoL6E/ts
+#EXTINF:-1,ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV8lq9Xu8MmjfZNgpw7MTi0/ts
+#EXTINF:-1,ABC 7 Omaha NE (KETV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcSgwH02ZwbhCHs2qEGBj1A/ts
+#EXTINF:-1,ABC 7 Washington DC (WJLA) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQbj6-cDrO08Jioo6U-tiDA/ts
+#EXTINF:-1,ABC 8 Dallas TX (WFAA) (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXkVXZcuxGOZbLDw14FgIKs/ts
+#EXTINF:-1,ABC 8 Portland ME (WMTW) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUPatk85dMf5P21F9fDXBpE/ts
+#EXTINF:-1,ABC 9 Charlotte NC (WSOC) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf_NKBw3x1qH_xwX90hKbYE/ts
+#EXTINF:-1,ABC 9 Cincinnati OH (WCPO) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcZk8Jx2EHFiMd1pSviGfUA/ts
+#EXTINF:-1,ABC 9 Kansas City MO (KMBC-TV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTqh8lEVBDj8T7-kTx35sVM/ts
+#EXTINF:-1,ABC 9 Manchester NH (WMUR-TV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc7-IOYbokMXvr_GPHR8ppo/ts
+#EXTINF:-1,ABC 9 Orlando FL (WFTV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVpNDmXFDCrqyWbOgErozQ0/ts
+#EXTINF:-1,ABC 9 Tucson AZ (KGUN) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXJlwoPzVc64tXiue9oqOt8/ts
+#EXTINF:-1,ABC News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRuD1svH-tmBm_uOPsUr3vo/ts
+#EXTINF:-1,ABN Urdu (540p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ4wbAJUcVeoawhC-n-vWcQ/ts
+#EXTINF:-1,ABP Ananda
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf_0iLUlF31l_Ib6SS9oOog/ts
+#EXTINF:-1,Abu Dhabi Sports 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfXn-AJrxnQvSHgHbNkh2Q8/ts
+#EXTINF:-1,Akash Aath
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgduJxv8Jj_swv_-G_24C1OM/ts
+#EXTINF:-1,Akit TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge4YMXuNUkFKr_-hooPEwfw/ts
+#EXTINF:-1,Al Ehsaan TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUvTtk-J2TDUisQsUrGBdlw/ts
+#EXTINF:-1,Al Hayat TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdm0oDZI4JDlHPv5y4iMTRs/ts
+#EXTINF:-1,Al Jazeera
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQsve3uwi6IpENU5qf-8ZBI/ts
+#EXTINF:-1,Al Jazeera Arabic (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV164z_cvxPjBl86Fbbs0yc/ts
+#EXTINF:-1,Al Jazeera Mubasher (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgal2UPqzNjoJzX9J12PfoG8/ts
+#EXTINF:-1,Al Rayyan (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfW5iE5PViPaX4gdKUVqM_A/ts
+#EXTINF:-1,Al Rayyan Al Qadeem (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcYjXXdA9LQuE5yTgkcb-yI/ts
+#EXTINF:-1,Alanya Posta TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT6F56XDzOYOM_XZXO3otKY/ts
+#EXTINF:-1,Alaraby 2 TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX0Zic_ZEnPMfJwlFljFSJI/ts
+#EXTINF:-1,Alaraby TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfhEdqUzrF11MFevGku78BU/ts
+#EXTINF:-1,Alforat TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbwIiiBib_RMw1mZ37lLRMI/ts
+#EXTINF:-1,Amar Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdLY0O2xdFd37Re6oZ243Xk/ts
+#EXTINF:-1,Amar Digital
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW2jaQLaBvsTz5KCdhkKmok/ts
+#EXTINF:-1,Amazing Discoveries TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaf4Ldv7jIgaN96datW6a1s/ts
+#EXTINF:-1,AMC Thrillers
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcc429q9o9EPe90ozqDGfbo/ts
+#EXTINF:-1,Ananda Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSaoOrMKQ6wUr1EMmCyWzJk/ts
+#EXTINF:-1,Angel TV America (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfeL0lP8j1akdOS88exzlzM/ts
+#EXTINF:-1,Angel TV America (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgar5rfOOWpgZkzHBVPLf1S8/ts
+#EXTINF:-1,Angel TV Arabia (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeY6j1RlvVrizQy7x5dysuU/ts
+#EXTINF:-1,Angel TV Europe (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXwwUNfO_g4f6FgjK6BOtsI/ts
+#EXTINF:-1,Angel TV Far East
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWGVbjRuL-BvJwl9ZrBkn3A/ts
+#EXTINF:-1,Animal Planet HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge8sWtJ0CckBAIpuAMI2Cng/ts
+#EXTINF:-1,AniPlus
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd1r6PyV5wKqqgE0lMGze4E/ts
+#EXTINF:-1,APN
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSoAepA3nIREyaqYDwmbqKY/ts
+#EXTINF:-1,Ary Digital
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcRHqVEmx16iEPleFDy2TKM/ts
+#EXTINF:-1,Ary Musik
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU6oZYkb4bFDNiNenIrIE20/ts
+#EXTINF:-1,Ary News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQODFaCmcAB8D7Y694yuaIQ/ts
+#EXTINF:-1,Ary Qtv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXvm-8cFC36J5Yovr8334mc/ts
+#EXTINF:-1,Ary Zindegi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdpS56NSnXkS4n2zt97CKNA/ts
+#EXTINF:-1,Aryaan Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgawHJm4prJ71mrabsnkZWg4/ts
+#EXTINF:-1,Asian TV HD D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY4aqOWQuH3_P2DCyTy-AoE/ts
+#EXTINF:-1,Assam Talks
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfIuP1yzxrSW9Bu1NwsjvnM/ts
+#EXTINF:-1,Astro Cricket
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVCEaeSjsUvYVtAIWh9HXXg/ts
+#EXTINF:-1,Astro Cricket
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgddHK8p7_a7YthC8c-Fl1Is/ts
+#EXTINF:-1,ATN Bangla D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbTpuUzgHa2EP9UWR8yVjyk/ts
+#EXTINF:-1,ATN Bangla UK
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfVwu_NfN8SZ7sfGXNTg12s/ts
+#EXTINF:-1,ATN News D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTLWEL_1SbJqX13j7UsK8eM/ts
+#EXTINF:-1,Atrangi Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVJ3zdF0o9dGHwpVk7UiigQ/ts
+#EXTINF:-1,ATV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSPc1Qzm5HCOzq-ite681OY/ts
+#EXTINF:-1,aurLife HD (614p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRz5g27_do6sYWxZZhqJz2c/ts
+#EXTINF:-1,AXN
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWumR4amFiBS65T3vivmDS8/ts
+#EXTINF:-1,B4u Kadak
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeE2F9mcXjEnzsk4pgvbrE8/ts
+#EXTINF:-1,B4u Movie D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX0sV7T06yVvjDwxqtea-oE/ts
+#EXTINF:-1,B4u Music
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ86xtH6FcMGNWYExF_ElSE/ts
+#EXTINF:-1,Bangla Drama D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSsj5Q868_TQIwlyaz68oCY/ts
+#EXTINF:-1,Bangla Movies D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY_H_owv-uAdk1ge33Jpz80/ts
+#EXTINF:-1,Bangla Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgevk8mE_HNke5rzMDuKnmaM/ts
+#EXTINF:-1,Bangla Vision D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS0mWLo1l-T-1bhtvvIUQNs/ts
+#EXTINF:-1,BBC America
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbUg1IUV5bgsDgmGp6e6drc/ts
+#EXTINF:-1,BBC Arabic (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSGgyctI9tTecr1Wf6w6Olk/ts
+#EXTINF:-1,BBC Earth (Vietnamese dub)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZkHeftVcG1q2Z1R9_r6T6I/ts
+#EXTINF:-1,BBC News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaOjZbNlFNRea4T7Zivko38/ts
+#EXTINF:-1,BBO HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRtVPriAXpm1ehseggYMyRI/ts
+#EXTINF:-1,BD | Ananda Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaN48c4xX91q9UX4Gr5AbZQ/ts
+#EXTINF:-1,BD | Asian tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb2RcI-EmteETzLlVT9B3qI/ts
+#EXTINF:-1,BD | ATN Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeao9A1AaSsFr6oPKyh3bsU/ts
+#EXTINF:-1,BD | ATN News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgThKCOGolpcYlvj1HrxyrbU/ts
+#EXTINF:-1,BD | BANGLA TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcWjF12qY6uJnfli1Nt75Dw/ts
+#EXTINF:-1,BD | Bangla Vision
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSg-sZabEAE97zYeH1shv5k/ts
+#EXTINF:-1,BD | Bijoy Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXynjVxg3xRATViHkeq_EHo/ts
+#EXTINF:-1,BD | Boishakhi Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWLVI2xABHogG-8fGR2GBjo/ts
+#EXTINF:-1,BD | BTV National
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYXXgiFxh1ynzOdhXTSadlU/ts
+#EXTINF:-1,BD | Channel 24
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTAc80S2sI9SvIvusiPNY2s/ts
+#EXTINF:-1,BD | Channel 9
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgViQISOg9HZ4Q-1T3lAJwy8/ts
+#EXTINF:-1,BD | Channel i
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRfTcE307-291_Ks35WZaCA/ts
+#EXTINF:-1,BD | DBC News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZtLAB2J74qvIM_QElPl3AI/ts
+#EXTINF:-1,BD | Deepto tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSxyRyGighjS-ALDwapN3PM/ts
+#EXTINF:-1,BD | Desh Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVWlCuunXgRTPOuK2D8oXXM/ts
+#EXTINF:-1,BD | Duranto TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZr5F6VlPWUdgA0NOv_WhAM/ts
+#EXTINF:-1,BD | Ekattor tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfGtW2uqpG2ytQSrJbpewQU/ts
+#EXTINF:-1,BD | Ekhon Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSQgHXHM28dDU1v4Ec4CYh4/ts
+#EXTINF:-1,BD | Ekushey Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdsKr7AkGVyFIUSQren0KCs/ts
+#EXTINF:-1,BD | Gazi Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRtrFsXlODyqsmcxcVOOTm0/ts
+#EXTINF:-1,BD | Global tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWOHQOycamqgdyNLr1fcTFQ/ts
+#EXTINF:-1,BD | Independent tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTkptrTpxUrS-BGr4iNZ2xo/ts
+#EXTINF:-1,BD | Jamuna Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaScDEbGn8HHr1aVw0MBC6Q/ts
+#EXTINF:-1,BD | Machranga tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcHE5myTBGy9ZBu9bCpA1VQ/ts
+#EXTINF:-1,BD | Mohona tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQWlB0jO9oYgd0LwNYpFuZA/ts
+#EXTINF:-1,BD | My Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRksRG-7ca3gacN8Lla2b6E/ts
+#EXTINF:-1,BD | Nagorik Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSdbG2JIqSTYaRAhIrz0dgg/ts
+#EXTINF:-1,BD | News 24
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZFcmCWjI0fhrlNlMnyX-bg/ts
+#EXTINF:-1,BD | Nexus Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge1MrmVMd_zWqCd38Odv6Mc/ts
+#EXTINF:-1,BD | NTV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaTG4y1rMtVDP5hFsKkKBDM/ts
+#EXTINF:-1,BD | Peace Tv Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgddaZVt59mutfYsEw838v4A/ts
+#EXTINF:-1,BD | RTV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVb3h-y4XilUGwFF_Xn7Eqo/ts
+#EXTINF:-1,BD | SA TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfaiPNjQ9Ajl3g_nfHt1p4k/ts
+#EXTINF:-1,BD | Somoy Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXX_ZqiioflpFML7DyhyW8o/ts
+#EXTINF:-1,BDIX | T Sports HD 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR2len-Y_CgtDzkiRqfdqE8/ts
+#EXTINF:-1,BDIX | T Sports HD 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS8dHfem3UZKrPskFBvjvCY/ts
+#EXTINF:-1,BEAN THE GRANDPA
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRR-Ab08i3uHQYwo6jXHQUU/ts
+#EXTINF:-1,Bein Sports 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVHePXN9Jas99EtoQzER-u4/ts
+#EXTINF:-1,Bein Sports 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW4AO_8dDZvLH6vv9ef8VQo/ts
+#EXTINF:-1,Bein Sports 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb3f33Hl2qPe8PIXhCjDfAI/ts
+#EXTINF:-1,Bein Sports 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgavoBekrM2F75ayGq4oGilo/ts
+#EXTINF:-1,Bein Sports 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQr4aEvmoTCIdpjQUM_5OSE/ts
+#EXTINF:-1,Bein Sports 4
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeYyaG3lg8u7_e4ueOXI70Q/ts
+#EXTINF:-1,Bein Sports 5
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZB3HI5MGHS20Xb7JxYkx00/ts
+#EXTINF:-1,Bein Sports 6
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR8mFhW_WpR0Sh0_0NMA-Po/ts
+#EXTINF:-1,Bein Sports 7
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTz6uohOm4t3yhTzC56snx4/ts
+#EXTINF:-1,Bein Sports USA
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUs-gDUfxbogXeLSCHe5msI/ts
+#EXTINF:-1,Belmedia TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVQwraUAZOOXd7tpEPByoRw/ts
+#EXTINF:-1,Beykent TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTcggF4H-bGx58oH8W5Xz9o/ts
+#EXTINF:-1,BFLIX
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVb34BmZT_-C89XuKh1E_VY/ts
+#EXTINF:-1,BHAKTHI TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRRz3IMNGqAg7_dNMA95eqc/ts
+#EXTINF:-1,Bhojpuri Cinema
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVpWIBEptouCmN1DJ3KY0Jc/ts
+#EXTINF:-1,Bijoy Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcPqIIcLdJy2Z9iK1p8FIto/ts
+#EXTINF:-1,BILLIARD SPORT TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcQPCFE84NV01kRuj_elWJ4/ts
+#EXTINF:-1,Bizimev TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQZDA8nAUAEu1yMWz8pruLA/ts
+#EXTINF:-1,Bloomberg
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf8ff9gvS6K9FAL5FmRVmxg/ts
+#EXTINF:-1,Bloomberg HT
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQBcdU91hk--r9nlT9E4ycc/ts
+#EXTINF:-1,Bloomberg TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd7VlJqQKI2qAvXfCFQ87Go/ts
+#EXTINF:-1,Bloomberg TV Asia (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUg3kgKPO_8VqYYoli2J-F4/ts
+#EXTINF:-1,Bloomberg TV EMEA Live Event (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUz5cVXgEbrcwnq8quy4QU4/ts
+#EXTINF:-1,Bloomberg TV Europe (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTPqvFGQ98-VaHim0FrIp2o/ts
+#EXTINF:-1,BNN Bloomberg
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRWKastY-jMLzYb0Oqtt-Ds/ts
+#EXTINF:-1,BNN Bloomberg
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV-5RSBwzAvY4lo6vq8xYTU/ts
+#EXTINF:-1,Boishakhi Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVOb-KEdTAKRdrjmVT_aQqc/ts
+#EXTINF:-1,Bol Entertainment
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRmJ2FGAKJGD6mrWDXO1ROU/ts
+#EXTINF:-1,Bol News (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY4TUynlsYyqxQzn2lYjJK0/ts
+#EXTINF:-1,Bollywood Classic
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeGRpDDHa0CAbH7nkTTyiMU/ts
+#EXTINF:-1,Bollywood HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVgSmubPgUNOvotjj1A9qKs/ts
+#EXTINF:-1,Bollywood Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcwwGnJexL8Kwfsf1_C9UuE/ts
+#EXTINF:-1,Boomerang
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaKHn0pQnQVNzRjiFmV3s-8/ts
+#EXTINF:-1,BTV CTG D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbP8zhIXKCEQdog2utN2TD8/ts
+#EXTINF:-1,BTV HD D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTvlvMEkWTPBRYye8gbYzCo/ts
+#EXTINF:-1,Calcutta News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVuaqpJAg-lV62qvhFNPziI/ts
+#EXTINF:-1,Can TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc-qcGvQsGkMvY6pGXYU9p4/ts
+#EXTINF:-1,Canada Star TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfRNMDBZ5u7PCRQRLCpjs6s/ts
+#EXTINF:-1,Canada Star TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUDpXOvOu-8PVMUYN5jc1ig/ts
+#EXTINF:-1,Canal 15 DTP (352p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdpfAY47zjJZobGIICvJ8Ow/ts
+#EXTINF:-1,Captain TV (576p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdNTMSw4rjH6Ur8alM7U--0/ts
+#EXTINF:-1,Car Cartoon
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWmKLA8YXdIh9NUf0ZDwrbM/ts
+#EXTINF:-1,Carac 1 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY4EbB2QFm4I59WU-rVHKz8/ts
+#EXTINF:-1,Carac 2 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXdoYxl-e092mf2flbv-tgk/ts
+#EXTINF:-1,Carac 3 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZVA_zsNM6fv6i4Z4_ZTu3Y/ts
+#EXTINF:-1,Carac 4 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYDaSIOOphYVxi29lc-8wDI/ts
+#EXTINF:-1,Cartoon Net HD Hindi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbotUU_KzOBdokr_b7XTDVU/ts
+#EXTINF:-1,Cartoon Net UK
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcpb49I_fQk4xy6Xfd4IT6k/ts
+#EXTINF:-1,Cartoon Network
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbrhCC1gc0km4a3Hwm4IriY/ts
+#EXTINF:-1,Cartoon Network Arabia (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUKju8tQSoY5IEfm4uxF0iA/ts
+#EXTINF:-1,Catfish TV Show Italy (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ4Wo_mAdW9iFIQe_nKTsJw/ts
+#EXTINF:-1,CBC (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ2Xt_pv3waRowwyxnGtM5Y/ts
+#EXTINF:-1,CBC News (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYz1tbggnGvs1toMhMkxx_U/ts
+#EXTINF:-1,CBC News (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRR6q7B-tpBrCA8K85mwNsI/ts
+#EXTINF:-1,CBeebies Asia (Vietnamese dub)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgadb0X1kLUkMjxUC0JR82Zk/ts
+#EXTINF:-1,CBN tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYJMPyLXgjZR7tiigdMQiEE/ts
+#EXTINF:-1,CCTV-4 America (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXGbzMnO0dx_5VCzY0SXPyI/ts
+#EXTINF:-1,CCTV-4 America (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXAjWV9XbdJnHuOI2xIvZbE/ts
+#EXTINF:-1,CCTV-4 Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeW7LKR5k9puqSZw6_nWToM/ts
+#EXTINF:-1,CDN | T Sports HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUVMRrAcPDeTaRuN57Uu0po/ts
+#EXTINF:-1,Cekmeköy TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgavckx6q3V_SIE4OwKaXq80/ts
+#EXTINF:-1,Celestial Classic
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRWGY1zVMeaDt7DLCi8DqIc/ts
+#EXTINF:-1,Central TV Chosica (614p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSDyd-7917a4g5X2QaCUzlw/ts
+#EXTINF:-1,CG Entertainment
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdR5Hpb97ns8REGFcSdNHpY/ts
+#EXTINF:-1,CGTN
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZKP4YG4VmB02n4xierm7ag/ts
+#EXTINF:-1,CGTN DOC
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfxHqxl4I1P9OfxdDiYE0mM/ts
+#EXTINF:-1,Channel 200 (540p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTyXOoo6g7Gjcg-vsQ85FJo/ts
+#EXTINF:-1,Channel 24
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQe5-hCVDB6FPUldGCMBX08/ts
+#EXTINF:-1,Channel 5
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZRwTsMOHYa3Xg8xf3bLa1A/ts
+#EXTINF:-1,Channel 8
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU5hX3y2We6ZOjDWVUAMX34/ts
+#EXTINF:-1,Channel 9 D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcZPWfq2hKdeD7F6Gt0pWPM/ts
+#EXTINF:-1,Channel i HD D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ4nvl4wcDrjnD4gLy94aR8/ts
+#EXTINF:-1,Channel S D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVxR0b-3RFmeSh1Y4T45u1k/ts
+#EXTINF:-1,Chile Channel (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQMagYI0tKOeFJnqVkYOavM/ts
+#EXTINF:-1,Chroma TV (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdjolAnpn97mC0p7h27rmfQ/ts
+#EXTINF:-1,Cibaeña TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVDmOJWxnV3u9EsnbVL6mmM/ts
+#EXTINF:-1,Cine5 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQmYO8CEZYrrZ0VE-tL7kH8/ts
+#EXTINF:-1,CineMania 01
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYx0G-A0PTU1XFiUw2-72mg/ts
+#EXTINF:-1,CineMania 02
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWFQNKVnXm4JEE5e3MPqAKE/ts
+#EXTINF:-1,CineMania 03
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgejYXhkLBVE4ZI7qdIaXa5c/ts
+#EXTINF:-1,CineMania 04
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYlKSrSQ8spBxMER6ckmFtc/ts
+#EXTINF:-1,CinemaWorld
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYYgEprlDkF0PkdeBAghClU/ts
+#EXTINF:-1,Cinemax HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZNacfEiTHeFuOKw784TNww/ts
+#EXTINF:-1,Cinerama TV (480p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSOTLoMAH56DGsdya4CndqU/ts
+#EXTINF:-1,Circle [Geo-blocked]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZpsAC3Giw_D_-YmCdtqh8A/ts
+#EXTINF:-1,City News HD (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQiJbmV02eDM3VZTil4Wuns/ts
+#EXTINF:-1,Ciudades Del Ocio TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUz9DI1eCZnjXrPaKFdloIQ/ts
+#EXTINF:-1,Claro Visión TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc4shZQsAaOtiNv_Ee2aF1k/ts
+#EXTINF:-1,CN Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbOk96VwiznJsvejkewI48Q/ts
+#EXTINF:-1,CNA
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRBIPSZ-Qo6AVEoQVONtg3I/ts
+#EXTINF:-1,CNBC Asia (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSn2U96fx0aBzGkR1o6XUl0/ts
+#EXTINF:-1,CNN Global
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ__LYYCaYfiUX-PtZwFbxs/ts
+#EXTINF:-1,CNN News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTHuFb-PbA2FdNVWLMzdB5o/ts
+#EXTINF:-1,CNN Türk (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXK-Unv2ERh6NSVSLUolGdg/ts
+#EXTINF:-1,CNTV Canal Numérique (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgafmzMtTFfosgZp0bvUADGI/ts
+#EXTINF:-1,COCO TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWjTPshVEBsxtu_qfzhdpVg/ts
+#EXTINF:-1,Colors Bangla HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcuwHZykZ5blwGp7ml_x7eU/ts
+#EXTINF:-1,Colors Bangla HD D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRCWYiswa7U8pwGxTjtfKEI/ts
+#EXTINF:-1,Colors Cineplex Bollywood
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSZYWoNk2KJ1Qtt-x6pRqnY/ts
+#EXTINF:-1,Colors Cineplex HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQXzCFla-k-LiKrWbVEP5Yw/ts
+#EXTINF:-1,Colors Cineplex Superhit
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgddb2Hznvu9NrdkVBO0USMc/ts
+#EXTINF:-1,Colors HD India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXs2f_0FLX58YMWQxyBzoSY/ts
+#EXTINF:-1,Colors HD India D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRAJlc6dD8dX7nvYVtsR2_8/ts
+#EXTINF:-1,Colors HD Usa
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge5UkrDTnKv8vcvx2N1DD3Y/ts
+#EXTINF:-1,Colors Infinity
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbq98YL8Qn3N5ECoYMnnDsg/ts
+#EXTINF:-1,Colors Infinity HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeD-XgfPlAtTaHhipSmA81k/ts
+#EXTINF:-1,Colors Rishtey
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWsY9VoxwbMDkvOxyciL5t0/ts
+#EXTINF:-1,Colors Tamil HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcHmr291KyQQmvRoLQZihgQ/ts
+#EXTINF:-1,Colors UK
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS9pt5XtmNtdYUK3fevCdec/ts
+#EXTINF:-1,Colosal TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU67quqq9J_IZurC47yveh0/ts
+#EXTINF:-1,Comedy Central
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdqDoPSsRBLIuGE69pEdQ7c/ts
+#EXTINF:-1,Comet (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSowZTe8keJSJ-3yujJ--XY/ts
+#EXTINF:-1,Conecta+ TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWf6RaSgc0qZRT3Bgx_faeA/ts
+#EXTINF:-1,Corporation de Télévision Brandon (CTB TV)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUPXeAM8yRe1PsnsB0PhGYk/ts
+#EXTINF:-1,Corporation de Télévision Brandon (CTB TV)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZVRYBjfIXHHy4sD4x0wPgE/ts
+#EXTINF:-1,Cosmos TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQWMLO7LK63Ftti8V5JgdUc/ts
+#EXTINF:-1,CPAC (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZODstlbhRUgv4JKLbZSzp0/ts
+#EXTINF:-1,CPAC (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSgzVrAZr-GrqW1NnlnFPS8/ts
+#EXTINF:-1,Cribs Maisons De Star (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV1ONheZtZS1gZadDrng-PU/ts
+#EXTINF:-1,Persiana Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaew5mPBAvm6kJbGF-hUn9E/ts
+#EXTINF:-1,Crossing TV (Crossing Contenidos) (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbzTRDuL8D3sdtidiSaJljk/ts
+#EXTINF:-1,Da Vinci Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTTKyo4Cov23vFhr7SbJuKQ/ts
+#EXTINF:-1,Dangal
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW4ET3dtrFUHfiLUGCOCtKw/ts
+#EXTINF:-1,Dangal 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX1S6LX9kQbw8d6AZ0aVB34/ts
+#EXTINF:-1,Dawn News (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRRwGMACRHc_Dq6efj6mXdg/ts
+#EXTINF:-1,DBC News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdeg-lHqOa7r6MVXL0bSbzM/ts
+#EXTINF:-1,DD Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdUfHqX1-fbAvAvHq-ShH3c/ts
+#EXTINF:-1,DD Malayalam (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV2BzRqd7HRs88Klzvz82Ho/ts
+#EXTINF:-1,DD Natinal HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgShPz3fgu3hQ6PWz3c1Trmc/ts
+#EXTINF:-1,DD News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfe9dj0ahMIzRx_3AyJLMds/ts
+#EXTINF:-1,Deen Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR52uOgLD8wQcDOaw3zt9Pg/ts
+#EXTINF:-1,Deepto Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZxs6ZrmZ6LeDy4gENQpCB4/ts
+#EXTINF:-1,Degrassi The Next Generation (Canada) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSk9obu_cA6lktW8WdmaqNM/ts
+#EXTINF:-1,Degrassi The Next Generation (Canada) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS7PgvP6c5vlhK8dTkR9CTo/ts
+#EXTINF:-1,Demand Africa (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeOP14hZFxeBMRZz1BKlWWM/ts
+#EXTINF:-1,Dersim62 TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWRyD1tGjErvA22-fq2Ekkk/ts
+#EXTINF:-1,Desh TV D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW3X_g370nPiyghvXy-ZIAE/ts
+#EXTINF:-1,Deshi Play Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf94Ei5qQADdod82HVVy8iI/ts
+#EXTINF:-1,Dhoom Music Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWvUwzRn3MFf2CvEiHPRNpA/ts
+#EXTINF:-1,Discover Pakistan
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcV1Asdezb713JmFB9QjDh8/ts
+#EXTINF:-1,Discovery
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU1tLnqZXKiAUpRC488ow6U/ts
+#EXTINF:-1,Discovery Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX4SW5mWgCWthF2usa4Bfmc/ts
+#EXTINF:-1,Discovery English
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZtxdAWlMD-mKuabIXiMKF4/ts
+#EXTINF:-1,Discovery Kids
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVzOarpA-yzrJLIgGKL69K8/ts
+#EXTINF:-1,Discovery Science
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdFgASfYwTaASyw04VP_6oo/ts
+#EXTINF:-1,Discovery Turbo
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRco-0kBOx4n_aykHbalqH0/ts
+#EXTINF:-1,Disney Channel
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeanc4F2aBaApPJKCLM7qUk/ts
+#EXTINF:-1,Disney Channel USA
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZDrsjGDN2icJxQpfLOcq9E/ts
+#EXTINF:-1,Disney HD Hindi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWzUg_xu8B7ZQ2WtD44kZLI/ts
+#EXTINF:-1,Disney Jr Eng
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWTJaVjdK3zpK4HuBlOApUM/ts
+#EXTINF:-1,Disney SD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfXAc3kEvJwK9eMrCevnXRU/ts
+#EXTINF:-1,Disney XD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgStKSmG6cG_nE-PmxMralRo/ts
+#EXTINF:-1,Dreamworks Channel Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXfXXxANBg7fahD9THwOGJA/ts
+#EXTINF:-1,Dubai One (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbM3lGxSYHOuj5lRKugq-Eo/ts
+#EXTINF:-1,Dubai Racing
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdaSfe1s3g9bywHfptELUEU/ts
+#EXTINF:-1,Dubai Sports 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVEKiFxVmO1KRhIsAXprz24/ts
+#EXTINF:-1,Dubai Sports 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVp7xRRJcX3r_RttK9SYZLs/ts
+#EXTINF:-1,Duranto TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeIHjDBujQITqfLlQy996vE/ts
+#EXTINF:-1,DW Arabic (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTWIdHYiRoWtgyiLU0fIGMc/ts
+#EXTINF:-1,DW News D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVRFZXTAzvKF5D1IO3vxkOM/ts
+#EXTINF:-1,Déjate de Historias TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTWWCV7SI7TKYncERXn5X_M/ts
+#EXTINF:-1,E Ten TV (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfNEkbMRd8b0pMm8NbIJ6Cw/ts
+#EXTINF:-1,EET TV (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ91BZ8X_wdHYfyBaIrNz10/ts
+#EXTINF:-1,Ekattor Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcE5oIGzaeICJZgfCBAemUY/ts
+#EXTINF:-1,Ekhon Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQjeUP6ptMDA-u9Hh5J15l8/ts
+#EXTINF:-1,Ekushey Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbprtwLF1WZKMI5Yhr4Ck1E/ts
+#EXTINF:-1,El NU9VE (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRbQJQXriS-hhOM3O4Qlfnk/ts
+#EXTINF:-1,Electric Now (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc_-IW9gK_aS3Mnnfe0WPlU/ts
+#EXTINF:-1,Elemental Channel (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaKesc_NEUNYoh98L6LRIq0/ts
+#EXTINF:-1,ELEVEN SPORTS 1 | PORTUGESE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbm-BfjSM8MSDDAMj4f_Irc/ts
+#EXTINF:-1,ELEVEN SPORTS 2 | PORTUGESE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbFpYKjlwjBJ3CX5OFjvgnY/ts
+#EXTINF:-1,ElyTV (360p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcnvap5AIhE9BMhiJfc80mA/ts
+#EXTINF:-1,Emaan Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbmwpVyHWg14RwOP2voBdzY/ts
+#EXTINF:-1,Emayam Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTfr02yrn6RJhtjHV63HQy0/ts
+#EXTINF:-1,Enterr 10 Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQPIKLsQWMPDehqmbkU49iQ/ts
+#EXTINF:-1,Enterr10
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQr4NZYZ6r67kBdygkPG9X8/ts
+#EXTINF:-1,Erfan Halgheh TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSqzJzmFsm_IKfJ7uK456Ls/ts
+#EXTINF:-1,Erfan Halgheh TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY7uYudeY12yILA1qrib1ys/ts
+#EXTINF:-1,ESPN 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY9siGEiwhD-UVgFViLLhJA/ts
+#EXTINF:-1,ESPN 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaGfMaY654txdqaBobzgJeg/ts
+#EXTINF:-1,ESPN Network
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXc2VgsTvcmKmFVFFrJr0xM/ts
+#EXTINF:-1,ESPN UI
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge-a66FOQzmQu-iciN_RtcY/ts
+#EXTINF:-1,Essaida TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRTrjO0yuqPj6EplFYA4Sps/ts
+#EXTINF:-1,Estrella Games (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfilZvY8DCGyAmjP5e15ME4/ts
+#EXTINF:-1,Estrella TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSXtHrffnyKqNnmPUUQGux4/ts
+#EXTINF:-1,EuroFolk TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfuxbGdHxX3SdhvJuGoPtAg/ts
+#EXTINF:-1,Eurosport HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZKzwApoanReXAk8nDFp0-c/ts
+#EXTINF:-1,EVI TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge3shWSb-dGVOx6lu-bvmcM/ts
+#EXTINF:-1,EWTN Africa Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfUk_Mqp9gehLfX4lPlCIoQ/ts
+#EXTINF:-1,EWTN Asia-Pacific
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcCiSqQZUaks8bKuUW2EubA/ts
+#EXTINF:-1,Ex On The Beach Italy (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcR2SjcqEIM1mPdTA9I_AqQ/ts
+#EXTINF:-1,Express Entertainment
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgayBks0rALM_0w21EYYfTQc/ts
+#EXTINF:-1,Fakt Marathi (576p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQs96oDJGk_OrEeYqPBZPSc/ts
+#EXTINF:-1,Farsi TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgawhb2OHtZyvztjSAXXc7UM/ts
+#EXTINF:-1,Fashion Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaa_oObTfW8XA-dRNKYf5Fw/ts
+#EXTINF:-1,Fast Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb9K-0c4Cjog0sPVGP1Rg8I/ts
+#EXTINF:-1,Fateh Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdTAyrJS2sgHw3JZllgN7JI/ts
+#EXTINF:-1,Faza TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ01MgsxrugENJrNLrbksCk/ts
+#EXTINF:-1,Fazal TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSaMhfRGDijdUJZWT23yHXQ/ts
+#EXTINF:-1,FC Football
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY_CHfd3kWgbEo0BNAthgNQ/ts
+#EXTINF:-1,Fear Factor (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbQUy2Py2ltLZkT0UmFUlco/ts
+#EXTINF:-1,Ficom Channel (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ4Ye-d7jLHpap5qPeYffSE/ts
+#EXTINF:-1,Fidele TV (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfXU4kXH7giOJk_em1mzkYM/ts
+#EXTINF:-1,Fido TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYTmDxTc9h8ty7OFKK77eZ8/ts
+#EXTINF:-1,Fight Network (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQMn4I35q5BVERsLOOxuxxo/ts
+#EXTINF:-1,Fight Network (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYWv_xz2g2Mg89IzT58zhwI/ts
+#EXTINF:-1,Flower Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWN0nrDXjIjg9qant20_Jbw/ts
+#EXTINF:-1,Flowers TV (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXU0cCh1M1tkaY8uzNLytxA/ts
+#EXTINF:-1,Food Food (576p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUODAG1yrqKEhCjVzXF11wI/ts
+#EXTINF:-1,Fort TV (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZWgmByJrkeYZ9X5lmBPt58/ts
+#EXTINF:-1,Fox Cricket 501
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYYB_H9uavxX7TZ3BH5-DCI/ts
+#EXTINF:-1,Fox News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfSMFSM8GHDmsCkGxnqeKYw/ts
+#EXTINF:-1,Fox Sports 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc_K78-sMXk6xmTj0AYlYK4/ts
+#EXTINF:-1,Fox Weather
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY1UbdTgMRi-j7JtAnqEkUI/ts
+#EXTINF:-1,France 24 Arabic (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbd5k8yoDlcBu-oHezoWteE/ts
+#EXTINF:-1,Fuji TV NEXT (544p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaUQUl8eDJO67uOhV5ELq0k/ts
+#EXTINF:-1,Galicia TV América (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZFOynkJQo3vjHelvlWdz8Q/ts
+#EXTINF:-1,Galicia TV América (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSkKI0lyyF0mqp3VJrw7hDA/ts
+#EXTINF:-1,Game Show Network East (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfZ8tfF-Gctn69f2SbZNvic/ts
+#EXTINF:-1,Gardenias TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR1qEt4GzPJQK4C5OwGsWCk/ts
+#EXTINF:-1,Gawahi TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBga1atlNFz7MqY6qW0xqRSpU/ts
+#EXTINF:-1,Gazi Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV5Z-qnRcvw7W6QRXgr_Ywg/ts
+#EXTINF:-1,GEM
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge7FESF_xpefa7iiaf9o7-Y/ts
+#EXTINF:-1,Geo Entertainment
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgctxdwe4u_KwSQl1vleU4zg/ts
+#EXTINF:-1,Geo Kahani
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWVxT_9QXAMBVcEvY0FhZ6w/ts
+#EXTINF:-1,GEO News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRyaF-3oN8u1L3b_LRYNyFM/ts
+#EXTINF:-1,Geo News (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfnpNyvx8uOZpR6E5O1cmGo/ts
+#EXTINF:-1,Geo Super
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQFPMBHLg-n1V14njDoavJM/ts
+#EXTINF:-1,Geo Tez (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbK7VcuKqsYf4p8nY3L_qI0/ts
+#EXTINF:-1,Geordie Shore Italy (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZb6P_wNgrOh-DsEHI70iRQ/ts
+#EXTINF:-1,Girasol TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSR9-tnVbYqyd7NxTgV3SW4/ts
+#EXTINF:-1,Global Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcWtYYgmXPo4KNNrTdBVL9A/ts
+#EXTINF:-1,GO TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWv8fUJ4Z_Z7-hTf9lkfqJQ/ts
+#EXTINF:-1,GoldMines
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaVX6MUB0mJN_kL948IekYc/ts
+#EXTINF:-1,Goldmines Bollywood
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ2kutSOMrQLL8uWeJ1U6f0/ts
+#EXTINF:-1,GoldMines Movie
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaZbaIn-vSGuHtsBvC2tVeQ/ts
+#EXTINF:-1,Golf Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc533BjNVSAniu-CpecOUa4/ts
+#EXTINF:-1,Good Idea TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbUcFlQXfyh5TgL-1m9v2L8/ts
+#EXTINF:-1,Grace Network (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcYyeRKZ38cD54VrxeQvhx8/ts
+#EXTINF:-1,Green Entertainment
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR5MN3oZYLh_GWCXvyKQpm4/ts
+#EXTINF:-1,Guaro TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcEK0yLAAmvi0GnoZG4MvfA/ts
+#EXTINF:-1,Guinée TV1 (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUSuNS0XU2R4TBLmltR2Ji4/ts
+#EXTINF:-1,Gólya TV (480p) [Geo-blocked]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQz2CrWZo29LGlUtNtI7jPk/ts
+#EXTINF:-1,Haarlem105 RTV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf-T7fGIkM3tR4oZLHSv540/ts
+#EXTINF:-1,Hamdard TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgae2XgqyVF78eq3YkBrJSyk/ts
+#EXTINF:-1,Hamdard TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge4MRAjLLDVarCegLtfa0Vo/ts
+#EXTINF:-1,HBO
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdhfzJJQxKWJRE-n5GUQ3g8/ts
+#EXTINF:-1,HBO Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgavP3v8iw01AVbly8Ho5l5g/ts
+#EXTINF:-1,HBO Comedy
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR4jN3GArD0i5aJq1Zsh4WU/ts
+#EXTINF:-1,HBO Family
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcdbmmdvMIMC1_vmM2AIN7s/ts
+#EXTINF:-1,Heartland
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfyhY2p2Dun9f6dKwDBEwG0/ts
+#EXTINF:-1,Hi-YAH! (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgURpOHK0enQJrOFK55fzk0g/ts
+#EXTINF:-1,High Times (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXzSeznFiNj6FJhKw4LlIIw/ts
+#EXTINF:-1,Hindi Hits HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTZ04U97ziqS6VxZvxKENrQ/ts
+#EXTINF:-1,Hispania TV (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgemJahaFOklQHuVe83Kfkzk/ts
+#EXTINF:-1,History HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU6EgudUB3sLLg41pL07ePk/ts
+#EXTINF:-1,History TV 18 India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdEEkfNvEJ7gP5y1XNt3RNE/ts
+#EXTINF:-1,HITS
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXXCWPu94dDeDoW3l-OEtNU/ts
+#EXTINF:-1,HK TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX_b8fIGOjpFAPt4Okw6A90/ts
+#EXTINF:-1,HollyWire (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQqu5csu2vtCI0hupEQB5iY/ts
+#EXTINF:-1,HTV Live (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTo2CViWkwoISp270v3SGSA/ts
+#EXTINF:-1,Hub Premier 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXH0tPrP2Am_apHU9iVV9Mk/ts
+#EXTINF:-1,Hub Premier 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaqlur3Tvvq9FOo1Kum-kEI/ts
+#EXTINF:-1,Hum Masala
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZfPNG_-Nx6JDrfmpLbkkLw/ts
+#EXTINF:-1,Hum News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX2_SuHtQIBqC3gA2YdygeM/ts
+#EXTINF:-1,Hum Sitary
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcPvTMBqfrLttF71qfUCjgs/ts
+#EXTINF:-1,HUM TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSR0IPgTI_Z9IyBhqbs7Bfo/ts
+#EXTINF:-1,Hum World Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSrZOtQWaIzMsdtm5iij5m0/ts
+#EXTINF:-1,Hungama
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbh--IvP4BKxxBRWY19vJeI/ts
+#EXTINF:-1,IberoAmerica TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV4IxOJVLwo7Hit6oVu1ZPs/ts
+#EXTINF:-1,ICI Montreal (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXJaZBM1qwoUdpZ065Dlpak/ts
+#EXTINF:-1,ICI Montreal (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRHjl88KZf6A2Wigj1EQyow/ts
+#EXTINF:-1,ICI RDI (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgamUasModr7-885MPgKzeu8/ts
+#EXTINF:-1,ICI RDI (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZB7e2AkwP22Y47YHhERzD8/ts
+#EXTINF:-1,IGN (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgemzZsssijIH8XOQnzYQvlY/ts
+#EXTINF:-1,IGN Italy (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcP0JnRq6KQH0MGkzpF6jTg/ts
+#EXTINF:-1,Il Banco dei Pugni Italy (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR6T-rFGieurBJu3_IFJ89Q/ts
+#EXTINF:-1,Imayam (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbTRz_33Wee4HdFnraOe1fg/ts
+#EXTINF:-1,In Trouble
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaDUicOW6OIapcBSWjdmzKc/ts
+#EXTINF:-1,In Wild
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ6KweMYysz83DD58LCW6G0/ts
+#EXTINF:-1,Ind TV USA (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge0Exx8eH6mFuAU_HFstSvU/ts
+#EXTINF:-1,IND | & Picture
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcSZoTpMY_9ChlFgLJ5BQjo/ts
+#EXTINF:-1,IND | & Pictures HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSEf60I6tPqhXATQi6rDZIc/ts
+#EXTINF:-1,IND | & tv HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZg_e5AnmNfodzHQYggdoXo/ts
+#EXTINF:-1,IND | 9XM
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVPG5PKJqW0X1B5WXdOa2jg/ts
+#EXTINF:-1,IND | B4U Kadak
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY0hKtj88e7PK7EAcr2n1T4/ts
+#EXTINF:-1,IND | B4U Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWEZ2si7j3wjZ3xMv4jTiCA/ts
+#EXTINF:-1,IND | B4u Music APAC
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXUOpPnOK6_RYoQ4jYly3Lg/ts
+#EXTINF:-1,IND | Chumbok tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVMZopFHxUZ0qgzdn1pfSGI/ts
+#EXTINF:-1,IND | Dangal Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaAKpycaPCog9qCXKgx-j38/ts
+#EXTINF:-1,IND | Goldmines
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTo_pFm4UaXu_CjdsM2qbYo/ts
+#EXTINF:-1,IND | Goldmines 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVTsl7Wy-kNP1Sxjmh6gedU/ts
+#EXTINF:-1,IND | Goldmines Bollywood
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVFiVK0XnKA2viRnLygjnr8/ts
+#EXTINF:-1,IND | Goldmines Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ3PXO_UaBTCydTw9MQT07k/ts
+#EXTINF:-1,IND | History tv 18 India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRzOzuOXLUsgz50YH1itgps/ts
+#EXTINF:-1,IND | Kolkata tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY7-7rKKGsgS-nAp9gbMv6g/ts
+#EXTINF:-1,IND | Mastiii
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRMpIcof3zwkO--K_WHA7Mw/ts
+#EXTINF:-1,IND | MTV India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSDnkPDsNpIuokSIuwCcN40/ts
+#EXTINF:-1,IND | Music India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfQW3n9mL6RH2tQZjkuqK-0/ts
+#EXTINF:-1,IND | Republic Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUirChuYpoy6dPnELPGsVS8/ts
+#EXTINF:-1,IND | Sony HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTDl7HniS9Y7Tv1RqecdITI/ts
+#EXTINF:-1,IND | Sony Max
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcZAP0F_vmZ0BjIBEROEg74/ts
+#EXTINF:-1,IND | Sony Max HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUd8n2V3-6Qitca2YNZO4nk/ts
+#EXTINF:-1,IND | Sony Pix HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX0iz6tEtzeXkISW5zONCp0/ts
+#EXTINF:-1,IND | Sony Sab HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVXVAVHTGJkfsNiDUySnoqo/ts
+#EXTINF:-1,IND | Star Bharat
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV6e_wJ7SL_FPaBqJuaNGF8/ts
+#EXTINF:-1,IND | Star Gold HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb4_VCwGNm46OhQC8Odid_E/ts
+#EXTINF:-1,IND | Star Gold Select
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUOYByvmRTqnJwvakjgCqDc/ts
+#EXTINF:-1,IND | Star Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYRvhTQPXURX9cDsGbDYZAg/ts
+#EXTINF:-1,IND | Star Plus
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb2xdm0tleXQsHwQ6eIGI8A/ts
+#EXTINF:-1,IND | TV 9 Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV-wpejWjdSl18DCsQNq_ZM/ts
+#EXTINF:-1,IND | WOW Cinema One
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTvs0AiLvhnHk-R__0oPL6Q/ts
+#EXTINF:-1,IND | Zee 24 Ghanta
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWEMzdNvPUIDd_22VchxIpU/ts
+#EXTINF:-1,IND | Zee Action HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdwt8du0p3Ei90gBu8TMBGk/ts
+#EXTINF:-1,IND | Zee Anmol Cinema
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf8hHpdQVVj0R6DGVTyJBxE/ts
+#EXTINF:-1,IND | Zee Bollywood
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf-YcNn82Yi9lEO5RGm8Txw/ts
+#EXTINF:-1,IND | Zee Cafe HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbesXZXEjC6YZx7zOnLrilg/ts
+#EXTINF:-1,IND | Zee Cinema HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdX3qs1FOqff7ULHykwL4IE/ts
+#EXTINF:-1,IND | Zee tv HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYB7X1Py3ikWnx4UVlnj6os/ts
+#EXTINF:-1,IND | Zing
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWS2snVfsc-pfHmjHHO4bcM/ts
+#EXTINF:-1,Independent Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQfqqNLYhJKYmmrG8AI193A/ts
+#EXTINF:-1,Indonesiana.TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV1bNVCr1zNu7rH3IciAH-k/ts
+#EXTINF:-1,INFO | Discovery Bangla..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSOlT4QkdlcJfH7xmU-M-2g/ts
+#EXTINF:-1,INFO | Nat Geo Bangla..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVciCKMCDWFs84g--bKb84k/ts
+#EXTINF:-1,INFO | Travel Xp Bangla..
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZi9qFpPG78AkayD51k62IQ/ts
+#EXTINF:-1,Investigation Discovery
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUEINjFTW0vSMGndgysh9bY/ts
+#EXTINF:-1,Iqra Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUtq78Z1RrVCq42of-dyjxw/ts
+#EXTINF:-1,Iqra Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXbu7yk4gnExRu8oW1FSbeo/ts
+#EXTINF:-1,IRIB Nasim (540p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS_qyWWfESiZzlgjrYUoqjc/ts
+#EXTINF:-1,Isaac TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc3Iq0WZZ9H2aSyeQxzvD_0/ts
+#EXTINF:-1,Islam Channel Urdu
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRu2ju2o4iB0KcmnZVC1jtw/ts
+#EXTINF:-1,Islam Tv Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRNciuLnSb8UMgp_8vPYMV0/ts
+#EXTINF:-1,Island Luck TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSEa3ZLwod7gdqMrNeQonGM/ts
+#EXTINF:-1,ITN (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBga8keciQ3_ThG7Zt2232foM/ts
+#EXTINF:-1,Jago News 24
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZKSxPNb2p7r9XuOnohR-U4/ts
+#EXTINF:-1,Jalsha Movie HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbDKF4aMEI5-U6C0H_QviMo/ts
+#EXTINF:-1,Jamuna Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfQz4wt0pxFabHU1A2z71Yo/ts
+#EXTINF:-1,Joo Music
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX_POF-sk1AuItk3M03ORDw/ts
+#EXTINF:-1,Joshua TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQN1drk_uJRcRwL0aHD2fFg/ts
+#EXTINF:-1,Kairali We (396p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb49pyghpKVhQLjblCdeGaA/ts
+#EXTINF:-1,Kanade (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdXnK7EnPfmZDbSNhKAb3bw/ts
+#EXTINF:-1,Kanal 10 Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWdpvRE_NJDhdBCh7zLtwbA/ts
+#EXTINF:-1,Kappa Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT09-W1p8M-y_7aR9xXjU18/ts
+#EXTINF:-1,Kasthuri (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZRpNz9j0nrH5lxKBhSawZY/ts
+#EXTINF:-1,KCL TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQhZnG-eyow6d13rLcj_3mA/ts
+#EXTINF:-1,Kerala Vision (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRcE4_Dh8xLN4wVlPK6S0BY/ts
+#EXTINF:-1,Khushboo Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfRgWK3Tt6zHXGk_BNV332Q/ts
+#EXTINF:-1,Kidoodle TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgROgTFSROvNF1vq0MA-_1NI/ts
+#EXTINF:-1,Kidoodle TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSUNOmgqYcjjVs13G-N9Kfo/ts
+#EXTINF:-1,Kids Tv India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcB2wdwADk1ZQEohgGb79eU/ts
+#EXTINF:-1,KIDS | Cartoon Network
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUv9DBq8l_x90jFlewb0nVw/ts
+#EXTINF:-1,KIDS | Cartoon Network HD+
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR0G4YHgRIilFSNtmsIWlAE/ts
+#EXTINF:-1,KIDS | Discovery Kids
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb41Mrj1XMZ6Ofqohuvl8Sw/ts
+#EXTINF:-1,KIDS | Disney Channel
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd0Mru4mDFS4O1MiNXYWRk0/ts
+#EXTINF:-1,KIDS | Disney SD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXSl4YWWLXhJKmBfHjHrgzs/ts
+#EXTINF:-1,KIDS | Hungama Kids
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQdWFvV3tNF06Ab1Ay-fIBA/ts
+#EXTINF:-1,KIDS | Nick Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZhBZ33HhevwUDqbIdhB6-Q/ts
+#EXTINF:-1,KIDS | Pogo
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbo53sgmIDVi1alRy1dOZKc/ts
+#EXTINF:-1,KIDS | Rongeen Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUT4AupvGRzb3zgWbMpD_lk/ts
+#EXTINF:-1,KIDS | Sonic Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU2317MiVzi6mL7LdeRTRKo/ts
+#EXTINF:-1,KIDS | Sony yay
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUxOymgUWfWnk3HKQxGsadw/ts
+#EXTINF:-1,KIDS | Super Hungama
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZmWF7Ddbfp0fxuJZ-Wo-9U/ts
+#EXTINF:-1,Kix
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd4ph3y3sneAzYdg9LczIUc/ts
+#EXTINF:-1,Kix (Indonesian Subtitle) (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRQtVzAQD4yuK__Rtnt0TUY/ts
+#EXTINF:-1,Kolkata Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgREGzcUSngS4aXETME7BkUw/ts
+#EXTINF:-1,La Nueva Radio TV 97.7 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaBU6vvotUL8X8otsNOyzVI/ts
+#EXTINF:-1,LatacungaTV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVf88axKd36EXn8Ci82DJpI/ts
+#EXTINF:-1,Light Channel (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXPsCGHHgpg2Knwi-duwiEE/ts
+#EXTINF:-1,Ligue 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeyD0Y2I5KICNr9kA5q0xp8/ts
+#EXTINF:-1,Linus Tech Tips TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYjunTulzIBYt-nVUXAMxSQ/ts
+#EXTINF:-1,Linus Tech Tips TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcp2QgidsVLxFu9iOBrXpZc/ts
+#EXTINF:-1,London Bridge
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWRwR9bsxSEEfT4_ENeCtKY/ts
+#EXTINF:-1,Los Altos Televisión (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVvRUonh0vR9LTY0muyThJY/ts
+#EXTINF:-1,Love Nature 4K
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUgi3MFTJA7jqLQ1r5ET2rM/ts
+#EXTINF:-1,Love nature 4k
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdsCcF6WTrFid6C4q1jHC84/ts
+#EXTINF:-1,M Sign Media (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWf8rz5NR9X1mjn9fRyLnFs/ts
+#EXTINF:-1,M6
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge206EFya2Rx1WsWZ0pvCAY/ts
+#EXTINF:-1,Mac Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcY3vhpvVM5dfhwbsHAPS1g/ts
+#EXTINF:-1,Machranga Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVfgmgHmLfuPIlT-KMloQ7M/ts
+#EXTINF:-1,Madani Channel Urdu (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbWDECOOpJHodrObRBrrLJo/ts
+#EXTINF:-1,Madani Tv Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWiHNZWSZ-KMNykcn_70ooc/ts
+#EXTINF:-1,Madina live
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfOAMZ0N5OXPsAiNBz0p73s/ts
+#EXTINF:-1,Magic PowerRadio (288p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge_zOMaxBST0nLx2BZ1svxY/ts
+#EXTINF:-1,Magna Vision (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZFlt1_64h2Fj29o54Xh3Pw/ts
+#EXTINF:-1,Makka Live D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZc91s3cZU_BhgvkDNK1osQ/ts
+#EXTINF:-1,Malbec Play (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRvyEObmNvXifvr0uKDE_OQ/ts
+#EXTINF:-1,Mandra TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcFmb1Shx7vP4jOo652qL9Q/ts
+#EXTINF:-1,Manoranjaan Prime
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBga17rhQBA3mFeti9ORynZbc/ts
+#EXTINF:-1,Manoranjan Grand
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgavhv2meiK3kwMOzgJpVxtw/ts
+#EXTINF:-1,Manoranjan Movie
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQLXlTmqCjqrStq7LYJyxRc/ts
+#EXTINF:-1,Manoranjan Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdhplbSiYgh3sWBBWyubrgM/ts
+#EXTINF:-1,Manoroma
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb42XCl5B2QfkWXOcz57VH0/ts
+#EXTINF:-1,Manoto TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYy0qUdwyLAoCUyq0YhGG3U/ts
+#EXTINF:-1,Masha and the Bear
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTG1XrLi2c4YqSDfpwNaRm8/ts
+#EXTINF:-1,Masti
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgROo2MDPPaGl7JsViTu4O8U/ts
+#EXTINF:-1,Matri Bhumi TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSCbdRsZG-wMu4l8An11Acg/ts
+#EXTINF:-1,Max Bangla Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQjGE2NSAgUlbmD49SnKEhc/ts
+#EXTINF:-1,MBC 1 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYLvVvaa8z1ndlSQSzzPJDI/ts
+#EXTINF:-1,MBC 3 EUR (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBga9eMxMcXHK5OWek8gIjWM0/ts
+#EXTINF:-1,MBC 4 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWtiRLblFGPeRScb-R_HQIY/ts
+#EXTINF:-1,MBC Bollywood
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVqRSSUq6aCca8QILtAFxbA/ts
+#EXTINF:-1,MBC Drama KSA (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcvqPMARmtETgxJ03ZL8sw8/ts
+#EXTINF:-1,MBC FM (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYjZbvftXBSEsIeHqagHKHY/ts
+#EXTINF:-1,MBC Plus Drama (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZHRESv9N-y1SzKMlIpwt2w/ts
+#EXTINF:-1,Mercy tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbE_8zY-qElWx98Ov0ha5A0/ts
+#EXTINF:-1,Metro TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY-t0mrINrrcNeomS4Q5oLw/ts
+#EXTINF:-1,meWATCH LIVE 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT3Quwt6tarlZDnrPkVBsFQ/ts
+#EXTINF:-1,MH One Panjabi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTR6d5-di9_gVLQwklw78Qw/ts
+#EXTINF:-1,MHZ
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdqNhiNgtxhvM__YpWpq7Ms/ts
+#EXTINF:-1,MHZ
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ-zkn2iQUTgQEJGlS1cxl4/ts
+#EXTINF:-1,Midnight Pulp
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfd60YWOiCPOAIdc_MHMkFo/ts
+#EXTINF:-1,Milyon TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRFbf12AfWgKJvvNOFOgy9Y/ts
+#EXTINF:-1,MK TV (576p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXRdrSg5RDJtTigLP1Wne9k/ts
+#EXTINF:-1,MN Plus HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYvdJhMF8Q_AiqiAj78uPbU/ts
+#EXTINF:-1,MNTV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTcgF0wTvW8DJh2K6V27NNQ/ts
+#EXTINF:-1,MNX
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX451z9Yqx8nAouxOdh90d8/ts
+#EXTINF:-1,Mohona tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXKLeZ5N4gnR4wacYnhOIlk/ts
+#EXTINF:-1,Mon Tv Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTbDzPBAIinDrDysw8bSJDg/ts
+#EXTINF:-1,Movie Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX1cWAwQR7pW9RR7tsIrt6U/ts
+#EXTINF:-1,Movie Plus
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgShmdAmPpdtW0kMviAVhOu0/ts
+#EXTINF:-1,Movie Sphere
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZnwbZXji92BbPBn5XqlPcY/ts
+#EXTINF:-1,Movies 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUxYmX8OXMWz6v7wtdPfYK0/ts
+#EXTINF:-1,Movies 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfqWSv5-IR45640n0fC7cno/ts
+#EXTINF:-1,Movies 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaJQhwKfBuUnQbN9qN4s0OQ/ts
+#EXTINF:-1,Movies 4
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdorsFA8aUTTyW66y0Vpit8/ts
+#EXTINF:-1,Movies 5
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR0VeXVay5_aOhGhWJm_0zc/ts
+#EXTINF:-1,Movies 6
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgefnn3vtmPKfZZIHfBAHJUM/ts
+#EXTINF:-1,Movies Now
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX58hCUv_vp18DmlIpNqgNA/ts
+#EXTINF:-1,MRTV Entertainment (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYI4HflG2GG9TGOPn893zEM/ts
+#EXTINF:-1,MTV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaThAO2i9TV9PYu7zG2u-9o/ts
+#EXTINF:-1,MTV France (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT64R7fxwVlKzC8q8Z0eGxA/ts
+#EXTINF:-1,MTV Germany (1080p) [Geo-blocked]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaWYcjGcdtnuU6qNkJHyRy8/ts
+#EXTINF:-1,MTV India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfvel3ggCwO9P8OQTHIvajI/ts
+#EXTINF:-1,MTV Japan (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUlLd_6CVAI5yBhWRn2TuxE/ts
+#EXTINF:-1,MTV Portugal (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVe3xFmalFHcRbX4K8hnC2U/ts
+#EXTINF:-1,MU Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXV2UwZRqv92k4-zL0al6RU/ts
+#EXTINF:-1,Music Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfizYKj-MnXlritUFqliY_4/ts
+#EXTINF:-1,Music India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT67fOLP08T9S8MOlvJQRtg/ts
+#EXTINF:-1,Music Masti
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWfs20G6zdFZvEBSaNfErfk/ts
+#EXTINF:-1,My Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ_A4Otm6Ygg-eGzDmx5okM/ts
+#EXTINF:-1,MyTVplus (Dresden) (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVLbvo_A5vQfVrI19Sya77A/ts
+#EXTINF:-1,Más Talk (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfIyUF2Ht4PWjC-mRl4HO1I/ts
+#EXTINF:-1,N31
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfmCkqsd9jvBB7039QiXdNU/ts
+#EXTINF:-1,Nago TV (240p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRaRU-q5hKjQ2t4A9evCYE4/ts
+#EXTINF:-1,Nagorik Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTxKNFsHyhmgHNFywKw2sKA/ts
+#EXTINF:-1,Nan Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUqLogFRsoIRAgOF310ZoX0/ts
+#EXTINF:-1,Nat Geo Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcytawqJvWrtkccT-ZaGPQI/ts
+#EXTINF:-1,Nat Geo HD ENG
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX89_ONWE3x-fjGRI-1IVYY/ts
+#EXTINF:-1,Nat Geo Wild ENG
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVY-1iSIhtedEEGTxQybeWw/ts
+#EXTINF:-1,NAT GEO Wild Hindi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWKLGcQOy0ibAPWaRW2scSw/ts
+#EXTINF:-1,NBC News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbHnNZYrqHK2RWLPQsmkzxI/ts
+#EXTINF:-1,NBCLX
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgThkYKlg0jx9VE5YxI-HROs/ts
+#EXTINF:-1,NCV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdmFqBjeMx_QotcVHAG7TL8/ts
+#EXTINF:-1,NDTV India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXn-Udug76s_BeywOfUDgO4/ts
+#EXTINF:-1,Negah TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRUHD05ZliiFgG5MH4DyuHQ/ts
+#EXTINF:-1,Netflix Action 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWBcNN1yuoexLPKfukJsqEo/ts
+#EXTINF:-1,NETV Toronto (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBged_jBsMssrJrxEtNdNBJ5k/ts
+#EXTINF:-1,News 24
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdQO1X19xF9gzKQR4VlV99A/ts
+#EXTINF:-1,News India 24x7
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbk11IRVQRu4w_xryoBxXqU/ts
+#EXTINF:-1,News Max
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWNKW2Y5BbOYrL0sB_29pVE/ts
+#EXTINF:-1,News Time
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTHig0AkjkGZbpe8nH9zHw8/ts
+#EXTINF:-1,NEWS | Al Jazeera News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYdGG06qs5rxO_5V7EZQld8/ts
+#EXTINF:-1,NEWS | BBC News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgboWfqr86kNNqnERBdvQwLk/ts
+#EXTINF:-1,NEWS | CNN
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRdxdZXflBnmv0nBNAphjWs/ts
+#EXTINF:-1,NEWS | FOX NEWS
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYUDcRDrNN9pB3ft54cE-8s/ts
+#EXTINF:-1,NewSignal (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbC9QrYFHmu7fJu2dVP26ug/ts
+#EXTINF:-1,Nexus Tv D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQEKgAkFSliYYYLsqPv8iDw/ts
+#EXTINF:-1,NHK Japan
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV_y_qPyoRxH2ZjhwcMo_tk/ts
+#EXTINF:-1,Nick HD Plus
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZtjo-fdNb_vTWzO96bH5c4/ts
+#EXTINF:-1,Nick Hindi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUh09xyIbjEqd08o6zvQQ48/ts
+#EXTINF:-1,Nick Jr
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU4TFw7vlxVJFtYuocVFgzo/ts
+#EXTINF:-1,Nickelodeon
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV2UgtFqq9IrmbARwXHqL88/ts
+#EXTINF:-1,Nicktoons
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdoyZy8MVxqFIH7dvYaWLqo/ts
+#EXTINF:-1,Ning TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV4fxdrjm1O6YszJWuInkkY/ts
+#EXTINF:-1,Noor Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgciswpM1Xlwr5HYsTyHp_Bk/ts
+#EXTINF:-1,Nos Isla TV (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTR31CHUSuPVcPSWtHjiR3M/ts
+#EXTINF:-1,NTV D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWqBkrVYdMPH6u1Sn8nMAjw/ts
+#EXTINF:-1,NTV Itahari
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaB5gAxX6jBioZ3Jf7b5x-U/ts
+#EXTINF:-1,NTV Kohalpur
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW_OMMVd3uyd_ru7ta8NE5Y/ts
+#EXTINF:-1,NTV Nepal
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdddd2vCaUJx9xXagcVyq_U/ts
+#EXTINF:-1,NTV News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbDsNRT0w6PuMeCKoQPxCk4/ts
+#EXTINF:-1,NTV Plus
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaC-sNH5csaD_FCZ-T__h_o/ts
+#EXTINF:-1,NTV UK
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdoUFowyMvQvpvQFwqcAltc/ts
+#EXTINF:-1,NUBAR Plus TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWbS99T6ZtjvjV94VTxXiJc/ts
+#EXTINF:-1,NUBAR TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcOan3XSihuE5h38EUoLL8U/ts
+#EXTINF:-1,Nuova TV 1 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX1JFRxpN3SNLSUshLt92KY/ts
+#EXTINF:-1,Nuova TV 2 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdzqEiTmZDW674suZvHhQfw/ts
+#EXTINF:-1,Omega TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd27FxpvO7mfx8fcZPzmfBw/ts
+#EXTINF:-1,Omide Iran (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVdmfc37r4Z2eJnAxlJ1paE/ts
+#EXTINF:-1,One Golf (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeNZfcDHKkDJ9SWhV5selGw/ts
+#EXTINF:-1,One TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV1qbj675x9vEK9ttzsNp10/ts
+#EXTINF:-1,One TV Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTWXU-J5t0fMZSPaAIq2qUk/ts
+#EXTINF:-1,Ontario Parliamentary Network
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZYCzBf3Fm98eA0AiEgFzNM/ts
+#EXTINF:-1,Ontario Parliamentary Network
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbm7tKcBuPvB9AVL9KuhOio/ts
+#EXTINF:-1,Open Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaDJ3Cc8A6mXDec-BZlWsy8/ts
+#EXTINF:-1,Open Tv 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV2J4SudLhpIGoTE2MC72U8/ts
+#EXTINF:-1,Oscar Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR0Hhk71pNDbt_pLBQxQRWE/ts
+#EXTINF:-1,OXIR TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYG9wWi4x7mdf1p3x6g4VUI/ts
+#EXTINF:-1,P.B - Ahil Tv BD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRcvbrmoGLlR2YohfNQssXM/ts
+#EXTINF:-1,P.B - Bangla 1 Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVWTvDfHpoS4mbCboGFzOdw/ts
+#EXTINF:-1,P.B - Channel 52
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTIRqskTQxKdqxDxRbzEuUk/ts
+#EXTINF:-1,P.B - Channel S UK
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTOQBoX4QaUQIRq-7nCqDZo/ts
+#EXTINF:-1,P.B - Millennium News 24
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR3xT2IBqPbl3EGXWLaNyqo/ts
+#EXTINF:-1,P.B - USBD Journal 24 TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSqLN-nXhveEJCc-K91CGAM/ts
+#EXTINF:-1,P.B- ion tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfFBRQmMFC2HFu3UwmjGDkw/ts
+#EXTINF:-1,P.B-Bangla 24 Canada
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSI9YRvi5x9b7UL22Yeyn_E/ts
+#EXTINF:-1,P.B-DESHE BIDESHE TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgepv7DzZSC-FWObbPcjD3aE/ts
+#EXTINF:-1,P.B-IBTV USA Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYyJkj84SK4MleC3YFSJ1_M/ts
+#EXTINF:-1,P.B-Millennium TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQjevfETR8BIdeW-bgyxj5w/ts
+#EXTINF:-1,P.B-NRB Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYyw0spbiJ76pHWPZt_2jeI/ts
+#EXTINF:-1,P.B-Time Television
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRZsqeXLTse8xh6vffRMZZk/ts
+#EXTINF:-1,PAK | Geo kahani
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR042MiAYOnaK9jQgjGZV9g/ts
+#EXTINF:-1,PAK | Hum Masala
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWFdE56AyfC-dprnvEeqvGc/ts
+#EXTINF:-1,PAK | Hum Sitary
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTzs9E-vtasplklFH2gKask/ts
+#EXTINF:-1,PAK | Hum Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX8JOX-Y77BrTFmCAw1U3r8/ts
+#EXTINF:-1,Passione Lotto (300p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge9nRqyOi6MusjX735ANFto/ts
+#EXTINF:-1,PAW Patrol Cartoons!
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgexogMEIFRAr-984qF49DZw/ts
+#EXTINF:-1,Payam Javan TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeHG0dGnoiqpmwT2Q5TxMjo/ts
+#EXTINF:-1,PBS Kids
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXB4emeprURoj3helHwara0/ts
+#EXTINF:-1,Peace of Mind Hindi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZP2MQOA2oMRBGCbXw1BDKk/ts
+#EXTINF:-1,Peace Tv Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ-LqMEzxsMjmVfFFkqDI7U/ts
+#EXTINF:-1,Peace Tv Eng
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcS9BQNG92WOlUEiodPFUp8/ts
+#EXTINF:-1,People are Awesome
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSdI1FuHGVYuK4hXn8gdRwE/ts
+#EXTINF:-1,People TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVe3Gwk9dxIuhZEtEuYiBQY/ts
+#EXTINF:-1,Persian Bazaar TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTU53BNgC6OIF_GNgiJdpfM/ts
+#EXTINF:-1,Persiana Game & Tech (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfpL4pyFwEmbGMOL6kcq_W0/ts
+#EXTINF:-1,Phineas and Ferb
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSqfOzyzoskrUYPfWOBLOp8/ts
+#EXTINF:-1,Pixar Cars Shorts
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfFyPMh3YEWO_Chz95RrhLc/ts
+#EXTINF:-1,Play Entertainment
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcwkrIZLLUv3iUFTv2VMe8Y/ts
+#EXTINF:-1,Play Television (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeful53r_AuAy5Wb_nijlRg/ts
+#EXTINF:-1,Players TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ0b9ugrTxfzia71aCW02Nc/ts
+#EXTINF:-1,PLEX TV (360p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbroJdyKeQweHqkd8XvKOOk/ts
+#EXTINF:-1,Pluto TV 90120 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWWS6MeL2DmIgZiv010wfFM/ts
+#EXTINF:-1,Pluto TV Animales (288p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSLfMMshwWA1NL8px-fPhiI/ts
+#EXTINF:-1,Pluto TV Anime Italy (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVvCS-EP1V4UeoZ8mgNmaE0/ts
+#EXTINF:-1,Pluto TV BET Classics (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTJOxoeUeWpDrZtStjTBhWY/ts
+#EXTINF:-1,Pluto TV BET Her (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYlPJQGoH921gZFtd6x5M8k/ts
+#EXTINF:-1,Pluto TV British TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaF5jqy8Q8sNI9goeV585g0/ts
+#EXTINF:-1,Pluto TV Conspiracy (480p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZrZe5kRfc8UCqkUPw4Am-c/ts
+#EXTINF:-1,Pluto TV Dating (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdfTS5KkO4KS1suhYEh1-G8/ts
+#EXTINF:-1,Pluto TV Dog the Bounty Hunter (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbKYHcOkkYivjuFs_52LEnA/ts
+#EXTINF:-1,Pluto TV ET Live (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgclxwhdvGkwRdzThuxmCu84/ts
+#EXTINF:-1,Pluto TV Family Italy (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb4LKnRdfYUyN78jt6xfXvU/ts
+#EXTINF:-1,Pluto TV Game Show Central (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbxMbimP_wz8lzVOT919Lmk/ts
+#EXTINF:-1,Pluto TV Gamer (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZhFQsdN7kXWTHp0JyHpaWM/ts
+#EXTINF:-1,Pluto TV Gaming TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYIslBFpXXZTriDghh2XFiY/ts
+#EXTINF:-1,Pluto TV Logo (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ_DwTRLrr2Vu1VE8-O9-ws/ts
+#EXTINF:-1,Pluto TV MinecrafTV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW7FU2K4TUnP2A_FxL6-w3o/ts
+#EXTINF:-1,Pluto TV MTV (Brazil) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQCuU9ECbmzE3zKWNgifgBs/ts
+#EXTINF:-1,Pluto TV Pluto All Reality by WE tv (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfg5XdKGwJgLdnUL8GEdbSo/ts
+#EXTINF:-1,Pluto TV Reality (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZaS9me7dVt8VD0v5njpOzc/ts
+#EXTINF:-1,Pluto TV Reality Italy (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbY9iOQzho6mQKHuJU_Bz1g/ts
+#EXTINF:-1,Pluto TV Retrô (684p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXIIiuX0Rr0MxpQw2YFfTCk/ts
+#EXTINF:-1,Pluto TV Showtime Select (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdm1LMZ_KQX0MORJXCUPkys/ts
+#EXTINF:-1,Pluto TV Stories by AMC (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUJe3bswitHC_TXFwdym3Gw/ts
+#EXTINF:-1,Pluto TV Suspense (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgew9pzdvk9j472FmhfNbYI0/ts
+#EXTINF:-1,Pluto TV TROLL TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWco9VYkLX7rAz65jtKzCHs/ts
+#EXTINF:-1,Plymouth Rock TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTe0wxyfatfUG6ry2hrw3N8/ts
+#EXTINF:-1,PMC (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbarU9Xj0wqomZTEoApYJIM/ts
+#EXTINF:-1,PNN News (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYjrQdjvm1oYRBmkZGP5kb4/ts
+#EXTINF:-1,Pogo
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS6XO8fXKqJ0FETFX9xlSZM/ts
+#EXTINF:-1,Power Max Radio TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWEzByqcD9NqDXRmhlXVLpY/ts
+#EXTINF:-1,Praise TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW9jThp_fIkWZQ9TmLH_j_k/ts
+#EXTINF:-1,PREMIER SPORTS 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd8xRRQ0UaiHFPnKlArwZ50/ts
+#EXTINF:-1,Premier Sports 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdHio0tJZy-c_g8j5Kf7c_Q/ts
+#EXTINF:-1,Premier Sports 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVhn2rzkiu0zctIkkGwn4js/ts
+#EXTINF:-1,Prime Asia TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgalYha3PVWN5UKkItvu9Kfk/ts
+#EXTINF:-1,Prime Canada TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTcXHv1vGRct1bpmH5YnHeU/ts
+#EXTINF:-1,PTV Home
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXjVHscUZ4zi9uyNAA6c5iQ/ts
+#EXTINF:-1,PTV Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeThbY9ru4p9qcyUlYBK8oQ/ts
+#EXTINF:-1,PTV Sports HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbTL5EiGytGgeUYw-CyOjZs/ts
+#EXTINF:-1,Public TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXqK60hN2d1UM3QDtz3jwrk/ts
+#EXTINF:-1,Pula TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXHVR29TDeQFNV5rt47zZ6c/ts
+#EXTINF:-1,Punjabi Hits
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR4tprlcT2NJs0bf2Bg29lg/ts
+#EXTINF:-1,Q Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfoKzeU8C_iNzFFAjoQ8XcI/ts
+#EXTINF:-1,Qatar Television (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUJhy4H7j97PYPZPr8VKpjE/ts
+#EXTINF:-1,Qatar Television 2 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXuxM2-l2PgVH_CXRxKr4v4/ts
+#EXTINF:-1,Qello Concerts by Stingray (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfCJGWtew-6sDDNqHubiwc0/ts
+#EXTINF:-1,Qello Concerts by Stingray (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgewCIRkFwMqcpAraIK-9eRI/ts
+#EXTINF:-1,Quest
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYme-y62_GErZsCyitP9o_c/ts
+#EXTINF:-1,Quo Vadis Ministry TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ8g0NSN0Zzk_959AQSx4jg/ts
+#EXTINF:-1,R&E TV (480p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTBD9C4hPTZGXSqVtZCBMFE/ts
+#EXTINF:-1,Raapchik
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbIbxawZLzWdgNwV-Qxkzro/ts
+#EXTINF:-1,Radio Carnaval TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV8xAGbmfRjj5sqr-M0tNYE/ts
+#EXTINF:-1,Radio Continu TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcVgooiTskB61ihOe_CVBbg/ts
+#EXTINF:-1,Radio Czwórka (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSEJanwzm9J2xa_FXtUEo00/ts
+#EXTINF:-1,Radio Yaucana TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQKCBah8r99LFOz1_4UzB6Y/ts
+#EXTINF:-1,Radio Yguazú TV (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYD-fq97oFUHRy_J-fw3JlM/ts
+#EXTINF:-1,RadioInka (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU035KGDS7cVtWglc_m70Mo/ts
+#EXTINF:-1,RadioToppers (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWvhWtmbpXbY2uOGYQXtqfk/ts
+#EXTINF:-1,RAI Italia Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXOVwOP9MbJmR1340IIMSxI/ts
+#EXTINF:-1,Ran TV Israel (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWdjio9oS-sqgTSCo7s5DSg/ts
+#EXTINF:-1,RCN Mas
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWMka0UECsjTXSh3FoA3Vak/ts
+#EXTINF:-1,RCN Xtra (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWHix9pEGug7AhwCprjhtRs/ts
+#EXTINF:-1,Redbull Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTZyhu8HFBE9Qmh7lV9Vxec/ts
+#EXTINF:-1,Rede Mundo TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQDQDg96u9rCLF9-O_AD0zA/ts
+#EXTINF:-1,Rede NGT (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS95fiP0ASMovGHyn_CTnXU/ts
+#EXTINF:-1,Rede Premium TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQyfaH8p9TYXrAF0_x5_bEg/ts
+#EXTINF:-1,Republic Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeQjsvVhD8_MzAO1qM9YryM/ts
+#EXTINF:-1,Republic Bharat
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdRyh3TJUgWJIISK1lIigGU/ts
+#EXTINF:-1,Retro TV (KCKS-LD9) (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV6irDcyw8JFVAZsprspqXw/ts
+#EXTINF:-1,RetroMágico (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb-XWLYSp4vnRbus8s2W-NY/ts
+#EXTINF:-1,Rev'n (KCKS-LD7) (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd3pYRMnT-F4XIUJOgdwcZM/ts
+#EXTINF:-1,Rise TV (240p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQn0hc-1yNQC5zibuffPESU/ts
+#EXTINF:-1,RizaNova TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUxCjDVo511eGaroLFEWLec/ts
+#EXTINF:-1,ROCK Action
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgahijos3gIxk3-MSTxh4tys/ts
+#EXTINF:-1,Rock Entertainment
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdwLIS0tSHviAIg-1huclxw/ts
+#EXTINF:-1,ROCK Entertainment (576p) [Geo-blocked]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVLfhOn_G8eabeW-g9WI6t8/ts
+#EXTINF:-1,Rock Extreme
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgduqxOP2AlNezfZP9vOADnA/ts
+#EXTINF:-1,Romedy Now
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSEyjk1OtvG73kPOpHGh0lo/ts
+#EXTINF:-1,Rongeen Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQfxJEoTqzYHTqBM5IpduLw/ts
+#EXTINF:-1,ROTV Valencia (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQMIoEtSVpb3tN9oYlzExQ8/ts
+#EXTINF:-1,Royal Time Television (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZl2FYpj9ahoXMNwZf6Obsc/ts
+#EXTINF:-1,RPLUS News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYLTW_tmvb6--pKTkPOR52c/ts
+#EXTINF:-1,True Football 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcyqmP56OJX4wj18DI4M9GE/ts
+#EXTINF:-1,RTP Internacional Asia
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZigwkudW8pO8-XXCqa2734/ts
+#EXTINF:-1,Rtv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbg3QZQOOJvJ5TgydikRZ_g/ts
+#EXTINF:-1,RTV Naranjal (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU_f9qAPlAfhfkZvgAt6sHY/ts
+#EXTINF:-1,Rush Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfnl33OgoA5IeWCnyLPYzaA/ts
+#EXTINF:-1,SA TV D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYnnQFgIEy-s-z0_FQ1xP4w/ts
+#EXTINF:-1,Sada TV (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUORQUUtZ2Dr5iM0Q2u29Ss/ts
+#EXTINF:-1,Salaam Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb4JAo-yLy9b8cvl-qCvtbg/ts
+#EXTINF:-1,Salto 1 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT_ZeWzxpD4uXXGj4PpFw9Q/ts
+#EXTINF:-1,Salto MaLive (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYKja3GpS7a9sEEZQXrPkkQ/ts
+#EXTINF:-1,Sana TV (576p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYZBQ4YKr6RldacOv_O3CyU/ts
+#EXTINF:-1,sananda Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQHlrbd4u-ZjjOtlyYKjsLI/ts
+#EXTINF:-1,Sangeet Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWOBBsAjJB2nzyqOQ8vKKBE/ts
+#EXTINF:-1,Sangeet Bhujpuri
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdpdZL2DcFOId0GH9W4y7ys/ts
+#EXTINF:-1,Sani Wani
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWs82zoD7ANZOiG3fSPmgYw/ts
+#EXTINF:-1,SAS TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge2hlsxropEybH11wcnKzcM/ts
+#EXTINF:-1,Scripps News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVxafxVnFxYzpyL3leBDowg/ts
+#EXTINF:-1,SEO TV 6 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQmWj5dbn46NfirK9PEx3WA/ts
+#EXTINF:-1,Serie A Live 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXK_jh4RwOgJ69kkynHGXyw/ts
+#EXTINF:-1,Serie A Live 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdPyBtKQpSjtjagJFsxCOTI/ts
+#EXTINF:-1,SET TV 2 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQihBVX3IHOSSOU4SACcL2o/ts
+#EXTINF:-1,Señal Positiva TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRzUSo23cd2ftpf4aEC7Qo0/ts
+#EXTINF:-1,Shadin Bangla TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcXyZeOIDFOr79_eEdIzeC0/ts
+#EXTINF:-1,Sharjah Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfgWckEsXXLqpG3KRYrJcqU/ts
+#EXTINF:-1,Shemaroo Bollywood
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ-diRUvcOEa7jDrtWZrHWM/ts
+#EXTINF:-1,Balle Balle
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcRk-T9blyEiB2vJJSjq-68/ts
+#EXTINF:-1,Shemaroo Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfos057Vv0w26i2p5UctU-E/ts
+#EXTINF:-1,Show Box
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbhXOklJ3DFkUVSBhWT2gZo/ts
+#EXTINF:-1,Showtime at the Apollo (432p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXK4tcYCzPNe7dDiUCdM3CA/ts
+#EXTINF:-1,Sikh Spiritual Centre Rexdale (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgce-tK3tS55qiby6WIlip3U/ts
+#EXTINF:-1,Simclar TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUaU0LeHQmy9-gcIgH9x-BY/ts
+#EXTINF:-1,Sky Cinema Action
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYG1DxntL6OWViwHitxrn0A/ts
+#EXTINF:-1,Sky Cinema Sci Fi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgau8HgX_WTq-xkx_XcTCYFk/ts
+#EXTINF:-1,Sky news
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTCrpCyunAtwGIbJqciRe_c/ts
+#EXTINF:-1,Sky Sports Cricket FHD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXstbbqgP8Zz922nrGoxUXg/ts
+#EXTINF:-1,Sky Sports Cricket HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZUzSOzWu3T6tQH3AO3IL4A/ts
+#EXTINF:-1,Sky Sports Cricket HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVgGbBMkssTvFz4Yd78FRoo/ts
+#EXTINF:-1,Sky Sports Football
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU7Km60nRrvu6tRMx4XTyiU/ts
+#EXTINF:-1,Sky Sports Main Event
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaavThZiUXv-atqfFsJ0FOo/ts
+#EXTINF:-1,Sky Sports Premier League FHD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQHIbOLDEjL37bPokbH6-vo/ts
+#EXTINF:-1,Sky Sports Premier League HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb_blGB432pQF_ZMcu405XA/ts
+#EXTINF:-1,Sohail TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTnRp06tR7mkaJ7aXwXxGrw/ts
+#EXTINF:-1,Somos Topo Point TV (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbhdqs8N7Em-jGmN-0lXS60/ts
+#EXTINF:-1,Somoy Tv HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTyN7bGriiU905bxkkqV7gc/ts
+#EXTINF:-1,Sonic Hindi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTkU5NhaJGaybQqvLcM92QE/ts
+#EXTINF:-1,Sony Aath D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUYWXatmG0bl5o-zB7ShwSU/ts
+#EXTINF:-1,Sony Aath Global
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcUsjI57bs_cBFY3OFpZ3DI/ts
+#EXTINF:-1,Sony BBC Earth D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUNHyFIxPHgLw3WpQDblx8g/ts
+#EXTINF:-1,Sony HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR6EIsn-i4afDjcj1LIIF9Q/ts
+#EXTINF:-1,Sony HD UK
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcVyZ9DlkBEaqfb1cg-_0-g/ts
+#EXTINF:-1,Sony HD USA
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYbnNnu5JbolAg0fdK5tYeA/ts
+#EXTINF:-1,Sony Max 2 D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUVUR-tBOn146Sz6KpYgRU8/ts
+#EXTINF:-1,Sony Max HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSbiSqm0lg7xQ_Xq69oK1vc/ts
+#EXTINF:-1,Sony Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYxsy4XWr7S6QFho3fVuP9E/ts
+#EXTINF:-1,Sony Pal
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZzUVpH7gJWPUIZMjpTAjp0/ts
+#EXTINF:-1,Sony Pix HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSWgB-m0gj9c7HnL0MfXe3w/ts
+#EXTINF:-1,Sony Sab HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbL3kXi3bJkjS2nglehxIRU/ts
+#EXTINF:-1,Sony Ten 1 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS8CdY89PRtmzEkGK6s0CEE/ts
+#EXTINF:-1,Sony Ten 1 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRUTh_cwOqm9kfGDFcKNXiM/ts
+#EXTINF:-1,Sony Ten 2 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeQ9oyZ3jGjdzlLqWpfP86g/ts
+#EXTINF:-1,Sony Ten 2 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeFTLG1tyfC3roclO-Hjrrs/ts
+#EXTINF:-1,Sony Ten 3 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgScWahqiYZJZ8bYv-P8YPaI/ts
+#EXTINF:-1,Sony Ten 3 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT_YzSQQIuG_BLsEDpdDfCk/ts
+#EXTINF:-1,Sony Ten 5 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWTXvxY6PM06IV5ML7ANMMw/ts
+#EXTINF:-1,Sony Ten 5 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUDuCAhY_-QHRxqBBGtFhGU/ts
+#EXTINF:-1,Sony Yay Bangla D2H
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUvTCEGEnRgxr5O7lbh1F-k/ts
+#EXTINF:-1,Sony Yay Hindi
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgThyeSgPP9IyujgiMZ-ZPRo/ts
+#EXTINF:-1,Sooriyan TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdaDpYdtZ09Qk0soHzDtEuo/ts
+#EXTINF:-1,SPC 4
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX3nmvbzjd5B_cIzyE25Kr8/ts
+#EXTINF:-1,Sport tv +
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf1akqeGAF4fYC_b8aTDZqg/ts
+#EXTINF:-1,Sport Tv 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgf-fco-TPyxHqiX5Ycr7n_w/ts
+#EXTINF:-1,Sport Tv 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWLyK4gB-L5y4C8BZgcW1n0/ts
+#EXTINF:-1,Sport tv 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRhhm4s5dZYHCAj15TrDDEA/ts
+#EXTINF:-1,Sports Max Racing
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcTyZSox1ArZjiPuwwSyCZo/ts
+#EXTINF:-1,Sports Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQqC2tSkdVGdJOB6KKkhc7Q/ts
+#EXTINF:-1,Sportsnet ONE
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdsAZe-Nb-QYMsRuXZ-OwY8/ts
+#EXTINF:-1,SSC 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRI3ZzyC5vYyrGnIUSjHSoM/ts
+#EXTINF:-1,SSC 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdaoVrVL7bJxQTpxsj2dvvY/ts
+#EXTINF:-1,SSC 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcqcmvAr-EJkhM2AxhLBHUg/ts
+#EXTINF:-1,SSC 4
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX-PuUYIGNoZPERB32ZUmj8/ts
+#EXTINF:-1,SSC 5
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbAzAgK_pGB3iQX5z-smZOg/ts
+#EXTINF:-1,ST Europe Channel (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ7GaJia0MT1wHzsRJ7FJQE/ts
+#EXTINF:-1,Star Bharat HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge3If2ChY55DWtejkS9bzlg/ts
+#EXTINF:-1,Star Gold 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZ8HalK0yNism9G5DI1NbMI/ts
+#EXTINF:-1,Star Gold HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXbDzYITtcb_-JycQYCA3xo/ts
+#EXTINF:-1,Star Gold Romance
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX2FpAgLjKVM-sjZQn0cKUk/ts
+#EXTINF:-1,Star Gold Select HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbSARCdfNgn16kG2q97zvBk/ts
+#EXTINF:-1,Star Gold Thrills
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBga9xWkafwz1Nc9mcPZezjJ0/ts
+#EXTINF:-1,Star Maa Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYIDBdfWFbBe2_Pl56qRO_Q/ts
+#EXTINF:-1,Star Movie Select HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUwrENOYmaLrz0g5OkJ2Lik/ts
+#EXTINF:-1,Star Movies HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBga09NR0jmqnJ5n3T7FvcIjg/ts
+#EXTINF:-1,Star Plus HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbxitnFPcvM5RSxvrXjAAc8/ts
+#EXTINF:-1,Star Sports 1 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT_EbjSqhwOjwkg0IaCBhik/ts
+#EXTINF:-1,Star Sports 1 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZlFbpWEoQGfjgJktVt5ON4/ts
+#EXTINF:-1,Star Sports 2 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUhHtnNx0GajwQ8kWvh7nZ0/ts
+#EXTINF:-1,Star Sports 2 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY6n7LKPAnBiIML515KiJAg/ts
+#EXTINF:-1,Star Sports 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbc3qmSpnZKjtynFmw3LWS4/ts
+#EXTINF:-1,Star Sports select 1 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZs82YlgjK5G0o9X4qG_a-Y/ts
+#EXTINF:-1,Star Sports Select 1 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTLaw5FHDGWvZU9lCQuNTBA/ts
+#EXTINF:-1,Star Sports Select 2 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgejlBrDDsQc9BBslIny2OCo/ts
+#EXTINF:-1,Star Sports Select 2 HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSmWTHh78msNTcf1_gzcOrk/ts
+#EXTINF:-1,Star Utsav
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTEtV_7mR5mM7HUv8WG0AZs/ts
+#EXTINF:-1,Stingray Classic Rock (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZrdjteWB4F5B8hupfJTEcA/ts
+#EXTINF:-1,Stingray Djazz (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfT9MZj0NlrajeNRWbkgix8/ts
+#EXTINF:-1,Stingray Everything 80s (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWbSdT5dDVK0OpW8Xe5ikeY/ts
+#EXTINF:-1,Stingray Hot Country (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaIBbI29Maz_ZIHMDZJ5dOY/ts
+#EXTINF:-1,Stingray Pop Adult (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcTq8mipyvKn_xMpX15GE18/ts
+#EXTINF:-1,STIRR It's Showtime at the Apollo (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVg6cg0I0WJkOOHjEGt9Scg/ts
+#EXTINF:-1,STIRR Popstar! TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcgW-dJ8mGIrEckEey0erso/ts
+#EXTINF:-1,Sucre tv (360p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUdJDOAxwoF-gxIMD6BF3FY/ts
+#EXTINF:-1,Sun Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZqoFU9gW74EUlNNzlCNCBs/ts
+#EXTINF:-1,Sun Music
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTrtK_qxBkJRaqvTaZ2RVXo/ts
+#EXTINF:-1,Sun TV (544p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRmYWyYpgnPWgG4B7-IlfkQ/ts
+#EXTINF:-1,Super Hungama
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT1KcjEG2ccb5I9t9Y_XGYI/ts
+#EXTINF:-1,Super7FM (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgapoY3K-gvKluUl_dCGZZtk/ts
+#EXTINF:-1,Supersports Premier league HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZnwjtxmJB_oRVmvBLr0gEo/ts
+#EXTINF:-1,Suria
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBga2-Uj8RCB-c0Xr_ZQuFvfY/ts
+#EXTINF:-1,Swantham (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcU21lYrrLnOTiV7XJPdois/ts
+#EXTINF:-1,T Play Music
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYWf1HLk5h9kSFMNrnGZrm4/ts
+#EXTINF:-1,T Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfnIbew_UfCt6YK7KFBbk4o/ts
+#EXTINF:-1,T Sports HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSRR058T2S78D1JTOrYt1Yo/ts
+#EXTINF:-1,Tabbar Hits
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdMTY-JD-KRR2ZbS1tF0VOY/ts
+#EXTINF:-1,Tamil Vision TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQZ2hFtEfCCJufmlkvuDnYw/ts
+#EXTINF:-1,Tamilan Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgThe_sgkHqvHX5RkNQs58E0/ts
+#EXTINF:-1,Tara Bangla Cinema
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUlYs4sEQjIQtuCo9Vt0Ecw/ts
+#EXTINF:-1,Tara Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTY53jX5e_Yyh_Dy8pbCBsw/ts
+#EXTINF:-1,TBD. (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbeZWdOasW9F3MZFROoMcyQ/ts
+#EXTINF:-1,TCF TV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWav5eCtgmtZP2j6yYj_SSM/ts
+#EXTINF:-1,TDM Entertainment Ch. 95 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcWxLXz66PMTY5T85ogXy70/ts
+#EXTINF:-1,Te Lo Cuento y Que...!!! (360p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaG1URQtia7_I0B2dS2vVrc/ts
+#EXTINF:-1,Tech Storm
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUWgyS66IYkgureZ6MI5GKE/ts
+#EXTINF:-1,Tehzeeb
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgejQpMMOeYACoWtUpc5tsPU/ts
+#EXTINF:-1,Tele Boston (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXsG87iVZ9BV-fJNIUbw2AQ/ts
+#EXTINF:-1,Tele Culturelle Medias (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgekJrBxJmv-kXcCbN1BWyjo/ts
+#EXTINF:-1,TeleMIX (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgar-8oYyWAUUv6uMAQ9r0WM/ts
+#EXTINF:-1,Teleplay Sureste (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSsDxAR6Oq5YG0jl14o-Xfc/ts
+#EXTINF:-1,Telerayo (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ-BS7AL9p7wQyHoeek5Gn8/ts
+#EXTINF:-1,Ten Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgacSZRz54HH4KXWIJ6s27F4/ts
+#EXTINF:-1,Ten Sports HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWnbufdqTaGptuTGNsxp1Tk/ts
+#EXTINF:-1,Tennis Channel
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS1qA0qFW5bt2ArKuYGs5iY/ts
+#EXTINF:-1,TF1 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW8M6a-L3ovGeKmFWBhxg4k/ts
+#EXTINF:-1,The Amazing World of Gumball
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQVqHgnMHZAsoW3rgvRiGf8/ts
+#EXTINF:-1,The Amazing World of Gumball
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgReoAmvHnAJP3Q3kJRWerSA/ts
+#EXTINF:-1,The Grio (KCKS-LD8) (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbt9pgyS2IfJJaGNE8667Nc/ts
+#EXTINF:-1,The Love Destination (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWkONJBTllzHlDjGCZ1rHRE/ts
+#EXTINF:-1,This is Bulgaria HD (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZctqVUilSDy7t3Suqc4y9k/ts
+#EXTINF:-1,Thrill
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcK9Cpky8S-NrllYqGLmPVo/ts
+#EXTINF:-1,Tica TV+ (288p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgT_d7Wl1Vt_XB9N2kMAbYrg/ts
+#EXTINF:-1,Timeline
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTpr6L_ij_elka5I5N5h52s/ts
+#EXTINF:-1,Tin TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ2OIsuJxXlluCS4NbMLxUY/ts
+#EXTINF:-1,TLC HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdpxbMwo0ZQpmGtfTpWBKmU/ts
+#EXTINF:-1,TMZ (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbml2dgsWSmkV1Ru1c1PTW0/ts
+#EXTINF:-1,TNT Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWBJn5cV64aITHUmK6RRKW8/ts
+#EXTINF:-1,TNT Sports 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgR1RXzMis-Io0LHYwBeHVYE/ts
+#EXTINF:-1,TNT Sports 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTZjpmxxk6u8yYCJpBtLHn4/ts
+#EXTINF:-1,TNT Sports 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV-yh6XHw6Y_5qZGijJ2yZ8/ts
+#EXTINF:-1,TNT Sports 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYpnGED9XekG5BEQ4SPx_Iw/ts
+#EXTINF:-1,TNT Sports 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSz8TNIApHnq1-g-1910W3I/ts
+#EXTINF:-1,TNT Sports 4
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSB4S8Bn89H_M3SVjAte1Ic/ts
+#EXTINF:-1,Today's Shopping Choice (TSC) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge1Tpa56UUoV1z6QJ2PAczg/ts
+#EXTINF:-1,Tom & Jerry
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWkJMj3l5sC-9V9vMxLpkZk/ts
+#EXTINF:-1,Tom & Jerry
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb82RWytq3snulP9KAS405U/ts
+#EXTINF:-1,Top Gear (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfWUw9tQep5wfRwBmm1oCT8/ts
+#EXTINF:-1,Toroni tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQ79whwbQDP5zNLxDQFkxSQ/ts
+#EXTINF:-1,TR24 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgblU2ep1NnZAUJMDOMwM5xo/ts
+#EXTINF:-1,Trace Sports
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTyC1g-6z07Xk8qco1eSSU4/ts
+#EXTINF:-1,Trace Sports Star
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUbAyf6QoMWraoABRN0evcI/ts
+#EXTINF:-1,Trace Urban
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdBEwnnWNumPLDW-xj-GeUQ/ts
+#EXTINF:-1,Travel Channel
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeOHNR-666RPxdQHKOMrRKU/ts
+#EXTINF:-1,Travel XP Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgb-YUZWXigk2ur2WpGrRN-8/ts
+#EXTINF:-1,TSN 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgalvcx6AwCKdcrwwGPP6o1U/ts
+#EXTINF:-1,TSN 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgV9vRA8z52skSnL5wZiuHnk/ts
+#EXTINF:-1,TSN 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVREJuJ13-avFJ30tSany68/ts
+#EXTINF:-1,TV 9 Bangla
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVK6argRSZMm--fLZ1h3rC4/ts
+#EXTINF:-1,TV Arbëria 5 (700p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVVcIdDUnaYr-N3A8raniWU/ts
+#EXTINF:-1,TV Boqueirão (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaFsCKzemUd4Kf-g0Hgg_Rc/ts
+#EXTINF:-1,TV Centro 27.2 HD (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWtcmkRRNw4Ei8_ZU8BqBLs/ts
+#EXTINF:-1,TV CN Agitos (360p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSUYo5tKXymoegWmLfkpzss/ts
+#EXTINF:-1,TV Cordeiro (360p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSlUKYhgUbTxl-CicI9yhWA/ts
+#EXTINF:-1,TV Curuça (360p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdMiyxX3YeExwtr-DA97jp4/ts
+#EXTINF:-1,TV Daja (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUtnTpo11EA4RBX8rjCdK2g/ts
+#EXTINF:-1,TV Digital Biriguí (640p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBga05tkkZo-O_x0NBpMrLv6o/ts
+#EXTINF:-1,TV East (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdviV7mUiTQ90Ad8UZzQPnM/ts
+#EXTINF:-1,TV Empire Magazine (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdSrIPrGp2znOxMd8PyAN80/ts
+#EXTINF:-1,TV ERA [Geo-blocked]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYm0hXAFHNNygXj9q_tnEbk/ts
+#EXTINF:-1,TV Faces Online (360p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge9KxQiMF_30ChGmI951vKA/ts
+#EXTINF:-1,TV Grande Natal (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYYgr-7xpMFXwi4bXwPk5XQ/ts
+#EXTINF:-1,TV Nova (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUasgJQrWreTiuEF_ZrEGgE/ts
+#EXTINF:-1,TV Ponta do Seixas (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWu9e-GtanoQL1cfBVym-x4/ts
+#EXTINF:-1,TV Pop (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXIhD0345Ivz5P0KTdow-9w/ts
+#EXTINF:-1,TV Precabura (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZoseFikmxFlZLV2wpRnGYI/ts
+#EXTINF:-1,TV Punjab (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdUnhvL6mCS6tq4BeZ-znA4/ts
+#EXTINF:-1,TV Rio Grande (360p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgU58X_pk0uyrFTOmcTivoiM/ts
+#EXTINF:-1,TV Viçosa (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWeudLL9XErveNGiXU7a5u4/ts
+#EXTINF:-1,TV Zoom (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUlFMNCIt1rRV2QzfYr0RkY/ts
+#EXTINF:-1,TV5Monde Pacifique
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeMo4j9lRM3-gq-BWuPMSY0/ts
+#EXTINF:-1,TV84 (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd0nretyqOB6lMyQflugQfA/ts
+#EXTINF:-1,tvN Movies
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeEEXQuWHaSfqgpW5uyTV-k/ts
+#EXTINF:-1,Télé-Québec (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWcJjBi6PwVpxK_4LJtpIuI/ts
+#EXTINF:-1,UEFA Champ
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTEuaEvz2SsDXB5spYqQhM0/ts
+#EXTINF:-1,Uvagut TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgUTsCZkLTLsdPisOscgzLlE/ts
+#EXTINF:-1,V2 Beats Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdeRPpuMaafoz_SeeuJEk2g/ts
+#EXTINF:-1,Vanaam Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeXuAVKLHsb79QOnAgx3tvQ/ts
+#EXTINF:-1,VariedTV (480p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQNm-uSrxs0IXZlJ0c30HpI/ts
+#EXTINF:-1,Vasantham
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBge_HmzKLDGu3Sq_yevXGSNA/ts
+#EXTINF:-1,Vati Lao TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSTDuimT9H9FK1mcuCtG2uk/ts
+#EXTINF:-1,Velicham (360p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgS_cqzUI6C2tQUGIK7PKfHw/ts
+#EXTINF:-1,VENN (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd8F20-ryufYdiVi0P2B_iA/ts
+#EXTINF:-1,Veracruz Multimedios TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgToGOltKRpkJPNNCK4Mbm-0/ts
+#EXTINF:-1,VH1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgawSg_WhOJP9eAz_jdRFRao/ts
+#EXTINF:-1,Vikatan Tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYFrGW5fhk4xTHXxR3um0CM/ts
+#EXTINF:-1,Vistara News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgeKcOfiJj1JjugXal3KkiQo/ts
+#EXTINF:-1,VIVO TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTV1-krSEYQctZfBczY6sZc/ts
+#EXTINF:-1,ViX Parejas (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc4Thjx34Gh-3KYn5cn78LA/ts
+#EXTINF:-1,VOICE TV (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZwkLuCmZcyPyOXBoRfzG6A/ts
+#EXTINF:-1,Vorterix (1080p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYSaO0BbHm0WON7lNl4BHLs/ts
+#EXTINF:-1,VRT Channel (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSPjNBxcKcZ7oiQSvmamSEk/ts
+#EXTINF:-1,W14DK-D 14.3 RetroTV
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZSmIz5OFAvvFZg9YGZ3EnA/ts
+#EXTINF:-1,W14DK-D 14.7 Heartland Channel
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXcbkc8I_iNUOqIlYzARGnk/ts
+#EXTINF:-1,Wanasah (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdDJL-fgOfNsB9gB4O8EtNo/ts
+#EXTINF:-1,Watan-e-Maa TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcSnKqwF2apdqcToVNcAlm4/ts
+#EXTINF:-1,WEB TV Paixão FM (360p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaGcUtmr6hK4eZ15wv6GwO0/ts
+#EXTINF:-1,Web TV Água Boa (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd3WUWrl_sluSgcNzy3OaRI/ts
+#EXTINF:-1,Willow HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfTFJJzaX1VAGvJSJ0F1j_M/ts
+#EXTINF:-1,Willow HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRXv3kPkcKL9ecwwlwj77-8/ts
+#EXTINF:-1,Willow HD 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVs8rx-3VI0WcIkfrwfFYSE/ts
+#EXTINF:-1,Wion News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQqbTG-yKOTuyTYlWcs6Iho/ts
+#EXTINF:-1,Wipeout Xtra (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZScRMqeKfSCxsy33DIHfW0/ts
+#EXTINF:-1,Wow Cinema
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdDv-l4mWwB6TGPNCLkql78/ts
+#EXTINF:-1,WRUA-DT1 (Tiva TV) (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdIjmmnTNFYIg1-IKdJCNpE/ts
+#EXTINF:-1,WTV Brasil (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYjqLzABzz6aLy8jjtayHqI/ts
+#EXTINF:-1,WTV Canal 20 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgShab__Z-1zRuO96w4nJo0w/ts
+#EXTINF:-1,WWON TV CH 48
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc6sB3HWUI0FrYOx4DSTYsI/ts
+#EXTINF:-1,XLevel TV (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfkx0ox-YIuAUOwoEkdm7XE/ts
+#EXTINF:-1,Xplore
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgaapMPiI93u3TrMtzQzaIOg/ts
+#EXTINF:-1,XPTV2 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXyXrmvWuTmdYaiYzypQb5I/ts
+#EXTINF:-1,Xti Network (288p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcBTjBaff7ikSv39lDkNG1M/ts
+#EXTINF:-1,YATVO (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd1KJBgivXnY4gQmi7cKS-w/ts
+#EXTINF:-1,Young Hollywood (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRQweiNYEm8HZuujoyLITlk/ts
+#EXTINF:-1,YourTime TV (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfgl22_BX4wd9WVVxuvLUEs/ts
+#EXTINF:-1,Youtoo America (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdT_9Ayj0YpiqV7VfXFGNz0/ts
+#EXTINF:-1,yrf Music
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbni6H4lTqzoRHtTGdcwZ7s/ts
+#EXTINF:-1,ZB Cinema
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgd3wDcAA2ibI4YLCN7eexSk/ts
+#EXTINF:-1,Zee 24 Ghonta
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbZrgCA333zZJ3JoIh9wdeg/ts
+#EXTINF:-1,Zee 25 Ghonta
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZf2MoqHLChjawva1dcWZ7c/ts
+#EXTINF:-1,Zee Cinema HD
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWN6ZIIssEw6JbLd-O0mS4E/ts
+#EXTINF:-1,Zee Classic
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcSvD3BRvhVXtR9GOAeZRrw/ts
+#EXTINF:-1,Zee News
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgcMT2IhfKIIt_Zd6Wj3Tjpk/ts
+#EXTINF:-1,Zee Thirai
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbhKG8XSEGTt-PdyrJdp2-A/ts
+#EXTINF:-1,Zee tv
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgZzNNeO2HBeLmkhru2iSovw/ts
+#EXTINF:-1,Zee Tv HD India
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSjplznWz854z5oZOJ9B69E/ts
+#EXTINF:-1,Zee Tv HD USA
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfw9ywWrkSl6tj50oRZnCCE/ts
+#EXTINF:-1,Zee Tv Uk
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSv2qtDDklhQCH0gMr9h_38/ts
+#EXTINF:-1,Zona Play TV (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVK47HPkSXyyjFFzL3BqtAc/ts
+#EXTINF:-1,Zoo Moo
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfAVmpHuyEKAs-a__25zX00/ts
+#EXTINF:-1,Zoom
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbGqdcT-iAqwHmW_w7-PTJk/ts
+#EXTINF:-1,Zuglo TV (360p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVQnq-0nReFLSzizKEN0rNg/ts
+#EXTINF:-1,Домашний
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgSgFpvCeH-8uGn-DV07g93U/ts
+#EXTINF:-1,К1 (576p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgc2h5BtYfH5_eTx00I1JCsE/ts
+#EXTINF:-1,КВН ТВ
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTq4F2L7z53p0JjrK29-X20/ts
+#EXTINF:-1,МТВ (Волгоград) (720p) [Not 24/7]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgVytfaIwng9lus1nPHfBkO8/ts
+#EXTINF:-1,Перец
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgbVLPm2fK2Jhe6sMlN_e4og/ts
+#EXTINF:-1,Поехали!
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgdwM3NciazHdyuL84qq_bNg/ts
+#EXTINF:-1,Пятница International
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRj-QKVp4WaIJIP4GoYB-lU/ts
+#EXTINF:-1,Пятница!
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgWbWZjhMXvbEwlO-fzQuduo/ts
+#EXTINF:-1,Ратник (1080p) [Geo-blocked]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgfqAL2EHI8AuhH2MuSZW2JQ/ts
+#EXTINF:-1,Сварожичи (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgY-mQKp8bMFIthUYWfuJA1o/ts
+#EXTINF:-1,ТВ3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgQQYwIGtT8JKkpqhr0GJWF8/ts
+#EXTINF:-1,ТНТ
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgX237dvruTnLC1ZigjJl5oU/ts
+#EXTINF:-1,ТНТ4 (720p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgYo-qzb8RWJXsaksRlWYK10/ts
+#EXTINF:-1,Че
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTh8VQiv2evvmsl3okHssRc/ts
+#EXTINF:-1,Ю (576p) [Geo-blocked]
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXSNbHcRZRyryTZRKfxMAqo/ts
+#EXTINF:-1,天才衝衝衝 (1080p)
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgXcv-A_Fo-4CtSTM8m2_e-A/ts
+#EXTINF:-1,UEFA CHAMPIONS LEAGUE 1
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgW5yj2s41gr4FRwLKLAupo0/ts
+#EXTINF:-1,UEFA CHAMPIONS LEAGUE 2
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBganK0DEVuko2AaWWAzC9ZX4/ts
+#EXTINF:-1,UEFA CHAMPIONS LEAGUE 3
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgTqYc1VzH_73q8V-txC7J7Q/ts
+#EXTINF:-1,UEFA CHAMPIONS LEAGUE 4
+https://tv.bdixtv.top:8880/play/Gvl1BVLCJdVEUPIEUkMBgRkzA15FKz4-Uwzba3F875M/ts
+#EXTINF:-1,Toofan (2024)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLtg0XSyUmR-V4atP_0lHHdo
+#EXTINF:-1,Borbaad (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLhk5JEZz685KiHT1bQ0IVxA
+#EXTINF:-1,Jongli (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLvrUD4Hj1aTm2SROkFaqtng
+#EXTINF:-1,Daagi (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLrSMDq8TYmwYtFzasByOi8M
+#EXTINF:-1,Chokkor 302 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLkgBCL2_Ufyh3m-I20HjnNc
+#EXTINF:-1,Taandob (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLiMsaHvJhfYKRoJgN7rykWg
+#EXTINF:-1,Deyaler Desh (2024)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLudfZfp9-DSegcm8535NSQM
+#EXTINF:-1,Jinn 3 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLp75a0WPUpUOeSLJyXUgZYY
+#EXTINF:-1,Bahurup (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLkadjARdnB2LVHALys0UfOk
+#EXTINF:-1,Saralakkho Holmes (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLqVyfq8dLfYiUgu8I2M4msI
+#EXTINF:-1,Insaaf: Tale of Legends (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLoiUFxvWYbcU_Gp3G73WRKo
+#EXTINF:-1,Jhor (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLpIGI1R90TUx_khptsFYO4k
+#EXTINF:-1,Utshob (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLmJ8Eh94oF_NPL2FZkAE8CU
+#EXTINF:-1,Saiyaara (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLuYEfkbLggXRq9vojR1P2z0
+#EXTINF:-1,War 2 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLslMu_RDZO_04S-SdtzdOM4
+#EXTINF:-1,Sunny Sanskari Ki Tulsi Kumari (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLkMJ1UDsBHLc3um7I7njYCM
+#EXTINF:-1,Jolly LLB 3 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLpA0DYW2_mO2ILOKvao9SJE
+#EXTINF:-1,Son of Sardaar 2 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLkuSaU4I-kQggDxWul190dA
+#EXTINF:-1,Dhadak 2 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLjgNt5o8YOblB_ntKpAwMlI
+#EXTINF:-1,Homebound (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLgCkCKK-dbmWqkcnzPpEV_E
+#EXTINF:-1,Jija Sala Jija (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLhxZixjiFYB0py8_5JCkKTA
+#EXTINF:-1,Raghu Dakat (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLjVQy5zEpJ0QxZxhS2Dzv1A
+#EXTINF:-1,Raktabeej 2 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLvMqP1In7y317mfRuS_3YZc
+#EXTINF:-1,Param Sundari (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLvJ9ZqhNK_77F4awYZGa0h8
+#EXTINF:-1,Murderbaad (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLq3KdmH8WPuWCmUQrEUqSSI
+#EXTINF:-1,Gerakol (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLjk0RPPMlkiAk8xx9-MxdF0
+#EXTINF:-1,Thamma (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLl-kp3eyuloQp94xDJW0Dj4
+#EXTINF:-1,Bhagwat - Chapter One: Raakshas (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLr7nP8yIgLXSXwRr7_DPNLQ
+#EXTINF:-1,Ek Deewane Ki Deewaniyat (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLnMM9RZ15IYh_-PNUDlBcnQ
+#EXTINF:-1,Vash Level 2 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLmqe_axNbi-SzYsB0b10Cmo
+#EXTINF:-1,Ufff Yeh Siyapaa (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLohpK011zsr0N-wyahy300o
+#EXTINF:-1,Nishaanchi (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLkg3pXYmx07zkLQfqR6lvHA
+#EXTINF:-1,Rangbaaz: The Bihar Chapter (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLtSkRcNVVHiLZm1f6P2bZpE
+#EXTINF:-1,The Taj Story (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLp-tcgbtfsVagURcF7C70fw
+#EXTINF:-1,Baramulla (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLv9jCWSO9SKodkPyeG5AtRc
+#EXTINF:-1,Haq (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLlzdJxWxrALmEAHiRLVlSks
+#EXTINF:-1,Jombieland (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLrSwqdWpANvs4d1GnbcZOS8
+#EXTINF:-1,Ek Chatur Naar (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLhB0Q-SPLhNNQRMdp-V9st4
+#EXTINF:-1,De De Pyaar De 2 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLpZ2FHE5o6Jvittjx9fl6GY
+#EXTINF:-1,Mastiii 4 (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLnOM_rE6k6eGzlcbiWwatYo
+#EXTINF:-1,120 Bahadur (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLpfeZtBvx4MTfUc04NQhsos
+#EXTINF:-1,The Bengal Files (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLgyig3l203N0ltypUPNGjOo
+#EXTINF:-1,A Tale of Two Sisters (2022)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLkhCyBw8Mz2DE8nna0WZrxY
+#EXTINF:-1,Neel Chokro (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLrI5FoM-bXTiQaorz4SV85s
+#EXTINF:-1,Thursday Night (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLnOcTUJ-vOqZEPYo3h8-ph4
+#EXTINF:-1,Shortcut (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLggSfi1Il5b3zdp0oHc_BdY
+#EXTINF:-1,Poran (2022)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLk4smrEZcbSJSS35-N03aBE
+#EXTINF:-1,The Ba***ds of Bollywood S01E05
+https://tv.bdixtv.top:8880/play/ZtAQn5mNed7o5gy_py_mJ2EEdc6P1X6B6-lVuq4wUko
+#EXTINF:-1,The Ba***ds of Bollywood S01E06
+https://tv.bdixtv.top:8880/play/ZtAQn5mNed7o5gy_py_mJ_PVhaI_Iovo_aUgwC-_d3c
+#EXTINF:-1,The Ba***ds of Bollywood S01E07
+https://tv.bdixtv.top:8880/play/ZtAQn5mNed7o5gy_py_mJ_PBn51nPo6bF0Gq92mFnS4
+#EXTINF:-1,The Ba***ds of Bollywood S01E01
+https://tv.bdixtv.top:8880/play/ZtAQn5mNed7o5gy_py_mJ9YpWBqid5nAtjrsCJ9BfAY
+#EXTINF:-1,The Ba***ds of Bollywood S01E02
+https://tv.bdixtv.top:8880/play/ZtAQn5mNed7o5gy_py_mJ9LUSU0sDARz9H6vDgq5Uic
+#EXTINF:-1,The Ba***ds of Bollywood S01E03
+https://tv.bdixtv.top:8880/play/ZtAQn5mNed7o5gy_py_mJ1mxaDjbPncOiB-PDrAJjIk
+#EXTINF:-1,The Ba***ds of Bollywood S01E04
+https://tv.bdixtv.top:8880/play/ZtAQn5mNed7o5gy_py_mJ06KeQMZ_RvWaHUehYQmM-E
+#EXTINF:-1,Dhurandhar (2025)
+https://tv.bdixtv.top:8880/play/ahvojohvFEq-Nlg9UvQiLnTkqOQIHzES-reKQd5wvC4
